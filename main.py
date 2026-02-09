@@ -5,13 +5,8 @@ HAI922 - TALN 2
 
 Pipeline principal : chargement, prefetch JDM, apprentissage, evaluation, mode interactif.
 """
-
 import sys
 import time
-import re
-import json
-import os
-
 from config import LEARN_DIR, CACHE_DIR, RELATION_LABELS, TRAIN_RATIO
 from jdm_client import JDMClient
 from signature import SignatureExtractor
@@ -21,39 +16,16 @@ from evaluate import evaluate, confusion_matrix
 
 
 def parse_expression(expr):
-    """
-    Parse une expression 'A de B' en (A, B).
-
-    Gere les variantes : "A de B", "A d'B", "A du B", "A des B".
-    """
-    expr = expr.strip()
-
-    # Patterns de separation
-    patterns = [
-        r"^(.+?)\s+d[''](.+)$",      # A d'B
-        r"^(.+?)\s+du\s+(.+)$",       # A du B
-        r"^(.+?)\s+des\s+(.+)$",      # A des B
-        r"^(.+?)\s+de\s+la\s+(.+)$",  # A de la B
-        r"^(.+?)\s+de\s+l[''](.+)$",  # A de l'B
-        r"^(.+?)\s+de\s+(.+)$",       # A de B (general)
-    ]
-
-    for pattern in patterns:
-        match = re.match(pattern, expr, re.IGNORECASE)
-        if match:
-            a = match.group(1).strip()
-            b = match.group(2).strip()
-            return a, b
-
+    parts = expr.strip().split()
+    if len(parts) == 2:
+        return parts[0], parts[1]
     return None, None
 
 
 def interactive_mode(model):
-    """Mode interactif : l'utilisateur entre des expressions 'A de B'."""
     print("\n" + "=" * 60)
-    print("MODE INTERACTIF - Entrez 'A de B' (ou 'q' pour quitter)")
+    print("MODE INTERACTIF - Entrez 'A B' (ou 'q' pour quitter)")
     print("=" * 60)
-
     while True:
         try:
             expr = input("\n> ").strip()
@@ -67,7 +39,7 @@ def interactive_mode(model):
 
         a, b = parse_expression(expr)
         if a is None:
-            print("Format invalide. Utilisez : 'A de B'")
+            print("Format invalide. Utilisez : 'A B'")
             continue
 
         print(f"  A = '{a}', B = '{b}'")
