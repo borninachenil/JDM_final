@@ -1,0 +1,1 @@
+{"nodes": {"112154": {"name": "vaste", "type": 1, "weight": 5256}, "15312463": {"name": "en:fascicle of muscle fibers", "type": 1, "weight": 25}, "237711": {"name": "faisceau musculaire", "type": 1, "weight": 50}}, "relations": [{"node1": 112154, "node2": 237711, "type": 6, "weight": 105.0}, {"node1": 112154, "node2": 15312463, "type": 6, "weight": 30.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"10885": {"name": "fibre textile", "type": 1, "weight": 119}, "101290": {"name": "fibre", "type": 1, "weight": 1461}, "5812973": {"name": "Fibre", "type": 1, "weight": 27}}, "relations": [{"node1": 10885, "node2": 101290, "type": 6, "weight": 65.0}, {"node1": 10885, "node2": 5812973, "type": 6, "weight": 15.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"106265": {"name": "appareil", "type": 1, "weight": 4064}, "14201293": {"name": "transport vertical", "type": 1, "weight": 32}, "14201275": {"name": "ascenseur>14201274", "type": 1, "weight": 18}}, "relations": [{"node1": 14201275, "node2": 106265, "type": 6, "weight": 27.0}, {"node1": 14201275, "node2": 14201293, "type": 6, "weight": 29.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"9780": {"name": "engin", "type": 1, "weight": 758}, "213845": {"name": "engin explosif", "type": 1, "weight": 47}, "7420596": {"name": "en:manufactured object", "type": 1, "weight": 25}}, "relations": [{"node1": 213845, "node2": 9780, "type": 6, "weight": 93.0}, {"node1": 213845, "node2": 7420596, "type": 6, "weight": 30.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"254150": {"name": "oeuvre de l'esprit", "type": 1, "weight": 69}, "124433": {"name": "récit", "type": 1, "weight": 8134}, "223825": {"name": "histoire>124433", "type": 1, "weight": 192}}, "relations": [{"node1": 223825, "node2": 124433, "type": 6, "weight": 148.0}, {"node1": 223825, "node2": 254150, "type": 6, "weight": 27.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"142661": {"name": "zone", "type": 1, "weight": 5777}, "15208639": {"name": "en:battle zone", "type": 1, "weight": 25}, "14923241": {"name": "en:battle", "type": 1, "weight": 25}}, "relations": [{"node1": 15208639, "node2": 142661, "type": 6, "weight": 230.0}, {"node1": 15208639, "node2": 14923241, "type": 6, "weight": 25.0}]}

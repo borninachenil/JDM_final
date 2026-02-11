@@ -1,0 +1,1 @@
+{"nodes": {"5556844": {"name": "partie du squelette", "type": 1, "weight": 25}, "17116047": {"name": "partie du squelette humain", "type": 1, "weight": 25}, "3233": {"name": "partie", "type": 1, "weight": 12812}}, "relations": [{"node1": 17116047, "node2": 3233, "type": 6, "weight": 26.0}, {"node1": 17116047, "node2": 5556844, "type": 6, "weight": 26.0}]}

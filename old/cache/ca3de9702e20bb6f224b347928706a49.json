@@ -1,0 +1,1 @@
+{"nodes": {"14259014": {"name": "passage long et étroit", "type": 1, "weight": 25}, "64862": {"name": "passage", "type": 1, "weight": 7229}}, "relations": [{"node1": 14259014, "node2": 64862, "type": 6, "weight": 26.0}]}

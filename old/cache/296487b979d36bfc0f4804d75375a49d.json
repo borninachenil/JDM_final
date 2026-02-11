@@ -1,0 +1,1 @@
+{"nodes": {"14923302": {"name": "en:beating", "type": 1, "weight": 25}, "7468378": {"name": "en:corporal punishment", "type": 1, "weight": 25}}, "relations": [{"node1": 14923302, "node2": 7468378, "type": 6, "weight": 34.0}]}

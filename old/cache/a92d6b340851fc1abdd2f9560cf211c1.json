@@ -1,0 +1,1 @@
+{"nodes": {"3491409": {"name": "partie d'un navire", "type": 1, "weight": 28}, "125561": {"name": "drisse", "type": 1, "weight": 58}, "2022": {"name": "cordage", "type": 1, "weight": 246}}, "relations": [{"node1": 125561, "node2": 2022, "type": 6, "weight": 58.0}, {"node1": 125561, "node2": 3491409, "type": 6, "weight": 45.0}]}

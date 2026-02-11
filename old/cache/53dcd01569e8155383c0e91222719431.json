@@ -1,0 +1,1 @@
+{"nodes": {"10875": {"name": "projection", "type": 1, "weight": 2973}, "92454": {"name": "projection plane", "type": 1, "weight": 83}}, "relations": [{"node1": 92454, "node2": 10875, "type": 6, "weight": 180.0}]}

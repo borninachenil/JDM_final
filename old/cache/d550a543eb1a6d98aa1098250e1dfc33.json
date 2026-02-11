@@ -1,0 +1,1 @@
+{"nodes": {"238998523": {"name": "matériau cancérigène", "type": 1, "weight": 25}, "97739": {"name": "matériau", "type": 1, "weight": 3335}}, "relations": [{"node1": 238998523, "node2": 97739, "type": 6, "weight": 25.0}]}

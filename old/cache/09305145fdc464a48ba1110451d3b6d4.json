@@ -1,0 +1,1 @@
+{"nodes": {"108078": {"name": "mimique", "type": 1, "weight": 153}, "230284": {"name": "expression faciale", "type": 1, "weight": 72}, "112929": {"name": "action", "type": 1, "weight": 18866}}, "relations": [{"node1": 108078, "node2": 112929, "type": 6, "weight": 28.0}, {"node1": 108078, "node2": 230284, "type": 6, "weight": 85.0}]}

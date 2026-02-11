@@ -1,0 +1,1 @@
+{"nodes": {"112929": {"name": "action", "type": 1, "weight": 18866}, "7489884": {"name": "en:thinning", "type": 1, "weight": 25}, "17624": {"name": "appauvrissement", "type": 1, "weight": 158}}, "relations": [{"node1": 17624, "node2": 112929, "type": 6, "weight": 47.0}, {"node1": 17624, "node2": 7489884, "type": 6, "weight": 10.0}]}

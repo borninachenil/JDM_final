@@ -1,0 +1,1 @@
+{"nodes": {"430517": {"name": "Recours", "type": 1, "weight": 72}, "69423": {"name": "recours", "type": 1, "weight": 5518}, "375608": {"name": "recours juridique", "type": 1, "weight": 98}}, "relations": [{"node1": 375608, "node2": 69423, "type": 6, "weight": 39.0}, {"node1": 375608, "node2": 430517, "type": 6, "weight": 10.0}]}

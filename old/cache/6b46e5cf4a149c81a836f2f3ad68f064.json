@@ -1,0 +1,1 @@
+{"nodes": {"135479": {"name": "naïveté", "type": 1, "weight": 324}, "88947": {"name": "vulnérabilité", "type": 1, "weight": 3916}, "252719": {"name": "trait de caractère", "type": 1, "weight": 43}}, "relations": [{"node1": 135479, "node2": 88947, "type": 6, "weight": 25.0}, {"node1": 135479, "node2": 252719, "type": 6, "weight": 28.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"307787381": {"name": "éléments interconnectés", "type": 1, "weight": 25}, "42490": {"name": "élément", "type": 1, "weight": 9150}, "48078": {"name": "infrastructure", "type": 1, "weight": 5485}}, "relations": [{"node1": 48078, "node2": 42490, "type": 6, "weight": 28.0}, {"node1": 48078, "node2": 307787381, "type": 6, "weight": 25.0}]}

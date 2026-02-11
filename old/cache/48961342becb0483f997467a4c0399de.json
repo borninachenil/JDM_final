@@ -1,0 +1,1 @@
+{"nodes": {"449571090": {"name": "modalité du prix", "type": 1, "weight": 0}, "8562": {"name": "modalité", "type": 1, "weight": 798}}, "relations": [{"node1": 449571090, "node2": 8562, "type": 6, "weight": 26.0}]}

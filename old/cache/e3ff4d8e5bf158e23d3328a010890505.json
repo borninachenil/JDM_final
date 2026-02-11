@@ -1,0 +1,1 @@
+{"nodes": {"5801582": {"name": "ras-el-hanout", "type": 777, "weight": 10}, "276096": {"name": "_INFO-WIKI-YES", "type": 36, "weight": 50}}, "relations": [{"node1": 5801582, "node2": 276096, "type": 36, "weight": 27.0}]}

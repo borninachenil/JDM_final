@@ -1,0 +1,1 @@
+{"nodes": {"9780": {"name": "engin", "type": 1, "weight": 758}, "144267": {"name": "canne", "type": 1, "weight": 964}, "153395": {"name": "canne à pêche", "type": 1, "weight": 329}}, "relations": [{"node1": 153395, "node2": 9780, "type": 6, "weight": 37.0}, {"node1": 153395, "node2": 144267, "type": 6, "weight": 40.0}]}

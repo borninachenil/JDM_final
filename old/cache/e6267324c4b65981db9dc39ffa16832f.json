@@ -1,0 +1,1 @@
+{"nodes": {"142674207": {"name": "altération morphologique congénitale", "type": 1, "weight": 25}, "54701": {"name": "altération", "type": 1, "weight": 573}}, "relations": [{"node1": 142674207, "node2": 54701, "type": 6, "weight": 26.0}]}

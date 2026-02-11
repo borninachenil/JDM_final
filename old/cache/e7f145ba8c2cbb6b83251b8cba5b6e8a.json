@@ -1,0 +1,1 @@
+{"nodes": {"30106": {"name": "diminution", "type": 1, "weight": 3757}, "15491600": {"name": "en:decrease in value", "type": 1, "weight": 25}, "7489645": {"name": "en:decrease", "type": 1, "weight": 25}}, "relations": [{"node1": 15491600, "node2": 30106, "type": 6, "weight": 40.0}, {"node1": 15491600, "node2": 7489645, "type": 6, "weight": 25.0}]}

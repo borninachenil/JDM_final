@@ -1,0 +1,1 @@
+{"nodes": {"15077671": {"name": "en:adult male", "type": 1, "weight": 25}, "15064789": {"name": "en:graybeard", "type": 1, "weight": 25}, "7021475": {"name": "en:man", "type": 1, "weight": 25}}, "relations": [{"node1": 15064789, "node2": 7021475, "type": 6, "weight": 41.0}, {"node1": 15064789, "node2": 15077671, "type": 6, "weight": 31.0}]}

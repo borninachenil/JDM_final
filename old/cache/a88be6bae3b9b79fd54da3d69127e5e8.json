@@ -1,0 +1,1 @@
+{"nodes": {"84266": {"name": "cérémonie", "type": 1, "weight": 3849}, "255485715": {"name": "cérémonie royale", "type": 1, "weight": 25}, "143611": {"name": "Cérémonie", "type": 1, "weight": 80}}, "relations": [{"node1": 255485715, "node2": 84266, "type": 6, "weight": 25.0}, {"node1": 255485715, "node2": 143611, "type": 6, "weight": 15.0}]}

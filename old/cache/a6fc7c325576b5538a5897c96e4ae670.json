@@ -1,0 +1,1 @@
+{"nodes": {"12322109": {"name": "en:natural phenomenon or process", "type": 1, "weight": 25}, "150694": {"name": "stream", "type": 1, "weight": 111}}, "relations": [{"node1": 150694, "node2": 12322109, "type": 6, "weight": 5.0}]}

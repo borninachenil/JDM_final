@@ -1,0 +1,1 @@
+{"nodes": {"16899819": {"name": "organes de la vue", "type": 1, "weight": 20}, "149413": {"name": "organes", "type": 1, "weight": 3297}}, "relations": [{"node1": 16899819, "node2": 149413, "type": 6, "weight": 27.0}]}

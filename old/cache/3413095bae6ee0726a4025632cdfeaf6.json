@@ -1,0 +1,1 @@
+{"nodes": {"227607": {"name": "super-vilain", "type": 1, "weight": 58}, "323279718": {"name": "aqueduct", "type": 777, "weight": 25}}, "relations": [{"node1": 323279718, "node2": 227607, "type": 6, "weight": 30.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"104763": {"name": "sanction", "type": 1, "weight": 2973}, "290534219": {"name": "sanction contractuelle", "type": 1, "weight": 35}}, "relations": [{"node1": 290534219, "node2": 104763, "type": 6, "weight": 26.0}]}

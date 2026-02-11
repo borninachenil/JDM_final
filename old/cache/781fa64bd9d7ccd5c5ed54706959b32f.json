@@ -1,0 +1,1 @@
+{"nodes": {"114142": {"name": "affrontement", "type": 1, "weight": 989}, "7438655": {"name": "en:fighting", "type": 1, "weight": 25}, "50708": {"name": "hostilités", "type": 1, "weight": 228}}, "relations": [{"node1": 7438655, "node2": 50708, "type": 6, "weight": 35.0}, {"node1": 7438655, "node2": 114142, "type": 6, "weight": 165.0}]}

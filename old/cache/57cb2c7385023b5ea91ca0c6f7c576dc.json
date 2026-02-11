@@ -1,0 +1,1 @@
+{"nodes": {"338418227": {"name": "terme maritime", "type": 1, "weight": 25}, "133021": {"name": "flot", "type": 1, "weight": 1515}}, "relations": [{"node1": 133021, "node2": 338418227, "type": 6, "weight": 25.0}]}

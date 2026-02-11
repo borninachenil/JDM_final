@@ -1,0 +1,1 @@
+{"nodes": {"215738": {"name": "herbe>215737", "type": 1, "weight": 32}, "71624": {"name": "être vivant", "type": 1, "weight": 2636}, "145941": {"name": "plante", "type": 1, "weight": 8133}}, "relations": [{"node1": 215738, "node2": 71624, "type": 6, "weight": 84.0}, {"node1": 215738, "node2": 145941, "type": 6, "weight": 8.0}]}

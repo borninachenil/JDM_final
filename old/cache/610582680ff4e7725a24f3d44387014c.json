@@ -1,0 +1,1 @@
+{"nodes": {"15242653": {"name": "promesse solennelle", "type": 1, "weight": 25}, "111204": {"name": "serment", "type": 1, "weight": 2321}, "135190": {"name": "lieu", "type": 1, "weight": 13386}}, "relations": [{"node1": 111204, "node2": 135190, "type": 6, "weight": 38.0}, {"node1": 111204, "node2": 15242653, "type": 6, "weight": 37.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"261248953": {"name": "forme d'art visuel", "type": 1, "weight": 25}, "142000": {"name": "forme", "type": 1, "weight": 15390}}, "relations": [{"node1": 261248953, "node2": 142000, "type": 6, "weight": 26.0}]}

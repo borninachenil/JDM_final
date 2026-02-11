@@ -1,0 +1,1 @@
+{"nodes": {"10777616": {"name": "expulsion volontaire d'air", "type": 1, "weight": 25}, "6528": {"name": "expulsion", "type": 1, "weight": 510}}, "relations": [{"node1": 10777616, "node2": 6528, "type": 6, "weight": 28.0}]}

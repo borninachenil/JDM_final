@@ -1,0 +1,1 @@
+{"nodes": {"249119": {"name": "graine>3674", "type": 1, "weight": 62}, "391531": {"name": "graine alimentaire", "type": 1, "weight": 57}, "14469": {"name": "graine", "type": 1, "weight": 1787}}, "relations": [{"node1": 391531, "node2": 14469, "type": 6, "weight": 203.0}, {"node1": 391531, "node2": 249119, "type": 6, "weight": 253.0}]}

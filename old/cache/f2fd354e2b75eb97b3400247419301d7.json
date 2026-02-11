@@ -1,0 +1,1 @@
+{"nodes": {"127798": {"name": "geste", "type": 1, "weight": 5987}, "214793": {"name": "baiser>67895", "type": 1, "weight": 358}, "42109": {"name": "mouvement", "type": 1, "weight": 17111}}, "relations": [{"node1": 214793, "node2": 42109, "type": 6, "weight": 30.0}, {"node1": 214793, "node2": 127798, "type": 6, "weight": 35.0}]}

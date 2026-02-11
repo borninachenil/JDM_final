@@ -1,0 +1,1 @@
+{"nodes": {"452288": {"name": "Gore-Tex", "type": 777, "weight": 53}, "143180": {"name": "marque", "type": 1, "weight": 6279}, "63936": {"name": "tissu", "type": 1, "weight": 3377}}, "relations": [{"node1": 452288, "node2": 63936, "type": 6, "weight": 31.0}, {"node1": 452288, "node2": 143180, "type": 6, "weight": 26.0}]}

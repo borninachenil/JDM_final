@@ -1,0 +1,1 @@
+{"nodes": {"22488": {"name": "orifice", "type": 1, "weight": 162}, "7144191": {"name": "en:ostium", "type": 1, "weight": 25}}, "relations": [{"node1": 7144191, "node2": 22488, "type": 6, "weight": 65.0}]}

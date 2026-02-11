@@ -1,0 +1,1 @@
+{"nodes": {"261900800": {"name": "aliment gastronomique de luxe", "type": 1, "weight": 25}, "114637": {"name": "aliment", "type": 1, "weight": 2599}}, "relations": [{"node1": 261900800, "node2": 114637, "type": 6, "weight": 25.0}]}

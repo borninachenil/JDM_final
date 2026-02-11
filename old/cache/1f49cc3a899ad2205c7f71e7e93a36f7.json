@@ -1,0 +1,1 @@
+{"nodes": {"97739": {"name": "matériau", "type": 1, "weight": 3334}, "25705": {"name": "terre", "type": 1, "weight": 30314}, "103256": {"name": "terre cuite", "type": 1, "weight": 166}}, "relations": [{"node1": 103256, "node2": 25705, "type": 6, "weight": 40.0}, {"node1": 103256, "node2": 97739, "type": 6, "weight": 51.0}]}

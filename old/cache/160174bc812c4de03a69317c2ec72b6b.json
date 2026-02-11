@@ -1,0 +1,1 @@
+{"nodes": {"5610220": {"name": "constellation de l'hémisphère sud", "type": 1, "weight": 25}, "49289": {"name": "constellation", "type": 1, "weight": 3837}}, "relations": [{"node1": 5610220, "node2": 49289, "type": 6, "weight": 39.0}]}

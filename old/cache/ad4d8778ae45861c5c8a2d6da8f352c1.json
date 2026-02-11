@@ -1,0 +1,1 @@
+{"nodes": {"15577427": {"name": "en:period of transition", "type": 1, "weight": 0}, "108794": {"name": "période", "type": 1, "weight": 8177}, "7487507": {"name": "en:period", "type": 1, "weight": 25}}, "relations": [{"node1": 15577427, "node2": 108794, "type": 6, "weight": 54.0}, {"node1": 15577427, "node2": 7487507, "type": 6, "weight": 25.0}]}

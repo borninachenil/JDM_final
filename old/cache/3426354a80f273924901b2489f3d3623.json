@@ -1,0 +1,1 @@
+{"nodes": {"12676131": {"name": "appareil de prise de vues", "type": 1, "weight": 25}, "106265": {"name": "appareil", "type": 1, "weight": 4064}, "139768": {"name": "artéfact", "type": 1, "weight": 182}}, "relations": [{"node1": 12676131, "node2": 106265, "type": 6, "weight": 99.0}, {"node1": 12676131, "node2": 139768, "type": 6, "weight": 26.0}]}

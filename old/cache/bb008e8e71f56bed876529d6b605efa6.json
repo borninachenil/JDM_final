@@ -1,0 +1,1 @@
+{"nodes": {"127047": {"name": "évanouissement", "type": 1, "weight": 219}, "30106": {"name": "diminution", "type": 1, "weight": 3757}, "112929": {"name": "action", "type": 1, "weight": 18866}}, "relations": [{"node1": 127047, "node2": 30106, "type": 6, "weight": 15.0}, {"node1": 127047, "node2": 112929, "type": 6, "weight": 26.0}]}

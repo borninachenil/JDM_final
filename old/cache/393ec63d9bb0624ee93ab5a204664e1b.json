@@ -1,0 +1,1 @@
+{"nodes": {"211523614": {"name": "station du chemin de croix", "type": 1, "weight": 25}, "127210": {"name": "station", "type": 1, "weight": 5100}}, "relations": [{"node1": 211523614, "node2": 127210, "type": 6, "weight": 25.0}]}

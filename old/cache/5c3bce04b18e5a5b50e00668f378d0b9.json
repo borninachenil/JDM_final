@@ -1,0 +1,1 @@
+{"nodes": {"79846": {"name": "théorie", "type": 1, "weight": 9801}, "8564280": {"name": "entité conceptuelle", "type": 1, "weight": 27}, "41382": {"name": "explication", "type": 1, "weight": 6491}}, "relations": [{"node1": 79846, "node2": 41382, "type": 6, "weight": 15.0}, {"node1": 79846, "node2": 8564280, "type": 6, "weight": 26.0}]}

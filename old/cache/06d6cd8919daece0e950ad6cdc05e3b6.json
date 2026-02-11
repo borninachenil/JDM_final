@@ -1,0 +1,1 @@
+{"nodes": {"2146496": {"name": "cicatrices", "type": 2, "weight": 65}, "1912917": {"name": "_INFO-COUNTABLE-YES", "type": 36, "weight": 10}, "50233540": {"name": "_INFO-WORDREF-YES", "type": 36, "weight": 50}}, "relations": [{"node1": 2146496, "node2": 1912917, "type": 36, "weight": 40.0}, {"node1": 2146496, "node2": 50233540, "type": 36, "weight": 27.0}]}

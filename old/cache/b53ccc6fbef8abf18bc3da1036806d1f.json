@@ -1,0 +1,1 @@
+{"nodes": {"189845": {"name": "région d'Italie", "type": 1, "weight": 61}, "69757": {"name": "Lombardie", "type": 1, "weight": 962}}, "relations": [{"node1": 69757, "node2": 189845, "type": 6, "weight": 34.0}]}

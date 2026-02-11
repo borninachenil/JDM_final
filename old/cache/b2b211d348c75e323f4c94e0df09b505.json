@@ -1,0 +1,1 @@
+{"nodes": {"11080575": {"name": "organisme eucaryote", "type": 1, "weight": 26}, "58768": {"name": "organisme", "type": 1, "weight": 5273}, "11080576": {"name": "organisme eucaryote pluricellulaire", "type": 1, "weight": 26}}, "relations": [{"node1": 11080576, "node2": 58768, "type": 6, "weight": 26.0}, {"node1": 11080576, "node2": 11080575, "type": 6, "weight": 29.0}]}

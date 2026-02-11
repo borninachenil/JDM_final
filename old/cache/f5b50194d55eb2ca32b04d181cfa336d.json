@@ -1,0 +1,1 @@
+{"nodes": {"218289632": {"name": "apprentissage par mimétisme", "type": 1, "weight": 25}, "123732": {"name": "apprentissage", "type": 1, "weight": 18767}, "351560754": {"name": "apprentissage par", "type": 1, "weight": 28}}, "relations": [{"node1": 218289632, "node2": 123732, "type": 6, "weight": 25.0}, {"node1": 218289632, "node2": 351560754, "type": 6, "weight": 25.0}]}

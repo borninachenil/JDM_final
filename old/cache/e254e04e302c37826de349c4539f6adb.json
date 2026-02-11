@@ -1,0 +1,1 @@
+{"nodes": {"145211": {"name": "frère", "type": 1, "weight": 14577}, "218263": {"name": "frère>86851", "type": 1, "weight": 112}, "355513": {"name": "frère cadet", "type": 1, "weight": 60}}, "relations": [{"node1": 355513, "node2": 145211, "type": 6, "weight": 144.0}, {"node1": 355513, "node2": 218263, "type": 6, "weight": 110.0}]}

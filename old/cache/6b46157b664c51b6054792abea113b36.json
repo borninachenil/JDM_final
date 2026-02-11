@@ -1,0 +1,1 @@
+{"nodes": {"15449187": {"name": "en:open system", "type": 1, "weight": 25}, "6905332": {"name": "en:open", "type": 1, "weight": 4}, "31526": {"name": "système", "type": 1, "weight": 22771}}, "relations": [{"node1": 15449187, "node2": 31526, "type": 6, "weight": 95.0}, {"node1": 15449187, "node2": 6905332, "type": 6, "weight": 25.0}]}

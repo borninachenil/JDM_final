@@ -1,0 +1,1 @@
+{"nodes": {"73715": {"name": "handicap", "type": 1, "weight": 1369}, "14624": {"name": "affection", "type": 1, "weight": 2267}, "4504": {"name": "infirmité", "type": 1, "weight": 144}}, "relations": [{"node1": 4504, "node2": 14624, "type": 6, "weight": 28.0}, {"node1": 4504, "node2": 73715, "type": 6, "weight": 28.0}]}

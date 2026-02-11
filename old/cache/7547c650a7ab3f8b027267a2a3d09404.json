@@ -1,0 +1,1 @@
+{"nodes": {"213573": {"name": "ficelle>61283", "type": 1, "weight": 92}, "61283": {"name": "pain", "type": 1, "weight": 5858}, "255460": {"name": "produit de boulangerie", "type": 1, "weight": 51}}, "relations": [{"node1": 213573, "node2": 61283, "type": 6, "weight": 60.0}, {"node1": 213573, "node2": 255460, "type": 6, "weight": 23.0}]}

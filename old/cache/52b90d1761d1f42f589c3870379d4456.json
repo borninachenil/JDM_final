@@ -1,0 +1,1 @@
+{"nodes": {"41580": {"name": "fourche-bêche", "type": 1, "weight": 51}, "47528": {"name": "fourche", "type": 1, "weight": 211}, "214322": {"name": "fourche>30843", "type": 1, "weight": 26}}, "relations": [{"node1": 41580, "node2": 47528, "type": 6, "weight": 55.0}, {"node1": 41580, "node2": 214322, "type": 6, "weight": 65.0}]}

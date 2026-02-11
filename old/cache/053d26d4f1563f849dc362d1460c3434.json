@@ -1,0 +1,1 @@
+{"nodes": {"391409": {"name": "force>146050", "type": 1, "weight": 84}, "40840": {"name": "force", "type": 1, "weight": 17920}, "354797": {"name": "force de défense", "type": 1, "weight": 59}}, "relations": [{"node1": 354797, "node2": 40840, "type": 6, "weight": 56.0}, {"node1": 354797, "node2": 391409, "type": 6, "weight": 40.0}]}

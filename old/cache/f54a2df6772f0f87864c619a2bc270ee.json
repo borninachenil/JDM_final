@@ -1,0 +1,1 @@
+{"nodes": {"290215": {"name": "muay-thaï", "type": 777, "weight": 50}, "73465": {"name": "art martial", "type": 1, "weight": 148}, "14921234": {"name": "en:martial art", "type": 1, "weight": 25}}, "relations": [{"node1": 290215, "node2": 73465, "type": 6, "weight": 29.0}, {"node1": 290215, "node2": 14921234, "type": 6, "weight": 34.0}]}

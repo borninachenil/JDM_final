@@ -1,0 +1,1 @@
+{"nodes": {"461311189": {"name": "instrument de persuasion marchande", "type": 1, "weight": 0}, "6605": {"name": "instrument", "type": 1, "weight": 5775}}, "relations": [{"node1": 461311189, "node2": 6605, "type": 6, "weight": 27.0}]}

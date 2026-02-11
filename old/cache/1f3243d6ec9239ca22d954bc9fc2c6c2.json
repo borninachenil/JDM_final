@@ -1,0 +1,1 @@
+{"nodes": {"5534951": {"name": "fromage caillé en saumure", "type": 1, "weight": 25}, "141687": {"name": "fromage", "type": 1, "weight": 4988}, "114637": {"name": "aliment", "type": 1, "weight": 2599}}, "relations": [{"node1": 5534951, "node2": 114637, "type": 6, "weight": 36.0}, {"node1": 5534951, "node2": 141687, "type": 6, "weight": 44.0}]}

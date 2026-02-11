@@ -1,0 +1,1 @@
+{"nodes": {"106981": {"name": "précipitation", "type": 1, "weight": 399}, "374080": {"name": "précipitation solide", "type": 1, "weight": 50}}, "relations": [{"node1": 374080, "node2": 106981, "type": 6, "weight": 106.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"15192938": {"name": "en:liquid food", "type": 1, "weight": 25}, "114637": {"name": "aliment", "type": 1, "weight": 2599}, "7029365": {"name": "en:liquid", "type": 1, "weight": 25}}, "relations": [{"node1": 15192938, "node2": 114637, "type": 6, "weight": 23.0}, {"node1": 15192938, "node2": 7029365, "type": 6, "weight": 25.0}]}

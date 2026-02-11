@@ -1,0 +1,1 @@
+{"nodes": {"13737722": {"name": "destruction totale de la peau", "type": 1, "weight": 25}, "33698": {"name": "destruction", "type": 1, "weight": 4709}, "231746": {"name": "destruction totale", "type": 1, "weight": 88}}, "relations": [{"node1": 13737722, "node2": 33698, "type": 6, "weight": 33.0}, {"node1": 13737722, "node2": 231746, "type": 6, "weight": 36.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"140902": {"name": "étoffe", "type": 1, "weight": 469}, "138419": {"name": "côté", "type": 1, "weight": 11591}, "93081": {"name": "segment", "type": 1, "weight": 2522}}, "relations": [{"node1": 138419, "node2": 93081, "type": 6, "weight": 33.0}, {"node1": 138419, "node2": 140902, "type": 6, "weight": 37.0}]}

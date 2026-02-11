@@ -1,0 +1,1 @@
+{"nodes": {"15367747": {"name": "extinction de l'obligation", "type": 1, "weight": 25}, "14924958": {"name": "en:termination", "type": 1, "weight": 25}, "57815": {"name": "extinction", "type": 1, "weight": 1255}}, "relations": [{"node1": 15367747, "node2": 57815, "type": 6, "weight": 26.0}, {"node1": 15367747, "node2": 14924958, "type": 6, "weight": 10.0}]}

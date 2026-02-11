@@ -1,0 +1,1 @@
+{"nodes": {"14530111": {"name": "phase dispersée", "type": 777, "weight": 28}, "61679": {"name": "phase", "type": 1, "weight": 4663}}, "relations": [{"node1": 14530111, "node2": 61679, "type": 6, "weight": 26.0}]}

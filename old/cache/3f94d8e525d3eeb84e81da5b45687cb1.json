@@ -1,0 +1,1 @@
+{"nodes": {"353900933": {"name": "pratique agricole spécialisée", "type": 1, "weight": 25}, "145946": {"name": "pratique", "type": 1, "weight": 8375}, "13992084": {"name": "pratique agricole", "type": 1, "weight": 26}}, "relations": [{"node1": 353900933, "node2": 145946, "type": 6, "weight": 26.0}, {"node1": 353900933, "node2": 13992084, "type": 6, "weight": 26.0}]}

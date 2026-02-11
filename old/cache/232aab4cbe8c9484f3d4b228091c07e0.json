@@ -1,0 +1,1 @@
+{"nodes": {"254753": {"name": "destination de rêve", "type": 1, "weight": 36}, "56720": {"name": "destination", "type": 1, "weight": 3548}, "244209": {"name": "destination>135190", "type": 1, "weight": 12}}, "relations": [{"node1": 254753, "node2": 56720, "type": 6, "weight": 193.0}, {"node1": 254753, "node2": 244209, "type": 6, "weight": 192.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"144138": {"name": "courbe", "type": 1, "weight": 3107}, "571785": {"name": "Courbe", "type": 1, "weight": 52}, "344806": {"name": "courbe fermée", "type": 1, "weight": 50}}, "relations": [{"node1": 344806, "node2": 144138, "type": 6, "weight": 27.0}, {"node1": 344806, "node2": 571785, "type": 6, "weight": 5.0}]}

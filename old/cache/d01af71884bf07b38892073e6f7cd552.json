@@ -1,0 +1,1 @@
+{"nodes": {"236462243": {"name": "fraction de temps", "type": 1, "weight": 25}, "38945": {"name": "fraction", "type": 1, "weight": 2856}, "307687869": {"name": "fraction de", "type": 1, "weight": 25}}, "relations": [{"node1": 236462243, "node2": 38945, "type": 6, "weight": 25.0}, {"node1": 236462243, "node2": 307687869, "type": 6, "weight": 25.0}]}

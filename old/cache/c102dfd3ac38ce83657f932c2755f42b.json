@@ -1,0 +1,1 @@
+{"nodes": {"238380": {"name": "région>39543", "type": 1, "weight": 28}, "132350": {"name": "région", "type": 1, "weight": 9055}, "206810": {"name": "région du monde", "type": 1, "weight": 78}}, "relations": [{"node1": 206810, "node2": 132350, "type": 6, "weight": 239.0}, {"node1": 206810, "node2": 238380, "type": 6, "weight": 256.0}]}

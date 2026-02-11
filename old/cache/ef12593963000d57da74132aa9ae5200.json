@@ -1,0 +1,1 @@
+{"nodes": {"7183465": {"name": "en:mental process", "type": 1, "weight": 25}, "7029856": {"name": "en:intelligence", "type": 1, "weight": 25}}, "relations": [{"node1": 7029856, "node2": 7183465, "type": 6, "weight": 30.0}]}

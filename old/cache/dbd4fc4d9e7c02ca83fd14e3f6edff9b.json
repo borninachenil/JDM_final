@@ -1,0 +1,1 @@
+{"nodes": {"357079": {"name": "grès feldspathique", "type": 1, "weight": 50}, "6821864": {"name": "en:induration", "type": 1, "weight": 25}}, "relations": [{"node1": 6821864, "node2": 357079, "type": 6, "weight": 35.0}]}

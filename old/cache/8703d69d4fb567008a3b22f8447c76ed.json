@@ -1,0 +1,1 @@
+{"nodes": {"264298": {"name": "purée de piments", "type": 1, "weight": 50}, "16444": {"name": "purée", "type": 1, "weight": 509}, "234051": {"name": "purée>16033", "type": 1, "weight": 58}}, "relations": [{"node1": 264298, "node2": 16444, "type": 6, "weight": 26.0}, {"node1": 264298, "node2": 234051, "type": 6, "weight": 38.0}]}

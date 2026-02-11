@@ -1,0 +1,1 @@
+{"nodes": {"53432302": {"name": "degré de qualification", "type": 1, "weight": 26}, "271346870": {"name": "degré de", "type": 1, "weight": 26}, "121359": {"name": "degré", "type": 1, "weight": 4519}}, "relations": [{"node1": 53432302, "node2": 121359, "type": 6, "weight": 25.0}, {"node1": 53432302, "node2": 271346870, "type": 6, "weight": 25.0}]}

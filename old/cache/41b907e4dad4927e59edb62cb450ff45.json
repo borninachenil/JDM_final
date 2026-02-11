@@ -1,0 +1,1 @@
+{"nodes": {"3171699": {"name": "chaîne de", "type": 777, "weight": 32}, "227124": {"name": "chaîne de montagne", "type": 1, "weight": 75}, "146098": {"name": "chaîne", "type": 1, "weight": 6593}}, "relations": [{"node1": 227124, "node2": 146098, "type": 6, "weight": 32.0}, {"node1": 227124, "node2": 3171699, "type": 6, "weight": 25.0}]}

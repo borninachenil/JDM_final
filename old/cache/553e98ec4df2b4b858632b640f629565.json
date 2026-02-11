@@ -1,0 +1,1 @@
+{"nodes": {"35045": {"name": "imagerie", "type": 1, "weight": 515}, "8562": {"name": "modalité", "type": 1, "weight": 798}, "263737": {"name": "modalité d'imagerie", "type": 1, "weight": 24}}, "relations": [{"node1": 263737, "node2": 8562, "type": 6, "weight": 30.0}, {"node1": 263737, "node2": 35045, "type": 6, "weight": 138.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"15088193": {"name": "en:natural ability", "type": 1, "weight": 0}, "15295441": {"name": "donation entre vifs", "type": 1, "weight": 25}, "15880": {"name": "donation", "type": 1, "weight": 307}}, "relations": [{"node1": 15295441, "node2": 15880, "type": 6, "weight": 36.0}, {"node1": 15295441, "node2": 15088193, "type": 6, "weight": 36.0}]}

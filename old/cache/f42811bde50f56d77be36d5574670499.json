@@ -1,0 +1,1 @@
+{"nodes": {"135190": {"name": "lieu", "type": 1, "weight": 13386}, "128567": {"name": "relief", "type": 1, "weight": 2581}, "240680": {"name": "montagne>240679", "type": 1, "weight": 106}}, "relations": [{"node1": 240680, "node2": 128567, "type": 6, "weight": 92.0}, {"node1": 240680, "node2": 135190, "type": 6, "weight": 48.0}]}

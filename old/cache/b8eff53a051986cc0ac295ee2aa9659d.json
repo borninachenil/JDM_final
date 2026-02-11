@@ -1,0 +1,1 @@
+{"nodes": {"1422230": {"name": "membrane>112609", "type": 1, "weight": 22}, "383887": {"name": "tissu organique", "type": 1, "weight": 58}}, "relations": [{"node1": 1422230, "node2": 383887, "type": 6, "weight": 52.0}]}

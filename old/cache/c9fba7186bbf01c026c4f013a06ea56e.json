@@ -1,0 +1,1 @@
+{"nodes": {"13775642": {"name": "transmutation nucléaire", "type": 777, "weight": 25}, "14965347": {"name": "en:transmutation", "type": 1, "weight": 25}, "118890": {"name": "transmutation", "type": 1, "weight": 145}}, "relations": [{"node1": 14965347, "node2": 118890, "type": 6, "weight": 30.0}, {"node1": 14965347, "node2": 13775642, "type": 6, "weight": 30.0}]}

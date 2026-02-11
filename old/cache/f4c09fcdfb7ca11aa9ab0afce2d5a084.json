@@ -1,0 +1,1 @@
+{"nodes": {"15492141": {"name": "en:flat slope", "type": 1, "weight": 0}, "96520": {"name": "pente", "type": 1, "weight": 1883}, "7606562": {"name": "en:flat", "type": 1, "weight": 25}}, "relations": [{"node1": 15492141, "node2": 96520, "type": 6, "weight": 32.0}, {"node1": 15492141, "node2": 7606562, "type": 6, "weight": 25.0}]}

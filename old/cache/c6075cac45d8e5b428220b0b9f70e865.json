@@ -1,0 +1,1 @@
+{"nodes": {"170102759": {"name": "stand-up paddle", "type": 1, "weight": 25}, "252180": {"name": "activité de loisirs", "type": 1, "weight": 30}, "1664988": {"name": "stand-up", "type": 1, "weight": 85}}, "relations": [{"node1": 170102759, "node2": 252180, "type": 6, "weight": 27.0}, {"node1": 170102759, "node2": 1664988, "type": 6, "weight": 25.0}]}

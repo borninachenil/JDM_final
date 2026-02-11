@@ -1,0 +1,1 @@
+{"nodes": {"11237142": {"name": "combustible dérivé du pétrole", "type": 1, "weight": 25}, "94788": {"name": "combustible", "type": 1, "weight": 1299}}, "relations": [{"node1": 11237142, "node2": 94788, "type": 6, "weight": 26.0}]}

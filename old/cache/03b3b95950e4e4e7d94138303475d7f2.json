@@ -1,0 +1,1 @@
+{"nodes": {"14944848": {"name": "en:board game", "type": 1, "weight": 25}, "162000": {"name": "jeu de stratégie", "type": 1, "weight": 391}, "48304": {"name": "échecs", "type": 1, "weight": 2036}}, "relations": [{"node1": 48304, "node2": 162000, "type": 6, "weight": 35.0}, {"node1": 48304, "node2": 14944848, "type": 6, "weight": 40.0}]}

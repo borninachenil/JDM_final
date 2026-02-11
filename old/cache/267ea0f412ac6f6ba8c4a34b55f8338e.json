@@ -1,0 +1,1 @@
+{"nodes": {"340687": {"name": "bâtiment agricole", "type": 1, "weight": 50}, "92226": {"name": "pigeonnier", "type": 1, "weight": 98}, "7899": {"name": "habitation", "type": 1, "weight": 1401}}, "relations": [{"node1": 92226, "node2": 7899, "type": 6, "weight": 34.0}, {"node1": 92226, "node2": 340687, "type": 6, "weight": 87.0}]}

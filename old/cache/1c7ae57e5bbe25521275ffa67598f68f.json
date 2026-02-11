@@ -1,0 +1,1 @@
+{"nodes": {"117188": {"name": "préjugé", "type": 1, "weight": 580}, "245646": {"name": "chose pénible", "type": 1, "weight": 22}, "209772425": {"name": "obstacle social", "type": 1, "weight": 31}}, "relations": [{"node1": 117188, "node2": 245646, "type": 6, "weight": 25.0}, {"node1": 117188, "node2": 209772425, "type": 6, "weight": 29.0}]}

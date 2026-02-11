@@ -1,0 +1,1 @@
+{"nodes": {"127940": {"name": "culte", "type": 1, "weight": 4108}, "73890": {"name": "religion", "type": 1, "weight": 11019}, "230450": {"name": "comportement social", "type": 1, "weight": 616}}, "relations": [{"node1": 127940, "node2": 73890, "type": 6, "weight": 31.0}, {"node1": 127940, "node2": 230450, "type": 6, "weight": 35.0}]}

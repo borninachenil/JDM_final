@@ -1,0 +1,1 @@
+{"nodes": {"43550": {"name": "format", "type": 1, "weight": 4708}, "2798362": {"name": "format photographique", "type": 1, "weight": 25}}, "relations": [{"node1": 2798362, "node2": 43550, "type": 6, "weight": 26.0}]}

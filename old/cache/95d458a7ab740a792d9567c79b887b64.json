@@ -1,0 +1,1 @@
+{"nodes": {"10515630": {"name": "livre de la Bible", "type": 1, "weight": 26}, "142787": {"name": "livre", "type": 1, "weight": 19618}, "280497": {"name": "livre de", "type": 777, "weight": 54}}, "relations": [{"node1": 10515630, "node2": 142787, "type": 6, "weight": 26.0}, {"node1": 10515630, "node2": 280497, "type": 6, "weight": 25.0}]}

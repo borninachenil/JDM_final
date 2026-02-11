@@ -1,0 +1,1 @@
+{"nodes": {"31446": {"name": "observatoire", "type": 1, "weight": 1248}, "5817337": {"name": "observatoire spatial", "type": 1, "weight": 28}, "409936": {"name": "Observatoire", "type": 1, "weight": 418}}, "relations": [{"node1": 5817337, "node2": 31446, "type": 6, "weight": 41.0}, {"node1": 5817337, "node2": 409936, "type": 6, "weight": 10.0}]}

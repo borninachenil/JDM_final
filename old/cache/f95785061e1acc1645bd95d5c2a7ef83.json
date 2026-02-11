@@ -1,0 +1,1 @@
+{"nodes": {"45671": {"name": "catholique", "type": 1, "weight": 3868}, "106651": {"name": "cistercien", "type": 1, "weight": 60}, "106655": {"name": "bénédictin", "type": 1, "weight": 84}}, "relations": [{"node1": 106651, "node2": 45671, "type": 6, "weight": 190.0}, {"node1": 106651, "node2": 106655, "type": 6, "weight": 88.0}]}

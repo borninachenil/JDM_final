@@ -1,0 +1,1 @@
+{"nodes": {"8286339": {"name": "en:airflow", "type": 1, "weight": 25}, "52044": {"name": "flux", "type": 1, "weight": 4351}}, "relations": [{"node1": 8286339, "node2": 52044, "type": 6, "weight": 109.0}]}

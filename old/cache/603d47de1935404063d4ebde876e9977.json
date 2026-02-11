@@ -1,0 +1,1 @@
+{"nodes": {"143408": {"name": "milieu", "type": 1, "weight": 12148}, "15446073": {"name": "en:class background", "type": 1, "weight": 25}, "6876545": {"name": "en:class", "type": 1, "weight": 25}}, "relations": [{"node1": 15446073, "node2": 143408, "type": 6, "weight": 225.0}, {"node1": 15446073, "node2": 6876545, "type": 6, "weight": 25.0}]}

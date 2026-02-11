@@ -1,0 +1,1 @@
+{"nodes": {"11028477": {"name": "langue éteinte", "type": 1, "weight": 28}, "52119": {"name": "langue", "type": 1, "weight": 13308}, "152952": {"name": "Langue", "type": 1, "weight": 2182}}, "relations": [{"node1": 11028477, "node2": 52119, "type": 6, "weight": 27.0}, {"node1": 11028477, "node2": 152952, "type": 6, "weight": 15.0}]}

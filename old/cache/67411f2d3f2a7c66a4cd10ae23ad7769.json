@@ -1,0 +1,1 @@
+{"nodes": {"338871923": {"name": "tuyau de", "type": 1, "weight": 35}, "105716": {"name": "tuyau", "type": 1, "weight": 774}}, "relations": [{"node1": 338871923, "node2": 105716, "type": 6, "weight": 26.0}]}

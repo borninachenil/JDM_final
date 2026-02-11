@@ -1,0 +1,1 @@
+{"nodes": {"426111876": {"name": "élément de section", "type": 1, "weight": 0}, "42490": {"name": "élément", "type": 1, "weight": 9150}, "252946234": {"name": "élément de", "type": 1, "weight": 25}}, "relations": [{"node1": 426111876, "node2": 42490, "type": 6, "weight": 25.0}, {"node1": 426111876, "node2": 252946234, "type": 6, "weight": 26.0}]}

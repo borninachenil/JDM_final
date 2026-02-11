@@ -1,0 +1,1 @@
+{"nodes": {"64227": {"name": "anomalie", "type": 1, "weight": 1371}, "257975": {"name": "anomalie chromosomique", "type": 1, "weight": 8}, "15188052": {"name": "anomalie chromosomique congénitale", "type": 1, "weight": 25}}, "relations": [{"node1": 15188052, "node2": 64227, "type": 6, "weight": 27.0}, {"node1": 15188052, "node2": 257975, "type": 6, "weight": 26.0}]}

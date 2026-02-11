@@ -1,0 +1,1 @@
+{"nodes": {"21639": {"name": "darne", "type": 1, "weight": 198}, "234132": {"name": "tranche>65364", "type": 1, "weight": 78}, "143123": {"name": "tranche", "type": 1, "weight": 976}}, "relations": [{"node1": 21639, "node2": 143123, "type": 6, "weight": 55.0}, {"node1": 21639, "node2": 234132, "type": 6, "weight": 55.0}]}

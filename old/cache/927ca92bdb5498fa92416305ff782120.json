@@ -1,0 +1,1 @@
+{"nodes": {"15441861": {"name": "en:feed yourself", "type": 1, "weight": 6}, "33882": {"name": "se nourrir", "type": 1, "weight": 891}, "6681658": {"name": "manger>113902", "type": 1, "weight": 224}}, "relations": [{"node1": 6681658, "node2": 33882, "type": 6, "weight": 29.0}, {"node1": 6681658, "node2": 15441861, "type": 6, "weight": 10.0}]}

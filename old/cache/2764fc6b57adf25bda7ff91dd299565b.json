@@ -1,0 +1,1 @@
+{"nodes": {"15219019": {"name": "changement phonétique", "type": 1, "weight": 25}, "6953062": {"name": "en:sound", "type": 1, "weight": 25}, "63625": {"name": "changement", "type": 1, "weight": 22134}}, "relations": [{"node1": 15219019, "node2": 63625, "type": 6, "weight": 26.0}, {"node1": 15219019, "node2": 6953062, "type": 6, "weight": 10.0}]}

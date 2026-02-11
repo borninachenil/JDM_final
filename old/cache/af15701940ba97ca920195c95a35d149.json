@@ -1,0 +1,1 @@
+{"nodes": {"15525922": {"name": "en:sea-god", "type": 1, "weight": 25}, "115370": {"name": "dieu", "type": 1, "weight": 25402}, "63800": {"name": "divinité", "type": 1, "weight": 2091}}, "relations": [{"node1": 15525922, "node2": 63800, "type": 6, "weight": 10.0}, {"node1": 15525922, "node2": 115370, "type": 6, "weight": 10.0}]}

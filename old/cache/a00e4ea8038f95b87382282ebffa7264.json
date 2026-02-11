@@ -1,0 +1,1 @@
+{"nodes": {"40046894": {"name": "répétition de sons", "type": 1, "weight": 25}, "7049": {"name": "répétition", "type": 1, "weight": 2941}, "13758350": {"name": "répétition de", "type": 1, "weight": 25}}, "relations": [{"node1": 40046894, "node2": 7049, "type": 6, "weight": 26.0}, {"node1": 40046894, "node2": 13758350, "type": 6, "weight": 25.0}]}

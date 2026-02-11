@@ -1,0 +1,1 @@
+{"nodes": {"232452": {"name": "articulation>112609", "type": 1, "weight": 102}, "126388": {"name": "articulation", "type": 1, "weight": 1306}, "16816552": {"name": "en:articulatio fibrosa (PNA)", "type": 1, "weight": 25}}, "relations": [{"node1": 16816552, "node2": 126388, "type": 6, "weight": 30.0}, {"node1": 16816552, "node2": 232452, "type": 6, "weight": 30.0}]}

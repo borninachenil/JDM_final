@@ -1,0 +1,1 @@
+{"nodes": {"91638423": {"name": "Écosystème", "type": 1, "weight": 266}, "105717": {"name": "écosystème", "type": 1, "weight": 15511}, "214214372": {"name": "écosystème naturel", "type": 1, "weight": 60}}, "relations": [{"node1": 214214372, "node2": 105717, "type": 6, "weight": 25.0}, {"node1": 214214372, "node2": 91638423, "type": 6, "weight": 25.0}]}

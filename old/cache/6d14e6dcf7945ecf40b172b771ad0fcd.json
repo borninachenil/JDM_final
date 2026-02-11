@@ -1,0 +1,1 @@
+{"nodes": {"283301313": {"name": "sensation sensorielle", "type": 1, "weight": 29}, "127640": {"name": "sensation", "type": 1, "weight": 3066}}, "relations": [{"node1": 283301313, "node2": 127640, "type": 6, "weight": 26.0}]}

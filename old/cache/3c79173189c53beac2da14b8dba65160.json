@@ -1,0 +1,1 @@
+{"nodes": {"271518896": {"name": "réaction chimique organique", "type": 1, "weight": 25}, "93299": {"name": "réaction", "type": 1, "weight": 13430}, "163955": {"name": "réaction chimique", "type": 1, "weight": 330}}, "relations": [{"node1": 271518896, "node2": 93299, "type": 6, "weight": 25.0}, {"node1": 271518896, "node2": 163955, "type": 6, "weight": 25.0}]}

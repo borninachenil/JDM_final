@@ -1,0 +1,1 @@
+{"nodes": {"261785624": {"name": "lieu de commerce", "type": 1, "weight": 25}, "146274": {"name": "marché", "type": 1, "weight": 14802}, "109860": {"name": "souk", "type": 1, "weight": 265}}, "relations": [{"node1": 109860, "node2": 146274, "type": 6, "weight": 26.0}, {"node1": 109860, "node2": 261785624, "type": 6, "weight": 25.0}]}

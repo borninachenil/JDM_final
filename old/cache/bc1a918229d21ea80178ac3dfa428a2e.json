@@ -1,0 +1,1 @@
+{"nodes": {"484085833": {"name": "idiazabal", "type": 777, "weight": 0}, "273221": {"name": "_INFO-WIKI-NO", "type": 36, "weight": 50}}, "relations": [{"node1": 484085833, "node2": 273221, "type": 36, "weight": 25.0}]}

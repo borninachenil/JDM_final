@@ -1,0 +1,1 @@
+{"nodes": {"30321": {"name": "figure", "type": 1, "weight": 9902}, "15054": {"name": "procédé", "type": 1, "weight": 3633}, "15219689": {"name": "en:stylistic device", "type": 1, "weight": 25}}, "relations": [{"node1": 15219689, "node2": 15054, "type": 6, "weight": 140.0}, {"node1": 15219689, "node2": 30321, "type": 6, "weight": 165.0}]}

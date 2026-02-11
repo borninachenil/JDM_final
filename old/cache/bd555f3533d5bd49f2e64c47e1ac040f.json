@@ -1,0 +1,1 @@
+{"nodes": {"6805582": {"name": "en:abrasion", "type": 1, "weight": 25}, "96406": {"name": "écorchure", "type": 1, "weight": 126}, "1922340": {"name": "lésion>102206", "type": 1, "weight": 130}}, "relations": [{"node1": 96406, "node2": 1922340, "type": 6, "weight": 39.0}, {"node1": 96406, "node2": 6805582, "type": 6, "weight": 10.0}]}

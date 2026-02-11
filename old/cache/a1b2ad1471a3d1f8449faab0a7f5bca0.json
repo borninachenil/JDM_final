@@ -1,0 +1,1 @@
+{"nodes": {"2585997": {"name": "_INFO-CNRTL-NO", "type": 36, "weight": 50}, "9962363": {"name": "showrunner", "type": 777, "weight": 32}, "276096": {"name": "_INFO-WIKI-YES", "type": 36, "weight": 50}}, "relations": [{"node1": 9962363, "node2": 276096, "type": 36, "weight": 25.0}, {"node1": 9962363, "node2": 2585997, "type": 36, "weight": 53.0}]}

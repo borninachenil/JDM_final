@@ -1,0 +1,1 @@
+{"nodes": {"129809": {"name": "idéologie", "type": 1, "weight": 2573}, "268330": {"name": "idéologie politique", "type": 1, "weight": 124}, "425556": {"name": "Idéologie", "type": 1, "weight": 125}}, "relations": [{"node1": 268330, "node2": 129809, "type": 6, "weight": 197.0}, {"node1": 268330, "node2": 425556, "type": 6, "weight": 15.0}]}

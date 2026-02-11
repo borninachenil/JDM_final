@@ -1,0 +1,1 @@
+{"nodes": {"143269284": {"name": "Gestionnaire de fichiers", "type": 1, "weight": 25}, "5517072": {"name": "gestionnaire de fichiers", "type": 777, "weight": 25}, "398183": {"name": "fichiers", "type": 1, "weight": 3261}}, "relations": [{"node1": 398183, "node2": 5517072, "type": 6, "weight": 10.0}, {"node1": 398183, "node2": 143269284, "type": 6, "weight": 10.0}]}

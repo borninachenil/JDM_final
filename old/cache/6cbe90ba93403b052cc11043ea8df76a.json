@@ -1,0 +1,1 @@
+{"nodes": {"258755910": {"name": "combinaison de symboles", "type": 1, "weight": 25}, "16392": {"name": "combinaison", "type": 1, "weight": 3340}, "257363096": {"name": "combinaison de", "type": 1, "weight": 29}}, "relations": [{"node1": 258755910, "node2": 16392, "type": 6, "weight": 25.0}, {"node1": 258755910, "node2": 257363096, "type": 6, "weight": 25.0}]}

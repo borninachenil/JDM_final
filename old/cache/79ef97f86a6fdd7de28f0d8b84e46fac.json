@@ -1,0 +1,1 @@
+{"nodes": {"112929": {"name": "action", "type": 1, "weight": 18866}, "103459": {"name": "dauphinois", "type": 1, "weight": 56}, "131059": {"name": "dialecte", "type": 1, "weight": 3356}}, "relations": [{"node1": 103459, "node2": 112929, "type": 6, "weight": 25.0}, {"node1": 103459, "node2": 131059, "type": 6, "weight": 32.0}]}

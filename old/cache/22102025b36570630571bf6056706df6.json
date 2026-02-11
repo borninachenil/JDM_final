@@ -1,0 +1,1 @@
+{"nodes": {"253915": {"name": "collectivités territoriales", "type": 1, "weight": 312}, "10078305": {"name": "Collectivités", "type": 1, "weight": 34}, "261270": {"name": "collectivités", "type": 1, "weight": 2190}}, "relations": [{"node1": 253915, "node2": 261270, "type": 6, "weight": 36.0}, {"node1": 253915, "node2": 10078305, "type": 6, "weight": 20.0}]}

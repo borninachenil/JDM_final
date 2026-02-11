@@ -1,0 +1,1 @@
+{"nodes": {"47286": {"name": "perte", "type": 1, "weight": 6935}, "14678164": {"name": "perte du pouvoir d'achat", "type": 1, "weight": 25}}, "relations": [{"node1": 14678164, "node2": 47286, "type": 6, "weight": 26.0}]}

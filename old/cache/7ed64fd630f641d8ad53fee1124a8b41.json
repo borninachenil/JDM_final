@@ -1,0 +1,1 @@
+{"nodes": {"10601747": {"name": "région administrative française", "type": 1, "weight": 28}, "132350": {"name": "région", "type": 1, "weight": 9055}, "173368": {"name": "région administrative", "type": 1, "weight": 101}}, "relations": [{"node1": 10601747, "node2": 132350, "type": 6, "weight": 44.0}, {"node1": 10601747, "node2": 173368, "type": 6, "weight": 36.0}]}

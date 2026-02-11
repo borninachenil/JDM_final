@@ -1,0 +1,1 @@
+{"nodes": {"119165": {"name": "procédure", "type": 1, "weight": 5483}, "209697044": {"name": "procédure légale", "type": 1, "weight": 44}}, "relations": [{"node1": 209697044, "node2": 119165, "type": 6, "weight": 25.0}]}

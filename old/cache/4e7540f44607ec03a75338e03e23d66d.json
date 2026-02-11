@@ -1,0 +1,1 @@
+{"nodes": {"319694": {"name": "processus pathologique", "type": 1, "weight": 15}, "3269226": {"name": "maladie>102206>24956", "type": 1, "weight": 84}}, "relations": [{"node1": 3269226, "node2": 319694, "type": 6, "weight": 105.0}]}

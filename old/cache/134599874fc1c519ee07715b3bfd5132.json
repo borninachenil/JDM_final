@@ -1,0 +1,1 @@
+{"nodes": {"96851": {"name": "pièce", "type": 1, "weight": 8573}, "214896": {"name": "pièce de jeu", "type": 1, "weight": 6}, "189880": {"name": "pièce d'échecs", "type": 1, "weight": 64}}, "relations": [{"node1": 189880, "node2": 96851, "type": 6, "weight": 40.0}, {"node1": 189880, "node2": 214896, "type": 6, "weight": 63.0}]}

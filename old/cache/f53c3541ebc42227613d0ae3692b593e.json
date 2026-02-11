@@ -1,0 +1,1 @@
+{"nodes": {"5994985": {"name": "défroisseur", "type": 777, "weight": 25}, "357285": {"name": "générateur de vapeur", "type": 1, "weight": 54}, "135752908": {"name": "Générateur de vapeur", "type": 1, "weight": 26}}, "relations": [{"node1": 5994985, "node2": 357285, "type": 6, "weight": 27.0}, {"node1": 5994985, "node2": 135752908, "type": 6, "weight": 25.0}]}

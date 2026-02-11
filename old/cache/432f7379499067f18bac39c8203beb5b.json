@@ -1,0 +1,1 @@
+{"nodes": {"7053108": {"name": "en:plant", "type": 1, "weight": 4}, "245450": {"name": "produit végétal", "type": 1, "weight": 63}, "7012022": {"name": "en:pharmacologic substance", "type": 1, "weight": 25}}, "relations": [{"node1": 245450, "node2": 7012022, "type": 6, "weight": 40.0}, {"node1": 245450, "node2": 7053108, "type": 6, "weight": 28.0}]}

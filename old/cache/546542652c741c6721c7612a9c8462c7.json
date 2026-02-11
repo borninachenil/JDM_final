@@ -1,0 +1,1 @@
+{"nodes": {"213878": {"name": "peinture>213877", "type": 1, "weight": 98}, "227222": {"name": "street art", "type": 1, "weight": 50}, "11358": {"name": "substance", "type": 1, "weight": 4710}}, "relations": [{"node1": 213878, "node2": 11358, "type": 6, "weight": 65.0}, {"node1": 213878, "node2": 227222, "type": 6, "weight": 1.0}]}

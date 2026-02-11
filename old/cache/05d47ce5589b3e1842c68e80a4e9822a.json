@@ -1,0 +1,1 @@
+{"nodes": {"78917": {"name": "défibrillation", "type": 1, "weight": 52}, "267789": {"name": "geste médical", "type": 1, "weight": 4}}, "relations": [{"node1": 78917, "node2": 267789, "type": 6, "weight": 32.0}]}

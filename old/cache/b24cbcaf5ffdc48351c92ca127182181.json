@@ -1,0 +1,1 @@
+{"nodes": {"224651": {"name": "édifice religieux", "type": 1, "weight": 38}, "396986": {"name": "Édifice", "type": 1, "weight": 52}, "45109": {"name": "édifice", "type": 1, "weight": 678}}, "relations": [{"node1": 224651, "node2": 45109, "type": 6, "weight": 170.0}, {"node1": 224651, "node2": 396986, "type": 6, "weight": 15.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"68095": {"name": "fontina", "type": 1, "weight": 50}, "3762435": {"name": "ingrédient de recette de cuisine", "type": 1, "weight": 12}}, "relations": [{"node1": 68095, "node2": 3762435, "type": 6, "weight": 49.0}]}

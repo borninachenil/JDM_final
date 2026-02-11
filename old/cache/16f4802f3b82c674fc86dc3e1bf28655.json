@@ -1,0 +1,1 @@
+{"nodes": {"335007": {"name": "amateur de musique", "type": 1, "weight": 50}, "29457": {"name": "amateur", "type": 1, "weight": 2709}, "16032354": {"name": "amateur de", "type": 1, "weight": 25}}, "relations": [{"node1": 335007, "node2": 29457, "type": 6, "weight": 26.0}, {"node1": 335007, "node2": 16032354, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"15087956": {"name": "en:instrument of punishment", "type": 1, "weight": 0}, "6605": {"name": "instrument", "type": 1, "weight": 5775}, "217991": {"name": "instrument de torture", "type": 1, "weight": 17}}, "relations": [{"node1": 217991, "node2": 6605, "type": 6, "weight": 50.0}, {"node1": 217991, "node2": 15087956, "type": 6, "weight": 34.0}]}

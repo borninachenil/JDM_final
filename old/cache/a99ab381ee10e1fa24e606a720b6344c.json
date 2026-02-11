@@ -1,0 +1,1 @@
+{"nodes": {"68295": {"name": "unité", "type": 1, "weight": 7821}, "94538": {"name": "syllabe", "type": 1, "weight": 2102}, "108218": {"name": "voyelle", "type": 1, "weight": 2678}}, "relations": [{"node1": 94538, "node2": 68295, "type": 6, "weight": 56.0}, {"node1": 94538, "node2": 108218, "type": 6, "weight": 51.0}]}

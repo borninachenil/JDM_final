@@ -1,0 +1,1 @@
+{"nodes": {"6408981": {"name": "déficits immunitaires combinés", "type": 1, "weight": 25}, "6302819": {"name": "déficits immunitaires", "type": 1, "weight": 25}, "397469": {"name": "déficits", "type": 1, "weight": 225}}, "relations": [{"node1": 6408981, "node2": 397469, "type": 6, "weight": 31.0}, {"node1": 6408981, "node2": 6302819, "type": 6, "weight": 44.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"37954": {"name": "conséquence", "type": 1, "weight": 9932}, "318580544": {"name": "conséquence de la tempête", "type": 1, "weight": 25}, "13778486": {"name": "conséquence de", "type": 1, "weight": 39}}, "relations": [{"node1": 318580544, "node2": 37954, "type": 6, "weight": 26.0}, {"node1": 318580544, "node2": 13778486, "type": 6, "weight": 25.0}]}

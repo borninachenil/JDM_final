@@ -1,0 +1,1 @@
+{"nodes": {"155756": {"name": "matière organique", "type": 1, "weight": 504}, "177321": {"name": "préparation culinaire", "type": 1, "weight": 622}, "219123": {"name": "plat>20965>49537", "type": 1, "weight": 202}}, "relations": [{"node1": 219123, "node2": 155756, "type": 6, "weight": 30.0}, {"node1": 219123, "node2": 177321, "type": 6, "weight": 198.0}]}

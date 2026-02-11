@@ -1,0 +1,1 @@
+{"nodes": {"401330": {"name": "font", "type": 1, "weight": 3957}, "34493": {"name": "fonts", "type": 1, "weight": 533}}, "relations": [{"node1": 34493, "node2": 401330, "type": 6, "weight": 10.0}]}

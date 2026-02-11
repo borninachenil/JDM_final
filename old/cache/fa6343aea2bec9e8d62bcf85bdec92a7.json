@@ -1,0 +1,1 @@
+{"nodes": {"5815892": {"name": "frontière de divergence", "type": 1, "weight": 25}, "118288": {"name": "frontière", "type": 1, "weight": 5905}}, "relations": [{"node1": 5815892, "node2": 118288, "type": 6, "weight": 32.0}]}

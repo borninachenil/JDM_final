@@ -1,0 +1,1 @@
+{"nodes": {"122272": {"name": "fichier", "type": 1, "weight": 3455}, "15087799": {"name": "en:data file", "type": 1, "weight": 25}, "7578817": {"name": "en:data", "type": 1, "weight": 25}}, "relations": [{"node1": 15087799, "node2": 122272, "type": 6, "weight": 30.0}, {"node1": 15087799, "node2": 7578817, "type": 6, "weight": 25.0}]}

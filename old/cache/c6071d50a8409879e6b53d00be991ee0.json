@@ -1,0 +1,1 @@
+{"nodes": {"5631861": {"name": "recette à base de viande de boeuf", "type": 1, "weight": 25}, "5631862": {"name": "recette à base de viande", "type": 1, "weight": 25}, "120188": {"name": "recette", "type": 1, "weight": 3288}}, "relations": [{"node1": 5631861, "node2": 120188, "type": 6, "weight": 31.0}, {"node1": 5631861, "node2": 5631862, "type": 6, "weight": 36.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"13300782": {"name": "réaction du système immunitaire", "type": 1, "weight": 26}, "93299": {"name": "réaction", "type": 1, "weight": 13430}}, "relations": [{"node1": 13300782, "node2": 93299, "type": 6, "weight": 27.0}]}

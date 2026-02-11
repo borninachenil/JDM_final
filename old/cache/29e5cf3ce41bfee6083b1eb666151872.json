@@ -1,0 +1,1 @@
+{"nodes": {"13737721": {"name": "destruction partielle de la peau", "type": 1, "weight": 25}, "33698": {"name": "destruction", "type": 1, "weight": 4709}}, "relations": [{"node1": 13737721, "node2": 33698, "type": 6, "weight": 28.0}]}

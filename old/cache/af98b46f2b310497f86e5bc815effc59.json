@@ -1,0 +1,1 @@
+{"nodes": {"92080": {"name": "vêtements", "type": 1, "weight": 3527}, "120949": {"name": "vêtement", "type": 1, "weight": 5828}, "15465961": {"name": "vêtements pour dames", "type": 1, "weight": 25}}, "relations": [{"node1": 15465961, "node2": 92080, "type": 6, "weight": 43.0}, {"node1": 15465961, "node2": 120949, "type": 6, "weight": 90.0}]}

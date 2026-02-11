@@ -1,0 +1,1 @@
+{"nodes": {"39406": {"name": "tentative", "type": 1, "weight": 4244}, "3230934": {"name": "tentative de coup d'État", "type": 1, "weight": 72}, "425539": {"name": "Tentative", "type": 1, "weight": 74}}, "relations": [{"node1": 3230934, "node2": 39406, "type": 6, "weight": 41.0}, {"node1": 3230934, "node2": 425539, "type": 6, "weight": 10.0}]}

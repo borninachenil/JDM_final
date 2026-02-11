@@ -1,0 +1,1 @@
+{"nodes": {"12722770": {"name": "branche>106784>104993", "type": 1, "weight": 25}, "131727": {"name": "dérivation", "type": 1, "weight": 112}}, "relations": [{"node1": 12722770, "node2": 131727, "type": 6, "weight": 31.0}]}

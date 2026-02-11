@@ -1,0 +1,1 @@
+{"nodes": {"97739": {"name": "matériau", "type": 1, "weight": 3334}, "113577": {"name": "panneau", "type": 1, "weight": 626}, "146505": {"name": "contreplaqué", "type": 1, "weight": 95}}, "relations": [{"node1": 146505, "node2": 97739, "type": 6, "weight": 26.0}, {"node1": 146505, "node2": 113577, "type": 6, "weight": 64.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"398461": {"name": "émissions", "type": 1, "weight": 4724}, "10965476": {"name": "réalisateur de télévision italien", "type": 1, "weight": 25}}, "relations": [{"node1": 398461, "node2": 10965476, "type": 6, "weight": 10.0}]}

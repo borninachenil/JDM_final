@@ -1,0 +1,1 @@
+{"nodes": {"255992524": {"name": "autorité étatique", "type": 1, "weight": 26}, "7086": {"name": "autorité", "type": 1, "weight": 17900}}, "relations": [{"node1": 255992524, "node2": 7086, "type": 6, "weight": 28.0}]}

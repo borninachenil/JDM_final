@@ -1,0 +1,1 @@
+{"nodes": {"6373974": {"name": "sentiment de remords", "type": 1, "weight": 25}, "122549": {"name": "sentiment", "type": 1, "weight": 11378}, "276865402": {"name": "sentiment de", "type": 1, "weight": 37}}, "relations": [{"node1": 6373974, "node2": 122549, "type": 6, "weight": 32.0}, {"node1": 6373974, "node2": 276865402, "type": 6, "weight": 25.0}]}

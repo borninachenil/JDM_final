@@ -1,0 +1,1 @@
+{"nodes": {"317730": {"name": "effet>37954", "type": 1, "weight": 78}, "15392515": {"name": "en:undesirable effect", "type": 1, "weight": 25}, "90236": {"name": "effet", "type": 1, "weight": 15426}}, "relations": [{"node1": 15392515, "node2": 90236, "type": 6, "weight": 310.0}, {"node1": 15392515, "node2": 317730, "type": 6, "weight": 335.0}]}

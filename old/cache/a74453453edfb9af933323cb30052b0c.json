@@ -1,0 +1,1 @@
+{"nodes": {"6904296": {"name": "en:oral", "type": 1, "weight": 25}, "15047860": {"name": "en:oral communication", "type": 1, "weight": 25}, "15070267": {"name": "en:auditory communication", "type": 1, "weight": 25}}, "relations": [{"node1": 15047860, "node2": 6904296, "type": 6, "weight": 25.0}, {"node1": 15047860, "node2": 15070267, "type": 6, "weight": 35.0}]}

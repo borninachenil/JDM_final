@@ -1,0 +1,1 @@
+{"nodes": {"393941142": {"name": "source d'émissions de méthane", "type": 1, "weight": 0}, "99014": {"name": "source", "type": 1, "weight": 9532}}, "relations": [{"node1": 393941142, "node2": 99014, "type": 6, "weight": 26.0}]}

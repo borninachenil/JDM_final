@@ -1,0 +1,1 @@
+{"nodes": {"103865": {"name": "trigonométrie", "type": 1, "weight": 204}, "1787845": {"name": "branche des mathématiques", "type": 1, "weight": 33}}, "relations": [{"node1": 103865, "node2": 1787845, "type": 6, "weight": 27.0}]}

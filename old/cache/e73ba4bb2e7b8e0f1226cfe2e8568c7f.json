@@ -1,0 +1,1 @@
+{"nodes": {"38929": {"name": "étape", "type": 1, "weight": 5233}, "5801197": {"name": "étape du processus de vinification du Champagne", "type": 1, "weight": 25}}, "relations": [{"node1": 5801197, "node2": 38929, "type": 6, "weight": 28.0}]}

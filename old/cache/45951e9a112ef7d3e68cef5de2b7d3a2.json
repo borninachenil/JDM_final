@@ -1,0 +1,1 @@
+{"nodes": {"5517364": {"name": "phase paléoclimatique", "type": 1, "weight": 25}, "7053840": {"name": "en:phase", "type": 1, "weight": 4}, "61679": {"name": "phase", "type": 1, "weight": 4663}}, "relations": [{"node1": 5517364, "node2": 61679, "type": 6, "weight": 44.0}, {"node1": 5517364, "node2": 7053840, "type": 6, "weight": 34.0}]}

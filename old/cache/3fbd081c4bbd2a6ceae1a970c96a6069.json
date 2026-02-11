@@ -1,0 +1,1 @@
+{"nodes": {"5526540": {"name": "particularité de diction", "type": 1, "weight": 25}, "124508": {"name": "particularité", "type": 1, "weight": 3231}, "261074282": {"name": "particularité de", "type": 1, "weight": 25}}, "relations": [{"node1": 5526540, "node2": 124508, "type": 6, "weight": 38.0}, {"node1": 5526540, "node2": 261074282, "type": 6, "weight": 25.0}]}

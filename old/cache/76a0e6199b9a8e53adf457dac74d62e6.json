@@ -1,0 +1,1 @@
+{"nodes": {"15432111": {"name": "en:method of locomotion", "type": 1, "weight": 25}, "133857": {"name": "mode", "type": 1, "weight": 8310}, "7549010": {"name": "en:method", "type": 1, "weight": 25}}, "relations": [{"node1": 15432111, "node2": 133857, "type": 6, "weight": 200.0}, {"node1": 15432111, "node2": 7549010, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"50823": {"name": "éraflure", "type": 1, "weight": 118}, "96406": {"name": "écorchure", "type": 1, "weight": 126}, "1922340": {"name": "lésion>102206", "type": 1, "weight": 130}}, "relations": [{"node1": 50823, "node2": 96406, "type": 6, "weight": 145.0}, {"node1": 50823, "node2": 1922340, "type": 6, "weight": 38.0}]}

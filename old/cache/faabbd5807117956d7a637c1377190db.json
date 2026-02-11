@@ -1,0 +1,1 @@
+{"nodes": {"112637": {"name": "lésion", "type": 1, "weight": 781}, "331360": {"name": "lésion dermatologique", "type": 1, "weight": 50}, "1922340": {"name": "lésion>102206", "type": 1, "weight": 130}}, "relations": [{"node1": 331360, "node2": 112637, "type": 6, "weight": 660.0}, {"node1": 331360, "node2": 1922340, "type": 6, "weight": 429.0}]}

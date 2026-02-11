@@ -1,0 +1,1 @@
+{"nodes": {"10881": {"name": "bouton", "type": 1, "weight": 1356}, "3260182": {"name": "bouton de commande", "type": 1, "weight": 26}, "7290936": {"name": "en:control", "type": 1, "weight": 25}}, "relations": [{"node1": 3260182, "node2": 10881, "type": 6, "weight": 36.0}, {"node1": 3260182, "node2": 7290936, "type": 6, "weight": 25.0}]}

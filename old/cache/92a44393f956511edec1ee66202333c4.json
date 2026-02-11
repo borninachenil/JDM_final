@@ -1,0 +1,1 @@
+{"nodes": {"465127023": {"name": "structure religieuse", "type": 1, "weight": 0}, "11103": {"name": "clocher", "type": 1, "weight": 1191}, "3733578": {"name": "élément architectural", "type": 1, "weight": 31}}, "relations": [{"node1": 11103, "node2": 3733578, "type": 6, "weight": 85.0}, {"node1": 11103, "node2": 465127023, "type": 6, "weight": 45.0}]}

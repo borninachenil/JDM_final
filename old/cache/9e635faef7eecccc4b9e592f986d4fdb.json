@@ -1,0 +1,1 @@
+{"nodes": {"132026": {"name": "réanimation", "type": 1, "weight": 182}, "112929": {"name": "action", "type": 1, "weight": 18866}, "2971765": {"name": "discipline médicale", "type": 1, "weight": 25}}, "relations": [{"node1": 132026, "node2": 112929, "type": 6, "weight": 31.0}, {"node1": 132026, "node2": 2971765, "type": 6, "weight": 29.0}]}

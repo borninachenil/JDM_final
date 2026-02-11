@@ -1,0 +1,1 @@
+{"nodes": {"279323941": {"name": "pause bienfaisante", "type": 1, "weight": 25}, "133345": {"name": "pause", "type": 1, "weight": 1136}}, "relations": [{"node1": 279323941, "node2": 133345, "type": 6, "weight": 25.0}]}

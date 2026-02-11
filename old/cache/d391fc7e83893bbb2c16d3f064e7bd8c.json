@@ -1,0 +1,1 @@
+{"nodes": {"145662": {"name": "communauté", "type": 1, "weight": 27111}, "6596135": {"name": "communauté d'individus", "type": 1, "weight": 25}}, "relations": [{"node1": 6596135, "node2": 145662, "type": 6, "weight": 29.0}]}

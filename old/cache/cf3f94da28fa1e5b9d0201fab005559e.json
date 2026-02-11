@@ -1,0 +1,1 @@
+{"nodes": {"55452": {"name": "procession", "type": 1, "weight": 212}, "15247062": {"name": "en:sacred procession", "type": 1, "weight": 25}, "13742": {"name": "cortège", "type": 1, "weight": 292}}, "relations": [{"node1": 15247062, "node2": 13742, "type": 6, "weight": 37.0}, {"node1": 15247062, "node2": 55452, "type": 6, "weight": 38.0}]}

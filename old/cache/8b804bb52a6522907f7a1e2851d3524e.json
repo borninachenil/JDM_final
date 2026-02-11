@@ -1,0 +1,1 @@
+{"nodes": {"441773220": {"name": "boulon de culasse", "type": 1, "weight": 1}, "117971": {"name": "boulon", "type": 1, "weight": 162}}, "relations": [{"node1": 441773220, "node2": 117971, "type": 6, "weight": 26.0}]}

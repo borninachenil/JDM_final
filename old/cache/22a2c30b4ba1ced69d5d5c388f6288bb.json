@@ -1,0 +1,1 @@
+{"nodes": {"298720370": {"name": "opposé de l'hubris", "type": 1, "weight": 0}, "61686": {"name": "opposé", "type": 1, "weight": 2691}}, "relations": [{"node1": 298720370, "node2": 61686, "type": 6, "weight": 25.0}]}

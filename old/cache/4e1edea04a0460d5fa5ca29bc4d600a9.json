@@ -1,0 +1,1 @@
+{"nodes": {"50985044": {"name": "circonscription territoriale", "type": 1, "weight": 27}, "17573": {"name": "circonscription", "type": 1, "weight": 3637}}, "relations": [{"node1": 50985044, "node2": 17573, "type": 6, "weight": 25.0}]}

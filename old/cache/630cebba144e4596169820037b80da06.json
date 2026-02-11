@@ -1,0 +1,1 @@
+{"nodes": {"270243054": {"name": "ensemble matériel", "type": 1, "weight": 27}, "31526": {"name": "système", "type": 1, "weight": 22771}, "2741628": {"name": "système mécanique", "type": 1, "weight": 30}}, "relations": [{"node1": 2741628, "node2": 31526, "type": 6, "weight": 45.0}, {"node1": 2741628, "node2": 270243054, "type": 6, "weight": 25.0}]}

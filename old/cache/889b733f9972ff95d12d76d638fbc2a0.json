@@ -1,0 +1,1 @@
+{"nodes": {"11081669": {"name": "épisode de la Passion du Christ", "type": 1, "weight": 25}, "125661": {"name": "épisode", "type": 1, "weight": 4490}, "13768421": {"name": "épisode de", "type": 1, "weight": 27}}, "relations": [{"node1": 11081669, "node2": 125661, "type": 6, "weight": 26.0}, {"node1": 11081669, "node2": 13768421, "type": 6, "weight": 25.0}]}

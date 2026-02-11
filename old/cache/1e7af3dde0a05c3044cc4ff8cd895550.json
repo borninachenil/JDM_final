@@ -1,0 +1,1 @@
+{"nodes": {"414431112": {"name": "instrument de musique cordes pincées", "type": 1, "weight": 0}, "91594": {"name": "instrument de musique", "type": 1, "weight": 627}, "6605": {"name": "instrument", "type": 1, "weight": 5775}}, "relations": [{"node1": 414431112, "node2": 6605, "type": 6, "weight": 25.0}, {"node1": 414431112, "node2": 91594, "type": 6, "weight": 25.0}]}

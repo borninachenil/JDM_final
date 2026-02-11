@@ -1,0 +1,1 @@
+{"nodes": {"142914": {"name": "image", "type": 1, "weight": 12500}, "411760031": {"name": "terme désignant", "type": 1, "weight": 23}, "102142": {"name": "arrière-plan", "type": 1, "weight": 257}}, "relations": [{"node1": 102142, "node2": 142914, "type": 6, "weight": 36.0}, {"node1": 102142, "node2": 411760031, "type": 6, "weight": 25.0}]}

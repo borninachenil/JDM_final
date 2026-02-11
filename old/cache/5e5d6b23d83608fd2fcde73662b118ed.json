@@ -1,0 +1,1 @@
+{"nodes": {"222728840": {"name": "processus émotionnel", "type": 1, "weight": 30}, "5663": {"name": "processus", "type": 1, "weight": 11564}}, "relations": [{"node1": 222728840, "node2": 5663, "type": 6, "weight": 36.0}]}

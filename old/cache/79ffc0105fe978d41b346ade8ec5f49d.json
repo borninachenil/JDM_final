@@ -1,0 +1,1 @@
+{"nodes": {"244861": {"name": "saison>237326", "type": 1, "weight": 54}, "237326": {"name": "période de l'année", "type": 1, "weight": 51}}, "relations": [{"node1": 244861, "node2": 237326, "type": 6, "weight": 17.0}]}

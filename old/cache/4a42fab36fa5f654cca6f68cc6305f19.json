@@ -1,0 +1,1 @@
+{"nodes": {"15446066": {"name": "en:social indicator", "type": 1, "weight": 25}, "50698": {"name": "indicateur", "type": 1, "weight": 2319}, "6905432": {"name": "en:social", "type": 1, "weight": 25}}, "relations": [{"node1": 15446066, "node2": 50698, "type": 6, "weight": 10.0}, {"node1": 15446066, "node2": 6905432, "type": 6, "weight": 25.0}]}

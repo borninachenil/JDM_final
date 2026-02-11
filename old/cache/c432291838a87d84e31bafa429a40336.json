@@ -1,0 +1,1 @@
+{"nodes": {"38929": {"name": "étape", "type": 1, "weight": 5233}, "211821810": {"name": "étape de la vie", "type": 1, "weight": 34}, "259250004": {"name": "étape de", "type": 1, "weight": 25}}, "relations": [{"node1": 211821810, "node2": 38929, "type": 6, "weight": 25.0}, {"node1": 211821810, "node2": 259250004, "type": 6, "weight": 25.0}]}

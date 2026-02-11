@@ -1,0 +1,1 @@
+{"nodes": {"15312463": {"name": "en:fascicle of muscle fibers", "type": 1, "weight": 25}, "59768": {"name": "faisceau", "type": 1, "weight": 2161}}, "relations": [{"node1": 15312463, "node2": 59768, "type": 6, "weight": 40.0}]}

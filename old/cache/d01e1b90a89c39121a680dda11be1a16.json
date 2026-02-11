@@ -1,0 +1,1 @@
+{"nodes": {"52954328": {"name": "mode de division", "type": 1, "weight": 25}, "133857": {"name": "mode", "type": 1, "weight": 8310}, "284600126": {"name": "mode de", "type": 1, "weight": 27}}, "relations": [{"node1": 52954328, "node2": 133857, "type": 6, "weight": 25.0}, {"node1": 52954328, "node2": 284600126, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"15369750": {"name": "bac de stockage", "type": 1, "weight": 25}, "102705": {"name": "bac", "type": 1, "weight": 1213}, "2077": {"name": "réservoir", "type": 1, "weight": 2103}}, "relations": [{"node1": 15369750, "node2": 2077, "type": 6, "weight": 30.0}, {"node1": 15369750, "node2": 102705, "type": 6, "weight": 36.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"155352837": {"name": "communication humaine", "type": 1, "weight": 50}, "152438": {"name": "Communication", "type": 1, "weight": 1966}, "12105": {"name": "communication", "type": 1, "weight": 42319}}, "relations": [{"node1": 155352837, "node2": 12105, "type": 6, "weight": 26.0}, {"node1": 155352837, "node2": 152438, "type": 6, "weight": 5.0}]}

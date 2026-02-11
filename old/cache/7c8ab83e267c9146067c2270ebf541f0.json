@@ -1,0 +1,1 @@
+{"nodes": {"11162132": {"name": "région culturelle et historique", "type": 1, "weight": 25}, "132350": {"name": "région", "type": 1, "weight": 9055}, "5521003": {"name": "région culturelle", "type": 1, "weight": 28}}, "relations": [{"node1": 11162132, "node2": 132350, "type": 6, "weight": 35.0}, {"node1": 11162132, "node2": 5521003, "type": 6, "weight": 36.0}]}

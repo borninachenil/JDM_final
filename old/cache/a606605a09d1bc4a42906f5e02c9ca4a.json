@@ -1,0 +1,1 @@
+{"nodes": {"270464861": {"name": "refus de respecter les lois", "type": 1, "weight": 25}, "112284": {"name": "refus", "type": 1, "weight": 4140}, "80724": {"name": "insubordination", "type": 1, "weight": 118}}, "relations": [{"node1": 80724, "node2": 112284, "type": 6, "weight": 28.0}, {"node1": 80724, "node2": 270464861, "type": 6, "weight": 25.0}]}

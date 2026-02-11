@@ -1,0 +1,1 @@
+{"nodes": {"256053786": {"name": "discours de prédication", "type": 1, "weight": 25}, "35352": {"name": "discours", "type": 1, "weight": 13048}}, "relations": [{"node1": 256053786, "node2": 35352, "type": 6, "weight": 26.0}]}

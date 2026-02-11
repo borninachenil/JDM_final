@@ -85,7 +85,6 @@ TRT_RELATION_IDS = [
 ]
 
 # === Parametres GRASP-it ===
-FUSION_THRESHOLD = 0.5  # Seuil de similarite cosinus pour fusionner deux regles
 TRAIN_RATIO = 0.8       # Ratio train/test
 RANDOM_SEED = 42
 API_RATE_LIMIT = 0.05   # Secondes entre les appels API (50ms)

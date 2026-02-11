@@ -1,0 +1,1 @@
+{"nodes": {"249697": {"name": "société animale", "type": 1, "weight": 52}, "146272": {"name": "société", "type": 1, "weight": 33528}, "39816": {"name": "modèle", "type": 1, "weight": 9857}}, "relations": [{"node1": 249697, "node2": 39816, "type": 6, "weight": 89.0}, {"node1": 249697, "node2": 146272, "type": 6, "weight": 92.0}]}

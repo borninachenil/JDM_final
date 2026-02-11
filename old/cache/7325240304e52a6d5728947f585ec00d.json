@@ -1,0 +1,1 @@
+{"nodes": {"260369354": {"name": "terme vernaculaire", "type": 1, "weight": 25}, "127960": {"name": "encens", "type": 1, "weight": 242}}, "relations": [{"node1": 127960, "node2": 260369354, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"13031302": {"name": "approche du rapport à l'espace matériel", "type": 1, "weight": 0}, "139951": {"name": "approche", "type": 1, "weight": 10916}, "117706": {"name": "proxémique", "type": 1, "weight": 50}}, "relations": [{"node1": 117706, "node2": 139951, "type": 6, "weight": 30.0}, {"node1": 117706, "node2": 13031302, "type": 6, "weight": 27.0}]}

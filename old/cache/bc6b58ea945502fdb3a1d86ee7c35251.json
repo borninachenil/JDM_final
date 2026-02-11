@@ -1,0 +1,1 @@
+{"nodes": {"374157": {"name": "préparation alimentaire", "type": 1, "weight": 60}, "114839": {"name": "mets", "type": 1, "weight": 3119}, "589322": {"name": "salade>16033>114839>589312", "type": 1, "weight": 6}}, "relations": [{"node1": 589322, "node2": 114839, "type": 6, "weight": 30.0}, {"node1": 589322, "node2": 374157, "type": 6, "weight": 26.0}]}

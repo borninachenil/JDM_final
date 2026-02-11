@@ -1,0 +1,1 @@
+{"nodes": {"36060": {"name": "secrétaire", "type": 1, "weight": 4941}, "184203": {"name": "secrétaire général", "type": 1, "weight": 719}, "134768": {"name": "dirigeant", "type": 1, "weight": 4101}}, "relations": [{"node1": 184203, "node2": 36060, "type": 6, "weight": 209.0}, {"node1": 184203, "node2": 134768, "type": 6, "weight": 26.0}]}

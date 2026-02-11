@@ -1,0 +1,1 @@
+{"nodes": {"17630946": {"name": "oeuvre écrite", "type": 1, "weight": 31}, "44075": {"name": "&oelig;uvre", "type": 1, "weight": 5249}, "144938": {"name": "oeuvre", "type": 1, "weight": 4663}}, "relations": [{"node1": 17630946, "node2": 44075, "type": 6, "weight": 35.0}, {"node1": 17630946, "node2": 144938, "type": 6, "weight": 32.0}]}

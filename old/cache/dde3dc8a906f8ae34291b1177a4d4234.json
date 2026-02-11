@@ -1,0 +1,1 @@
+{"nodes": {"35352": {"name": "discours", "type": 1, "weight": 13048}, "170100352": {"name": "discours de défense", "type": 1, "weight": 29}}, "relations": [{"node1": 170100352, "node2": 35352, "type": 6, "weight": 26.0}]}

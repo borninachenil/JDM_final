@@ -1,0 +1,1 @@
+{"nodes": {"2955478": {"name": "processus biochimique", "type": 1, "weight": 34}, "5663": {"name": "processus", "type": 1, "weight": 11564}, "12324023": {"name": "en:molecular function", "type": 1, "weight": 25}}, "relations": [{"node1": 2955478, "node2": 5663, "type": 6, "weight": 92.0}, {"node1": 2955478, "node2": 12324023, "type": 6, "weight": 49.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"301599925": {"name": "critère d'évaluation de langage", "type": 1, "weight": 25}, "15864": {"name": "critère", "type": 1, "weight": 3371}, "15473691": {"name": "critère d'évaluation", "type": 1, "weight": 89}}, "relations": [{"node1": 301599925, "node2": 15864, "type": 6, "weight": 26.0}, {"node1": 301599925, "node2": 15473691, "type": 6, "weight": 25.0}]}

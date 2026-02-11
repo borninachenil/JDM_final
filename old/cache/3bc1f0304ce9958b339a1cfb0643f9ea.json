@@ -1,0 +1,1 @@
+{"nodes": {"106035": {"name": "gant", "type": 1, "weight": 414}, "139906": {"name": "poche", "type": 1, "weight": 3567}, "182581": {"name": "gant de toilette", "type": 1, "weight": 77}}, "relations": [{"node1": 182581, "node2": 106035, "type": 6, "weight": 31.0}, {"node1": 182581, "node2": 139906, "type": 6, "weight": 30.0}]}

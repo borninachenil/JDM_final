@@ -1,0 +1,1 @@
+{"nodes": {"3172696": {"name": "récipient en verre", "type": 1, "weight": 4}, "214833": {"name": "objet en verre", "type": 1, "weight": 58}, "89628": {"name": "récipient", "type": 1, "weight": 1312}}, "relations": [{"node1": 3172696, "node2": 89628, "type": 6, "weight": 35.0}, {"node1": 3172696, "node2": 214833, "type": 6, "weight": 26.0}]}

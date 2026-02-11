@@ -1,0 +1,1 @@
+{"nodes": {"302085": {"name": "région géographique et historique", "type": 777, "weight": 61}, "132350": {"name": "région", "type": 1, "weight": 9055}, "377722": {"name": "région géographique", "type": 1, "weight": 54}}, "relations": [{"node1": 302085, "node2": 132350, "type": 6, "weight": 106.0}, {"node1": 302085, "node2": 377722, "type": 6, "weight": 104.0}]}

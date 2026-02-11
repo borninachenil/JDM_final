@@ -1,0 +1,1 @@
+{"nodes": {"213644": {"name": "os>116980", "type": 1, "weight": 456}, "74558": {"name": "os", "type": 1, "weight": 3633}, "330638": {"name": "os du pied", "type": 1, "weight": 50}}, "relations": [{"node1": 330638, "node2": 74558, "type": 6, "weight": 253.0}, {"node1": 330638, "node2": 213644, "type": 6, "weight": 294.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"14530136": {"name": "renversement d'un régime politique", "type": 1, "weight": 0}, "114192": {"name": "renversement", "type": 1, "weight": 1835}}, "relations": [{"node1": 14530136, "node2": 114192, "type": 6, "weight": 31.0}]}

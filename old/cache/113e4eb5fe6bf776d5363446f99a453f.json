@@ -1,0 +1,1 @@
+{"nodes": {"273281296": {"name": "préparation de poissons", "type": 1, "weight": 25}, "33634": {"name": "préparation", "type": 1, "weight": 7194}, "398344166": {"name": "préparation de", "type": 1, "weight": 217}}, "relations": [{"node1": 273281296, "node2": 33634, "type": 6, "weight": 27.0}, {"node1": 273281296, "node2": 398344166, "type": 6, "weight": 25.0}]}

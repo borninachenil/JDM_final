@@ -1,0 +1,1 @@
+{"nodes": {"11130951": {"name": "twix", "type": 1, "weight": 0}, "15148259": {"name": "en:hershey bar", "type": 1, "weight": 25}, "154515": {"name": "barre chocolatée", "type": 1, "weight": 228}}, "relations": [{"node1": 11130951, "node2": 154515, "type": 6, "weight": 10.0}, {"node1": 11130951, "node2": 15148259, "type": 6, "weight": 10.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"1912917": {"name": "_INFO-COUNTABLE-YES", "type": 36, "weight": 10}, "17344439": {"name": "hawaii", "type": 1, "weight": 37}}, "relations": [{"node1": 17344439, "node2": 1912917, "type": 36, "weight": 30.0}]}

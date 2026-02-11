@@ -1,0 +1,1 @@
+{"nodes": {"14947925": {"name": "en:marker", "type": 1, "weight": 25}, "15462534": {"name": "en:marker sign", "type": 1, "weight": 25}, "113577": {"name": "panneau", "type": 1, "weight": 626}}, "relations": [{"node1": 15462534, "node2": 113577, "type": 6, "weight": 40.0}, {"node1": 15462534, "node2": 14947925, "type": 6, "weight": 25.0}]}

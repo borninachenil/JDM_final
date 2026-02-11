@@ -1,0 +1,1 @@
+{"nodes": {"3490958": {"name": "agglomération rurale", "type": 1, "weight": 25}, "118524": {"name": "agglomération", "type": 1, "weight": 685}}, "relations": [{"node1": 3490958, "node2": 118524, "type": 6, "weight": 26.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"251652054": {"name": "processus de synthèse", "type": 1, "weight": 28}, "271594391": {"name": "processus de synthèse protéique", "type": 1, "weight": 0}, "5663": {"name": "processus", "type": 1, "weight": 11564}}, "relations": [{"node1": 271594391, "node2": 5663, "type": 6, "weight": 27.0}, {"node1": 271594391, "node2": 251652054, "type": 6, "weight": 26.0}]}

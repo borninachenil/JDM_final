@@ -1,0 +1,1 @@
+{"nodes": {"286459342": {"name": "zone bathymétrique", "type": 1, "weight": 25}, "142661": {"name": "zone", "type": 1, "weight": 5777}}, "relations": [{"node1": 286459342, "node2": 142661, "type": 6, "weight": 29.0}]}

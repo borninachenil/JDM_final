@@ -1,0 +1,1 @@
+{"nodes": {"119018": {"name": "exploitation", "type": 1, "weight": 5149}, "90865": {"name": "exploitation minière", "type": 1, "weight": 484}, "3184213": {"name": "Exploitation", "type": 1, "weight": 64}}, "relations": [{"node1": 90865, "node2": 119018, "type": 6, "weight": 60.0}, {"node1": 90865, "node2": 3184213, "type": 6, "weight": 10.0}]}

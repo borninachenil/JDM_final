@@ -1,0 +1,1 @@
+{"nodes": {"92619": {"name": "réalisation", "type": 1, "weight": 6973}, "10961529": {"name": "Réalisation", "type": 777, "weight": 3276}, "34832983": {"name": "réalisation artistique", "type": 1, "weight": 35}}, "relations": [{"node1": 34832983, "node2": 92619, "type": 6, "weight": 25.0}, {"node1": 34832983, "node2": 10961529, "type": 6, "weight": 5.0}]}

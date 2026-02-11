@@ -1,0 +1,1 @@
+{"nodes": {"52119": {"name": "langue", "type": 1, "weight": 13308}, "5784511": {"name": "langue athapascane", "type": 1, "weight": 25}, "152952": {"name": "Langue", "type": 1, "weight": 2182}}, "relations": [{"node1": 5784511, "node2": 52119, "type": 6, "weight": 32.0}, {"node1": 5784511, "node2": 152952, "type": 6, "weight": 15.0}]}

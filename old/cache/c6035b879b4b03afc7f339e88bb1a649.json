@@ -1,0 +1,1 @@
+{"nodes": {"287187137": {"name": "célébrité numérique", "type": 1, "weight": 32}, "80191": {"name": "célébrité", "type": 1, "weight": 888}}, "relations": [{"node1": 287187137, "node2": 80191, "type": 6, "weight": 26.0}]}

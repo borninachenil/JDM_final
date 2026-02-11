@@ -1,0 +1,1 @@
+{"nodes": {"49781": {"name": "mise en oeuvre", "type": 1, "weight": 842}, "10025856": {"name": "mise en oeuvre des moyens humains et matériels", "type": 777, "weight": 25}, "143930": {"name": "mise", "type": 1, "weight": 4261}}, "relations": [{"node1": 10025856, "node2": 49781, "type": 6, "weight": 26.0}, {"node1": 10025856, "node2": 143930, "type": 6, "weight": 27.0}]}

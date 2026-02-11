@@ -1,0 +1,1 @@
+{"nodes": {"271373098": {"name": "façon de", "type": 1, "weight": 34}, "11175017": {"name": "façon de définir", "type": 1, "weight": 27}, "81363": {"name": "façon", "type": 1, "weight": 12516}}, "relations": [{"node1": 11175017, "node2": 81363, "type": 6, "weight": 26.0}, {"node1": 11175017, "node2": 271373098, "type": 6, "weight": 25.0}]}

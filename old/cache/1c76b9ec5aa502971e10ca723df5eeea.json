@@ -1,0 +1,1 @@
+{"nodes": {"5518477": {"name": "messe de l'Église catholique", "type": 1, "weight": 25}, "98988": {"name": "messe", "type": 1, "weight": 1828}}, "relations": [{"node1": 5518477, "node2": 98988, "type": 6, "weight": 39.0}]}

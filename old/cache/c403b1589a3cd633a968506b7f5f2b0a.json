@@ -1,0 +1,1 @@
+{"nodes": {"308082892": {"name": "cavité du crâne", "type": 1, "weight": 25}, "55504": {"name": "cavité", "type": 1, "weight": 446}}, "relations": [{"node1": 308082892, "node2": 55504, "type": 6, "weight": 25.0}]}

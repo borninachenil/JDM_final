@@ -1,0 +1,1 @@
+{"nodes": {"299436659": {"name": "cycle à assistance électrique", "type": 1, "weight": 0}, "24007": {"name": "cycle", "type": 1, "weight": 5058}}, "relations": [{"node1": 299436659, "node2": 24007, "type": 6, "weight": 25.0}]}

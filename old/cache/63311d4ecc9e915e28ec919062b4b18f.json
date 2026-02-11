@@ -1,0 +1,1 @@
+{"nodes": {"12565734": {"name": "composé chimique minéral", "type": 1, "weight": 25}, "180584": {"name": "composé chimique", "type": 1, "weight": 152}, "66196": {"name": "composé", "type": 1, "weight": 5196}}, "relations": [{"node1": 12565734, "node2": 66196, "type": 6, "weight": 26.0}, {"node1": 12565734, "node2": 180584, "type": 6, "weight": 26.0}]}

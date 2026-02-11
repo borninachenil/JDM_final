@@ -1,0 +1,1 @@
+{"nodes": {"249145387": {"name": "finocchiona", "type": 777, "weight": 25}, "276096": {"name": "_INFO-WIKI-YES", "type": 36, "weight": 50}}, "relations": [{"node1": 249145387, "node2": 276096, "type": 36, "weight": 25.0}]}

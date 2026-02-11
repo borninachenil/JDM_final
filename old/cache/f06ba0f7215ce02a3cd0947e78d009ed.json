@@ -1,0 +1,1 @@
+{"nodes": {"106265": {"name": "appareil", "type": 1, "weight": 4064}, "2153": {"name": "elliptique", "type": 1, "weight": 64}}, "relations": [{"node1": 2153, "node2": 106265, "type": 6, "weight": 25.0}]}

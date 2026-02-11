@@ -1,0 +1,1 @@
+{"nodes": {"15082069": {"name": "en:spiritual leader", "type": 1, "weight": 25}, "7686142": {"name": "en:reverend", "type": 1, "weight": 25}, "152762": {"name": "chef spirituel", "type": 1, "weight": 60}}, "relations": [{"node1": 7686142, "node2": 152762, "type": 6, "weight": 27.0}, {"node1": 7686142, "node2": 15082069, "type": 6, "weight": 26.0}]}

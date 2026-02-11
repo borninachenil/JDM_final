@@ -1,0 +1,1 @@
+{"nodes": {"274272039": {"name": "transformation de produits", "type": 1, "weight": 35}, "27890": {"name": "transformation", "type": 1, "weight": 16842}, "2830419": {"name": "transformation de", "type": 777, "weight": 29}}, "relations": [{"node1": 274272039, "node2": 27890, "type": 6, "weight": 25.0}, {"node1": 274272039, "node2": 2830419, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"166484127": {"name": "maltraitance psychologique", "type": 1, "weight": 25}, "118948": {"name": "maltraitance", "type": 1, "weight": 468}}, "relations": [{"node1": 166484127, "node2": 118948, "type": 6, "weight": 26.0}]}

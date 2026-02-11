@@ -1,0 +1,1 @@
+{"nodes": {"77864": {"name": "établissement", "type": 1, "weight": 3841}, "135190": {"name": "lieu", "type": 1, "weight": 13386}, "87687": {"name": "chenil", "type": 1, "weight": 217}}, "relations": [{"node1": 87687, "node2": 77864, "type": 6, "weight": 41.0}, {"node1": 87687, "node2": 135190, "type": 6, "weight": 52.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"14530204": {"name": "augmentation rapide de l'incidence d'une maladie", "type": 1, "weight": 25}, "107497": {"name": "augmentation", "type": 1, "weight": 6377}}, "relations": [{"node1": 14530204, "node2": 107497, "type": 6, "weight": 27.0}]}

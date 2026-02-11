@@ -1,0 +1,1 @@
+{"nodes": {"248682": {"name": "agent contaminant", "type": 1, "weight": 10}, "7596": {"name": "agent", "type": 1, "weight": 4960}}, "relations": [{"node1": 248682, "node2": 7596, "type": 6, "weight": 85.0}]}

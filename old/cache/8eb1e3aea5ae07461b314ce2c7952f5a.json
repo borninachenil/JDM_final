@@ -1,0 +1,1 @@
+{"nodes": {"345926": {"name": "côte de veau", "type": 1, "weight": 50}, "128277": {"name": "côtelette", "type": 1, "weight": 124}, "160927": {"name": "morceau de viande", "type": 1, "weight": 171}}, "relations": [{"node1": 128277, "node2": 160927, "type": 6, "weight": 36.0}, {"node1": 128277, "node2": 345926, "type": 6, "weight": 32.0}]}

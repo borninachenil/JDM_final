@@ -1,0 +1,1 @@
+{"nodes": {"125202871": {"name": "système de division de l'année", "type": 1, "weight": 0}, "31526": {"name": "système", "type": 1, "weight": 22771}, "3290083": {"name": "système de", "type": 777, "weight": 32}}, "relations": [{"node1": 125202871, "node2": 31526, "type": 6, "weight": 29.0}, {"node1": 125202871, "node2": 3290083, "type": 6, "weight": 25.0}]}

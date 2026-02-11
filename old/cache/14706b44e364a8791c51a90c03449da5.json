@@ -1,0 +1,1 @@
+{"nodes": {"123981": {"name": "extrémité", "type": 1, "weight": 1281}, "14557651": {"name": "extrémité d'une surface", "type": 1, "weight": 41}}, "relations": [{"node1": 14557651, "node2": 123981, "type": 6, "weight": 28.0}]}

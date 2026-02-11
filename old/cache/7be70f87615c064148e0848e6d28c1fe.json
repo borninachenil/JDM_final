@@ -1,0 +1,1 @@
+{"nodes": {"112637": {"name": "lésion", "type": 1, "weight": 781}, "218541": {"name": "lésion physique", "type": 1, "weight": 212}, "1922340": {"name": "lésion>102206", "type": 1, "weight": 130}}, "relations": [{"node1": 218541, "node2": 112637, "type": 6, "weight": 588.0}, {"node1": 218541, "node2": 1922340, "type": 6, "weight": 431.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"6136": {"name": "révolte", "type": 1, "weight": 4719}, "408950": {"name": "Révolte", "type": 1, "weight": 84}, "378183": {"name": "révolte armée", "type": 1, "weight": 76}}, "relations": [{"node1": 378183, "node2": 6136, "type": 6, "weight": 41.0}, {"node1": 378183, "node2": 408950, "type": 6, "weight": 5.0}]}

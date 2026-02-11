@@ -1,0 +1,1 @@
+{"nodes": {"542": {"name": "État", "type": 1, "weight": 11464}, "10850303": {"name": "État d'Europe orientale", "type": 1, "weight": 25}}, "relations": [{"node1": 10850303, "node2": 542, "type": 6, "weight": 25.0}]}

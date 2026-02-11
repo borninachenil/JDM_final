@@ -1,0 +1,1 @@
+{"nodes": {"1928498": {"name": "rubik's cube", "type": 777, "weight": 27}, "1927495": {"name": "rubik", "type": 1, "weight": 31}, "86980": {"name": "casse-tête", "type": 1, "weight": 263}}, "relations": [{"node1": 1928498, "node2": 86980, "type": 6, "weight": 57.0}, {"node1": 1928498, "node2": 1927495, "type": 6, "weight": 199.0}]}

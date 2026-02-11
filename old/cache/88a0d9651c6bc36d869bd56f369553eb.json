@@ -1,0 +1,1 @@
+{"nodes": {"73939": {"name": "prélèvement", "type": 1, "weight": 913}, "112929": {"name": "action", "type": 1, "weight": 18866}, "364223": {"name": "milieu biologique", "type": 1, "weight": 52}}, "relations": [{"node1": 73939, "node2": 112929, "type": 6, "weight": 29.0}, {"node1": 73939, "node2": 364223, "type": 6, "weight": 41.0}]}

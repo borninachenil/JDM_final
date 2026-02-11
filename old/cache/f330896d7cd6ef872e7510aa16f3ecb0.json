@@ -1,0 +1,1 @@
+{"nodes": {"33377": {"name": "matériel", "type": 1, "weight": 5651}, "2592896": {"name": "matériel de cuisson", "type": 1, "weight": 25}, "317216026": {"name": "matériel de", "type": 1, "weight": 296}}, "relations": [{"node1": 2592896, "node2": 33377, "type": 6, "weight": 53.0}, {"node1": 2592896, "node2": 317216026, "type": 6, "weight": 25.0}]}

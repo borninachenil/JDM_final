@@ -1,0 +1,1 @@
+{"nodes": {"5663": {"name": "processus", "type": 1, "weight": 11564}, "10089991": {"name": "processus géomorphologique", "type": 1, "weight": 25}}, "relations": [{"node1": 10089991, "node2": 5663, "type": 6, "weight": 27.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"6880460": {"name": "en:muscle", "type": 1, "weight": 16}, "3303909": {"name": "paroi musculaire", "type": 1, "weight": 25}, "39056": {"name": "paroi", "type": 1, "weight": 1412}}, "relations": [{"node1": 3303909, "node2": 39056, "type": 6, "weight": 54.0}, {"node1": 3303909, "node2": 6880460, "type": 6, "weight": 10.0}]}

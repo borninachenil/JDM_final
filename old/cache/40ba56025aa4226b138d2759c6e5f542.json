@@ -1,0 +1,1 @@
+{"nodes": {"213432": {"name": "tissu>94609", "type": 1, "weight": 274}, "87796": {"name": "vichy", "type": 1, "weight": 309}, "63936": {"name": "tissu", "type": 1, "weight": 3377}}, "relations": [{"node1": 87796, "node2": 63936, "type": 6, "weight": 87.0}, {"node1": 87796, "node2": 213432, "type": 6, "weight": 75.0}]}

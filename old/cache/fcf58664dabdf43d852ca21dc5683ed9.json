@@ -1,0 +1,1 @@
+{"nodes": {"132406": {"name": "quasi-particule", "type": 1, "weight": 51}, "14957368": {"name": "en:quantum", "type": 1, "weight": 25}}, "relations": [{"node1": 132406, "node2": 14957368, "type": 6, "weight": 27.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"107477": {"name": "nez", "type": 1, "weight": 4685}, "109348": {"name": "groin", "type": 1, "weight": 214}, "411760031": {"name": "terme désignant", "type": 1, "weight": 23}}, "relations": [{"node1": 109348, "node2": 107477, "type": 6, "weight": 13.0}, {"node1": 109348, "node2": 411760031, "type": 6, "weight": 25.0}]}

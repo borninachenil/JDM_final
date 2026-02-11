@@ -1,0 +1,1 @@
+{"nodes": {"328912379": {"name": "phénomène de ralentissement", "type": 1, "weight": 25}, "72908": {"name": "phénomène", "type": 1, "weight": 12739}, "401864516": {"name": "phénomène de", "type": 1, "weight": 1233}}, "relations": [{"node1": 328912379, "node2": 72908, "type": 6, "weight": 30.0}, {"node1": 328912379, "node2": 401864516, "type": 6, "weight": 25.0}]}

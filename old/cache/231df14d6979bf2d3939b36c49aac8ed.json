@@ -1,0 +1,1 @@
+{"nodes": {"139403": {"name": "fortune", "type": 1, "weight": 6341}, "111141": {"name": "propriété", "type": 1, "weight": 7221}, "63800": {"name": "divinité", "type": 1, "weight": 2091}}, "relations": [{"node1": 139403, "node2": 63800, "type": 6, "weight": 41.0}, {"node1": 139403, "node2": 111141, "type": 6, "weight": 28.0}]}

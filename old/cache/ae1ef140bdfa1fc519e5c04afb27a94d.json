@@ -1,0 +1,1 @@
+{"nodes": {"15236201": {"name": "commerçant détaillant", "type": 1, "weight": 0}, "65750": {"name": "commerçant", "type": 1, "weight": 790}, "14921790": {"name": "en:retail", "type": 1, "weight": 2}}, "relations": [{"node1": 15236201, "node2": 65750, "type": 6, "weight": 26.0}, {"node1": 15236201, "node2": 14921790, "type": 6, "weight": 10.0}]}

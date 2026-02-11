@@ -1,0 +1,1 @@
+{"nodes": {"145172": {"name": "membrane", "type": 1, "weight": 2459}, "84619": {"name": "souterrain", "type": 1, "weight": 937}, "136382": {"name": "boyau", "type": 1, "weight": 186}}, "relations": [{"node1": 136382, "node2": 84619, "type": 6, "weight": 13.0}, {"node1": 136382, "node2": 145172, "type": 6, "weight": 39.0}]}

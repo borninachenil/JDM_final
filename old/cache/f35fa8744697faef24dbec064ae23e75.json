@@ -1,0 +1,1 @@
+{"nodes": {"15084027": {"name": "en:ECM", "type": 1, "weight": 0}, "72390": {"name": "coincement", "type": 1, "weight": 54}, "15084026": {"name": "en:electronic countermeasures", "type": 1, "weight": 25}}, "relations": [{"node1": 72390, "node2": 15084026, "type": 6, "weight": 10.0}, {"node1": 72390, "node2": 15084027, "type": 6, "weight": 10.0}]}

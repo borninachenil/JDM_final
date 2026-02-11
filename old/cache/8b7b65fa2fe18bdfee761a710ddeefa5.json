@@ -1,0 +1,1 @@
+{"nodes": {"228987": {"name": "légume>113902", "type": 1, "weight": 206}, "1936972": {"name": "légume comestible", "type": 1, "weight": 25}, "120603": {"name": "légume", "type": 1, "weight": 3205}}, "relations": [{"node1": 1936972, "node2": 120603, "type": 6, "weight": 46.0}, {"node1": 1936972, "node2": 228987, "type": 6, "weight": 27.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"2585997": {"name": "_INFO-CNRTL-NO", "type": 36, "weight": 50}, "273221": {"name": "_INFO-WIKI-NO", "type": 36, "weight": 50}, "2305138": {"name": "zestage", "type": 1, "weight": 25}}, "relations": [{"node1": 2305138, "node2": 273221, "type": 36, "weight": 31.0}, {"node1": 2305138, "node2": 2585997, "type": 36, "weight": 60.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"55698": {"name": "coordonnée", "type": 1, "weight": 692}, "326288448": {"name": "coordonnée géographique", "type": 1, "weight": 33}}, "relations": [{"node1": 326288448, "node2": 55698, "type": 6, "weight": 26.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"16027827": {"name": "unité physique", "type": 1, "weight": 36}, "68295": {"name": "unité", "type": 1, "weight": 7822}}, "relations": [{"node1": 16027827, "node2": 68295, "type": 6, "weight": 26.0}]}

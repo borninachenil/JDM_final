@@ -1,0 +1,1 @@
+{"nodes": {"5801582": {"name": "ras-el-hanout", "type": 777, "weight": 10}, "264892": {"name": "mélange d'épices", "type": 1, "weight": 90}}, "relations": [{"node1": 5801582, "node2": 264892, "type": 6, "weight": 29.0}]}

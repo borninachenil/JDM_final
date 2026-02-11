@@ -1,0 +1,1 @@
+{"nodes": {"59187": {"name": "laps", "type": 1, "weight": 89}, "3905": {"name": "durée", "type": 1, "weight": 7145}, "218253": {"name": "période de temps", "type": 1, "weight": 70}}, "relations": [{"node1": 59187, "node2": 3905, "type": 6, "weight": 13.0}, {"node1": 59187, "node2": 218253, "type": 6, "weight": 30.0}]}

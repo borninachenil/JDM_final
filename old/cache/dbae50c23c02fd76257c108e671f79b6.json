@@ -1,0 +1,1 @@
+{"nodes": {"313596738": {"name": "traitement des", "type": 1, "weight": 27}, "74419": {"name": "traitement", "type": 1, "weight": 10962}, "3290744": {"name": "traitement des aliments", "type": 1, "weight": 25}}, "relations": [{"node1": 3290744, "node2": 74419, "type": 6, "weight": 42.0}, {"node1": 3290744, "node2": 313596738, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"622962": {"name": "mezzotinte", "type": 777, "weight": 25}, "2585997": {"name": "_INFO-CNRTL-NO", "type": 36, "weight": 50}, "276096": {"name": "_INFO-WIKI-YES", "type": 36, "weight": 50}}, "relations": [{"node1": 622962, "node2": 276096, "type": 36, "weight": 25.0}, {"node1": 622962, "node2": 2585997, "type": 36, "weight": 58.0}]}

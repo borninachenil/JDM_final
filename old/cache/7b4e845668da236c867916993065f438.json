@@ -1,0 +1,1 @@
+{"nodes": {"271385829": {"name": "baisse brutale des prix", "type": 1, "weight": 25}, "143339": {"name": "baisse", "type": 1, "weight": 4637}, "97783": {"name": "krach", "type": 1, "weight": 301}}, "relations": [{"node1": 97783, "node2": 143339, "type": 6, "weight": 26.0}, {"node1": 97783, "node2": 271385829, "type": 6, "weight": 25.0}]}

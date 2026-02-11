@@ -1,0 +1,1 @@
+{"nodes": {"146678": {"name": "exode", "type": 1, "weight": 341}, "142787": {"name": "livre", "type": 1, "weight": 19618}, "222840848": {"name": "déplacement massif", "type": 1, "weight": 49}}, "relations": [{"node1": 146678, "node2": 142787, "type": 6, "weight": 25.0}, {"node1": 146678, "node2": 222840848, "type": 6, "weight": 29.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"15324534": {"name": "concession minière", "type": 1, "weight": 52}, "32554": {"name": "claim", "type": 1, "weight": 58}}, "relations": [{"node1": 32554, "node2": 15324534, "type": 6, "weight": 27.0}]}

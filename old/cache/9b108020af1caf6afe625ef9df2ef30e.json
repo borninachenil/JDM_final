@@ -1,0 +1,1 @@
+{"nodes": {"14931223": {"name": "en:cryptography", "type": 1, "weight": 25}, "15049988": {"name": "en:committal to writing", "type": 1, "weight": 0}, "14934710": {"name": "en:writing", "type": 1, "weight": 25}}, "relations": [{"node1": 14931223, "node2": 14934710, "type": 6, "weight": 34.0}, {"node1": 14931223, "node2": 15049988, "type": 6, "weight": 35.0}]}

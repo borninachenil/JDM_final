@@ -1,0 +1,1 @@
+{"nodes": {"15082691": {"name": "en:natural elevation", "type": 1, "weight": 0}, "6905286": {"name": "en:natural", "type": 1, "weight": 2}}, "relations": [{"node1": 15082691, "node2": 6905286, "type": 6, "weight": 25.0}]}

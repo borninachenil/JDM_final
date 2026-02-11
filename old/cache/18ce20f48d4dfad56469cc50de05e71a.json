@@ -1,0 +1,1 @@
+{"nodes": {"152778": {"name": "moyen de transport", "type": 1, "weight": 621}, "123745": {"name": "véhicule", "type": 1, "weight": 6100}, "248456": {"name": "machine>123745", "type": 1, "weight": 52}}, "relations": [{"node1": 248456, "node2": 123745, "type": 6, "weight": 26.0}, {"node1": 248456, "node2": 152778, "type": 6, "weight": 30.0}]}

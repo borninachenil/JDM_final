@@ -1,0 +1,1 @@
+{"nodes": {"183135": {"name": "marque commerciale", "type": 1, "weight": 71}, "189259059": {"name": "spandex", "type": 1, "weight": 25}, "111289335": {"name": "Marque commerciale", "type": 1, "weight": 30}}, "relations": [{"node1": 189259059, "node2": 183135, "type": 6, "weight": 20.0}, {"node1": 189259059, "node2": 111289335, "type": 6, "weight": 20.0}]}

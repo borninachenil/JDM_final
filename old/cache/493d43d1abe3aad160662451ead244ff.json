@@ -1,0 +1,1 @@
+{"nodes": {"1912917": {"name": "_INFO-COUNTABLE-YES", "type": 36, "weight": 10}, "317329": {"name": "_POLIT_7NOPOL", "type": 36, "weight": 50}, "2208401": {"name": "hits", "type": 2, "weight": 21}}, "relations": [{"node1": 2208401, "node2": 317329, "type": 36, "weight": 1.0}, {"node1": 2208401, "node2": 1912917, "type": 36, "weight": 40.0}]}

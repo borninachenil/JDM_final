@@ -1,0 +1,1 @@
+{"nodes": {"38788": {"name": "espèce", "type": 1, "weight": 10941}, "40056": {"name": "couleur", "type": 1, "weight": 11043}, "39636": {"name": "pâle", "type": 1, "weight": 698}}, "relations": [{"node1": 39636, "node2": 38788, "type": 6, "weight": 32.0}, {"node1": 39636, "node2": 40056, "type": 6, "weight": 58.0}]}

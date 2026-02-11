@@ -1,0 +1,1 @@
+{"nodes": {"14599903": {"name": "Risque naturel", "type": 777, "weight": 27}, "140326": {"name": "menace", "type": 1, "weight": 7295}, "146003": {"name": "risque", "type": 1, "weight": 15067}}, "relations": [{"node1": 14599903, "node2": 140326, "type": 6, "weight": 95.0}, {"node1": 14599903, "node2": 146003, "type": 6, "weight": 165.0}]}

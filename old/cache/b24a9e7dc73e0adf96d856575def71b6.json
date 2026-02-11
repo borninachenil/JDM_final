@@ -1,0 +1,1 @@
+{"nodes": {"455472821": {"name": "étape procédurale", "type": 1, "weight": 0}, "4317": {"name": "audience", "type": 1, "weight": 4729}, "17148": {"name": "séance", "type": 1, "weight": 804}}, "relations": [{"node1": 4317, "node2": 17148, "type": 6, "weight": 34.0}, {"node1": 4317, "node2": 455472821, "type": 6, "weight": 31.0}]}

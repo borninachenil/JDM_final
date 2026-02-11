@@ -1,0 +1,1 @@
+{"nodes": {"336308050": {"name": "décision du Conseil de sécurité", "type": 1, "weight": 31}, "75998": {"name": "décision", "type": 1, "weight": 19850}}, "relations": [{"node1": 336308050, "node2": 75998, "type": 6, "weight": 25.0}]}

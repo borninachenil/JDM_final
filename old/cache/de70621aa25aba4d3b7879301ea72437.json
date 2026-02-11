@@ -1,0 +1,1 @@
+{"nodes": {"15083441": {"name": "en:folk dance", "type": 1, "weight": 25}, "15083440": {"name": "en:folk dancing", "type": 1, "weight": 25}, "145605": {"name": "danse", "type": 1, "weight": 4863}}, "relations": [{"node1": 15083440, "node2": 145605, "type": 6, "weight": 25.0}, {"node1": 15083440, "node2": 15083441, "type": 6, "weight": 10.0}]}

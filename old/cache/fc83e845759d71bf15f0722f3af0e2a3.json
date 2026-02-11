@@ -1,0 +1,1 @@
+{"nodes": {"15394012": {"name": "mélange de thé", "type": 1, "weight": 28}, "270338259": {"name": "mélange de", "type": 1, "weight": 27}, "14800": {"name": "mélange", "type": 1, "weight": 4220}}, "relations": [{"node1": 15394012, "node2": 14800, "type": 6, "weight": 26.0}, {"node1": 15394012, "node2": 270338259, "type": 6, "weight": 25.0}]}

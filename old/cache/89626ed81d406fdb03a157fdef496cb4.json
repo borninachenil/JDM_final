@@ -1,0 +1,1 @@
+{"nodes": {"211542262": {"name": "sacrement de l'initiation chrétienne", "type": 1, "weight": 25}, "82369": {"name": "sacrement", "type": 1, "weight": 236}}, "relations": [{"node1": 211542262, "node2": 82369, "type": 6, "weight": 25.0}]}

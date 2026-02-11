@@ -1,0 +1,1 @@
+{"nodes": {"183135": {"name": "marque commerciale", "type": 1, "weight": 71}, "166034086": {"name": "crossfit", "type": 1, "weight": 211}, "60009": {"name": "méthode", "type": 1, "weight": 10569}}, "relations": [{"node1": 166034086, "node2": 60009, "type": 6, "weight": 10.0}, {"node1": 166034086, "node2": 183135, "type": 6, "weight": 10.0}]}

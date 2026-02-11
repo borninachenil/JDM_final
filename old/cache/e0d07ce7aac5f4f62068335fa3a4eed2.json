@@ -1,0 +1,1 @@
+{"nodes": {"5516985": {"name": "corps chimique minéral", "type": 1, "weight": 6}, "74846": {"name": "corps", "type": 1, "weight": 16806}, "2391386": {"name": "corps chimique", "type": 1, "weight": 12}}, "relations": [{"node1": 5516985, "node2": 74846, "type": 6, "weight": 31.0}, {"node1": 5516985, "node2": 2391386, "type": 6, "weight": 36.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"87150": {"name": "caractéristique", "type": 1, "weight": 5316}, "341612": {"name": "caractéristique aérodynamique", "type": 1, "weight": 50}}, "relations": [{"node1": 341612, "node2": 87150, "type": 6, "weight": 26.0}]}

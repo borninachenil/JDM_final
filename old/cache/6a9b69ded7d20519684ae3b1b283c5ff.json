@@ -1,0 +1,1 @@
+{"nodes": {"6605": {"name": "instrument", "type": 1, "weight": 5775}, "298969932": {"name": "instrument de mesure du temps", "type": 1, "weight": 28}, "151959": {"name": "instrument de mesure", "type": 1, "weight": 101}}, "relations": [{"node1": 298969932, "node2": 6605, "type": 6, "weight": 25.0}, {"node1": 298969932, "node2": 151959, "type": 6, "weight": 28.0}]}

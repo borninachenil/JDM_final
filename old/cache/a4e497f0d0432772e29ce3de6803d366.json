@@ -1,0 +1,1 @@
+{"nodes": {"414031": {"name": "Réaction", "type": 1, "weight": 348}, "93299": {"name": "réaction", "type": 1, "weight": 13430}, "377333": {"name": "réaction émotionnelle", "type": 1, "weight": 232}}, "relations": [{"node1": 377333, "node2": 93299, "type": 6, "weight": 53.0}, {"node1": 377333, "node2": 414031, "type": 6, "weight": 5.0}]}

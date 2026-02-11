@@ -1,0 +1,1 @@
+{"nodes": {"50651118": {"name": "membrane oculaire", "type": 1, "weight": 25}, "145172": {"name": "membrane", "type": 1, "weight": 2459}}, "relations": [{"node1": 50651118, "node2": 145172, "type": 6, "weight": 25.0}]}

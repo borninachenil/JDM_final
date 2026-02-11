@@ -1,0 +1,1 @@
+{"nodes": {"123418": {"name": "ingrédient", "type": 1, "weight": 549}, "189981": {"name": "ingrédient de cuisine", "type": 1, "weight": 81}, "420592": {"name": "cornichons", "type": 1, "weight": 61}}, "relations": [{"node1": 420592, "node2": 123418, "type": 6, "weight": 11.0}, {"node1": 420592, "node2": 189981, "type": 6, "weight": 36.0}]}

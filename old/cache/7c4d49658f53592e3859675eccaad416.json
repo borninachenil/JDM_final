@@ -1,0 +1,1 @@
+{"nodes": {"46981": {"name": "mémoires", "type": 1, "weight": 2597}, "14936506": {"name": "en:essay", "type": 1, "weight": 25}, "7335911": {"name": "en:autobiography", "type": 1, "weight": 25}}, "relations": [{"node1": 46981, "node2": 7335911, "type": 6, "weight": 29.0}, {"node1": 46981, "node2": 14936506, "type": 6, "weight": 31.0}]}

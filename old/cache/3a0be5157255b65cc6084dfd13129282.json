@@ -1,0 +1,1 @@
+{"nodes": {"7054010": {"name": "en:assembly", "type": 1, "weight": 25}, "75266": {"name": "langage", "type": 1, "weight": 11003}, "14945777": {"name": "en:assembly language", "type": 1, "weight": 25}}, "relations": [{"node1": 14945777, "node2": 75266, "type": 6, "weight": 190.0}, {"node1": 14945777, "node2": 7054010, "type": 6, "weight": 25.0}]}

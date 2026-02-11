@@ -1,0 +1,1 @@
+{"nodes": {"74978": {"name": "étoiles", "type": 1, "weight": 4905}, "12616576": {"name": "objets célestes", "type": 1, "weight": 39}, "405630": {"name": "symboles", "type": 1, "weight": 3492}}, "relations": [{"node1": 74978, "node2": 405630, "type": 6, "weight": 36.0}, {"node1": 74978, "node2": 12616576, "type": 6, "weight": 56.0}]}

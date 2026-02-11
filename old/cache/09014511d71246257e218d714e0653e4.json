@@ -1,0 +1,1 @@
+{"nodes": {"4314222": {"name": "réaction de l'organisme", "type": 1, "weight": 5}, "395933649": {"name": "réaction de", "type": 1, "weight": 458}, "93299": {"name": "réaction", "type": 1, "weight": 13430}}, "relations": [{"node1": 4314222, "node2": 93299, "type": 6, "weight": 47.0}, {"node1": 4314222, "node2": 395933649, "type": 6, "weight": 25.0}]}

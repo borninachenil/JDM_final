@@ -1,0 +1,1 @@
+{"nodes": {"260369363": {"name": "expression du langage courant", "type": 1, "weight": 25}, "112929": {"name": "action", "type": 1, "weight": 18866}, "124828": {"name": "excavation", "type": 1, "weight": 207}}, "relations": [{"node1": 124828, "node2": 112929, "type": 6, "weight": 28.0}, {"node1": 124828, "node2": 260369363, "type": 6, "weight": 25.0}]}

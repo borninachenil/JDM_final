@@ -1,0 +1,1 @@
+{"nodes": {"425889528": {"name": "interruption bénéfique", "type": 1, "weight": 0}, "91105": {"name": "interruption", "type": 1, "weight": 875}}, "relations": [{"node1": 425889528, "node2": 91105, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"353900933": {"name": "pratique agricole spécialisée", "type": 1, "weight": 25}, "48677": {"name": "monoculture", "type": 1, "weight": 342}, "22885": {"name": "culture", "type": 1, "weight": 54946}}, "relations": [{"node1": 48677, "node2": 22885, "type": 6, "weight": 37.0}, {"node1": 48677, "node2": 353900933, "type": 6, "weight": 33.0}]}

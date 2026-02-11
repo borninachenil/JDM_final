@@ -1,0 +1,1 @@
+{"nodes": {"15235": {"name": "type", "type": 1, "weight": 7848}, "6949638": {"name": "en:body", "type": 1, "weight": 4}, "15225831": {"name": "type morphologique", "type": 1, "weight": 25}}, "relations": [{"node1": 15225831, "node2": 15235, "type": 6, "weight": 25.0}, {"node1": 15225831, "node2": 6949638, "type": 6, "weight": 10.0}]}

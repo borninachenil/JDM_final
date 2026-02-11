@@ -1,0 +1,1 @@
+{"nodes": {"87150": {"name": "caractéristique", "type": 1, "weight": 5314}, "72512": {"name": "configuration", "type": 1, "weight": 2720}, "253639445": {"name": "caractéristiques techniques", "type": 1, "weight": 153}}, "relations": [{"node1": 72512, "node2": 87150, "type": 6, "weight": 35.0}, {"node1": 72512, "node2": 253639445, "type": 6, "weight": 25.0}]}

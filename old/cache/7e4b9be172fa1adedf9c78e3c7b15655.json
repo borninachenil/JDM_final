@@ -1,0 +1,1 @@
+{"nodes": {"7053927": {"name": "en:sum", "type": 1, "weight": 25}, "15082753": {"name": "en:sum of money", "type": 1, "weight": 25}, "143510": {"name": "somme", "type": 1, "weight": 6216}}, "relations": [{"node1": 15082753, "node2": 143510, "type": 6, "weight": 120.0}, {"node1": 15082753, "node2": 7053927, "type": 6, "weight": 25.0}]}

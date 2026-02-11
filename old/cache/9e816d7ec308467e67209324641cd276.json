@@ -1,0 +1,1 @@
+{"nodes": {"2448182": {"name": "sucrosité", "type": 1, "weight": 28}, "240112": {"name": "propriété>87150", "type": 1, "weight": 14}}, "relations": [{"node1": 2448182, "node2": 240112, "type": 6, "weight": 28.0}]}

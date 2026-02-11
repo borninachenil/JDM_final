@@ -1,0 +1,1 @@
+{"nodes": {"140195": {"name": "réserve", "type": 1, "weight": 4223}, "251640244": {"name": "réserve monétaire", "type": 1, "weight": 54}, "411016": {"name": "Réserve", "type": 1, "weight": 105}}, "relations": [{"node1": 251640244, "node2": 140195, "type": 6, "weight": 25.0}, {"node1": 251640244, "node2": 411016, "type": 6, "weight": 25.0}]}

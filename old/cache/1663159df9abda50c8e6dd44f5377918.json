@@ -1,0 +1,1 @@
+{"nodes": {"30041": {"name": "feutrage", "type": 1, "weight": 50}, "64227": {"name": "anomalie", "type": 1, "weight": 1371}, "112929": {"name": "action", "type": 1, "weight": 18866}}, "relations": [{"node1": 30041, "node2": 64227, "type": 6, "weight": 25.0}, {"node1": 30041, "node2": 112929, "type": 6, "weight": 33.0}]}

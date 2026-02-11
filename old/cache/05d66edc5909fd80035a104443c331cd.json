@@ -1,0 +1,1 @@
+{"nodes": {"15050644": {"name": "en:unevenness", "type": 1, "weight": 0}, "6876869": {"name": "en:inequality", "type": 1, "weight": 25}}, "relations": [{"node1": 15050644, "node2": 6876869, "type": 6, "weight": 35.0}]}

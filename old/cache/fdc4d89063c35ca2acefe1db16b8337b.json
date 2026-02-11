@@ -1,0 +1,1 @@
+{"nodes": {"59044": {"name": "monastère", "type": 1, "weight": 2854}, "41053": {"name": "prieuré", "type": 1, "weight": 60}, "57724": {"name": "lieu de culte", "type": 1, "weight": 159}}, "relations": [{"node1": 41053, "node2": 57724, "type": 6, "weight": 21.0}, {"node1": 41053, "node2": 59044, "type": 6, "weight": 34.0}]}

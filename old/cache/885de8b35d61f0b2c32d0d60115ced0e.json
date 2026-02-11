@@ -1,0 +1,1 @@
+{"nodes": {"235746": {"name": "sépulture collective", "type": 1, "weight": 51}, "135190": {"name": "lieu", "type": 1, "weight": 13386}, "428": {"name": "caveau", "type": 1, "weight": 219}}, "relations": [{"node1": 428, "node2": 135190, "type": 6, "weight": 57.0}, {"node1": 428, "node2": 235746, "type": 6, "weight": 14.0}]}

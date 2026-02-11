@@ -1,0 +1,1 @@
+{"nodes": {"73491913": {"name": "ouvrage de stockage agricole de l'eau", "type": 1, "weight": 0}, "73491981": {"name": "ouvrage de stockage", "type": 1, "weight": 29}, "26038": {"name": "ouvrage", "type": 1, "weight": 6904}}, "relations": [{"node1": 73491913, "node2": 26038, "type": 6, "weight": 31.0}, {"node1": 73491913, "node2": 73491981, "type": 6, "weight": 36.0}]}

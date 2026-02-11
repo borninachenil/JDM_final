@@ -1,0 +1,1 @@
+{"nodes": {"112637": {"name": "lésion", "type": 1, "weight": 781}, "237132": {"name": "plaie>218541", "type": 1, "weight": 174}, "218541": {"name": "lésion physique", "type": 1, "weight": 212}}, "relations": [{"node1": 237132, "node2": 112637, "type": 6, "weight": 211.0}, {"node1": 237132, "node2": 218541, "type": 6, "weight": 271.0}]}

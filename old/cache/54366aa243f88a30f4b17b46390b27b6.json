@@ -1,0 +1,1 @@
+{"nodes": {"308095982": {"name": "bouchon de bois", "type": 1, "weight": 25}, "121129": {"name": "bouchon", "type": 1, "weight": 677}}, "relations": [{"node1": 308095982, "node2": 121129, "type": 6, "weight": 26.0}]}

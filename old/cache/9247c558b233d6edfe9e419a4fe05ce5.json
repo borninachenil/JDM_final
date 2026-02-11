@@ -1,0 +1,1 @@
+{"nodes": {"137183": {"name": "état", "type": 1, "weight": 17840}, "542": {"name": "État", "type": 1, "weight": 11464}, "14453568": {"name": "État pathologique", "type": 1, "weight": 25}}, "relations": [{"node1": 14453568, "node2": 542, "type": 6, "weight": 25.0}, {"node1": 14453568, "node2": 137183, "type": 6, "weight": 475.0}]}

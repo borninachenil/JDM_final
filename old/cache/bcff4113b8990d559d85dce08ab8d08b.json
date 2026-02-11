@@ -1,0 +1,1 @@
+{"nodes": {"12198474": {"name": "technique de mesure biomédicale", "type": 1, "weight": 25}, "35045": {"name": "imagerie", "type": 1, "weight": 515}, "116178": {"name": "collection", "type": 1, "weight": 5102}}, "relations": [{"node1": 35045, "node2": 116178, "type": 6, "weight": 44.0}, {"node1": 35045, "node2": 12198474, "type": 6, "weight": 27.0}]}

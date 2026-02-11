@@ -1,0 +1,1 @@
+{"nodes": {"50646": {"name": "question", "type": 1, "weight": 19078}, "374955": {"name": "question de justice sociale", "type": 1, "weight": 57}, "374949": {"name": "question de", "type": 1, "weight": 128}}, "relations": [{"node1": 374955, "node2": 50646, "type": 6, "weight": 41.0}, {"node1": 374955, "node2": 374949, "type": 6, "weight": 25.0}]}

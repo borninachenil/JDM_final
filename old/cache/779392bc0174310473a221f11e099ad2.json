@@ -1,0 +1,1 @@
+{"nodes": {"240547": {"name": "organisation>234664", "type": 1, "weight": 65}, "86627": {"name": "organisation", "type": 1, "weight": 12273}, "15226058": {"name": "en:political organization", "type": 1, "weight": 25}}, "relations": [{"node1": 15226058, "node2": 86627, "type": 6, "weight": 146.0}, {"node1": 15226058, "node2": 240547, "type": 6, "weight": 145.0}]}

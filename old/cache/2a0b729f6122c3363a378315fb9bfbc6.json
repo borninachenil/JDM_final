@@ -1,0 +1,1 @@
+{"nodes": {"139257": {"name": "discipline", "type": 1, "weight": 5544}, "2971765": {"name": "discipline médicale", "type": 1, "weight": 25}, "427006": {"name": "Discipline", "type": 1, "weight": 81}}, "relations": [{"node1": 2971765, "node2": 139257, "type": 6, "weight": 26.0}, {"node1": 2971765, "node2": 427006, "type": 6, "weight": 5.0}]}

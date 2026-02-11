@@ -1,0 +1,1 @@
+{"nodes": {"425": {"name": "analytique", "type": 1, "weight": 1772}, "53576": {"name": "mathématique", "type": 1, "weight": 6413}, "59792": {"name": "énoncé", "type": 1, "weight": 2348}}, "relations": [{"node1": 425, "node2": 53576, "type": 6, "weight": 22.0}, {"node1": 425, "node2": 59792, "type": 6, "weight": 34.0}]}

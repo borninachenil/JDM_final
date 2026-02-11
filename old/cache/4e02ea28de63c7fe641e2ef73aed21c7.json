@@ -1,0 +1,1 @@
+{"nodes": {"10102016": {"name": "en:administrative division", "type": 1, "weight": 25}, "37587": {"name": "découpage", "type": 1, "weight": 1512}, "13338714": {"name": "en:administrative", "type": 1, "weight": 25}}, "relations": [{"node1": 10102016, "node2": 37587, "type": 6, "weight": 59.0}, {"node1": 10102016, "node2": 13338714, "type": 6, "weight": 25.0}]}

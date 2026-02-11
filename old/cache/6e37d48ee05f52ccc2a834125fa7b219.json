@@ -1,0 +1,1 @@
+{"nodes": {"288814188": {"name": "condiment fermenté", "type": 1, "weight": 25}, "189981": {"name": "ingrédient de cuisine", "type": 1, "weight": 81}, "120990": {"name": "condiment", "type": 1, "weight": 532}}, "relations": [{"node1": 288814188, "node2": 120990, "type": 6, "weight": 26.0}, {"node1": 288814188, "node2": 189981, "type": 6, "weight": 25.0}]}

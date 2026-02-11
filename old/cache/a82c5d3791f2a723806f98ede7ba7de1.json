@@ -1,0 +1,1 @@
+{"nodes": {"12109075": {"name": "composant d'un analyte", "type": 1, "weight": 25}, "117662": {"name": "molécule", "type": 1, "weight": 4073}, "364728": {"name": "molécule biologique", "type": 1, "weight": 53}}, "relations": [{"node1": 364728, "node2": 117662, "type": 6, "weight": 42.0}, {"node1": 364728, "node2": 12109075, "type": 6, "weight": 43.0}]}

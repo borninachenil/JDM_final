@@ -1,0 +1,1 @@
+{"nodes": {"397744": {"name": "Voie", "type": 1, "weight": 1829}, "19219": {"name": "voie", "type": 1, "weight": 6640}, "16074610": {"name": "Voie de recours", "type": 1, "weight": 25}}, "relations": [{"node1": 16074610, "node2": 19219, "type": 6, "weight": 205.0}, {"node1": 16074610, "node2": 397744, "type": 6, "weight": 25.0}]}

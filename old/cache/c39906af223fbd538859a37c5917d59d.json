@@ -1,0 +1,1 @@
+{"nodes": {"5623132": {"name": "monument monolithe", "type": 1, "weight": 25}, "102105": {"name": "monument", "type": 1, "weight": 3308}, "89915": {"name": "obélisque", "type": 1, "weight": 61}}, "relations": [{"node1": 89915, "node2": 102105, "type": 6, "weight": 44.0}, {"node1": 89915, "node2": 5623132, "type": 6, "weight": 85.0}]}

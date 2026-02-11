@@ -1,0 +1,1 @@
+{"nodes": {"438949": {"name": "_INFO-POLYMORPHIC", "type": 36, "weight": 50}, "1912917": {"name": "_INFO-COUNTABLE-YES", "type": 36, "weight": 10}, "2052804": {"name": "désespérés", "type": 2, "weight": 58}}, "relations": [{"node1": 2052804, "node2": 438949, "type": 36, "weight": 28.0}, {"node1": 2052804, "node2": 1912917, "type": 36, "weight": 40.0}]}

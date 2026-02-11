@@ -1,0 +1,1 @@
+{"nodes": {"14938838": {"name": "en:thawing", "type": 1, "weight": 25}, "112929": {"name": "action", "type": 1, "weight": 18866}, "34412": {"name": "décongélation", "type": 1, "weight": 60}}, "relations": [{"node1": 34412, "node2": 112929, "type": 6, "weight": 44.0}, {"node1": 34412, "node2": 14938838, "type": 6, "weight": 27.0}]}

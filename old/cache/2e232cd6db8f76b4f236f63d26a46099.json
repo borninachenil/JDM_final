@@ -1,0 +1,1 @@
+{"nodes": {"9224938": {"name": "objet inanimé", "type": 1, "weight": 27}, "243708": {"name": "pinceau>6605", "type": 1, "weight": 22}, "6605": {"name": "instrument", "type": 1, "weight": 5775}}, "relations": [{"node1": 243708, "node2": 6605, "type": 6, "weight": 40.0}, {"node1": 243708, "node2": 9224938, "type": 6, "weight": 25.0}]}

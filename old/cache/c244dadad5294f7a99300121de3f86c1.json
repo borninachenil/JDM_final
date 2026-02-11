@@ -1,0 +1,1 @@
+{"nodes": {"52946767": {"name": "support de publicité", "type": 1, "weight": 25}, "44386": {"name": "support", "type": 1, "weight": 5195}, "211554036": {"name": "support de", "type": 1, "weight": 25}}, "relations": [{"node1": 52946767, "node2": 44386, "type": 6, "weight": 25.0}, {"node1": 52946767, "node2": 211554036, "type": 6, "weight": 25.0}]}

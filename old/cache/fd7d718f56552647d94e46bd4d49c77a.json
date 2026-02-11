@@ -1,0 +1,1 @@
+{"nodes": {"14924401": {"name": "en:bushel", "type": 1, "weight": 25}, "15082163": {"name": "en:United States dry unit", "type": 1, "weight": 0}, "15102636": {"name": "en:united states dry unit", "type": 1, "weight": 0}}, "relations": [{"node1": 14924401, "node2": 15082163, "type": 6, "weight": 27.0}, {"node1": 14924401, "node2": 15102636, "type": 6, "weight": 30.0}]}

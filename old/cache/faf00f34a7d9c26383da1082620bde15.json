@@ -1,0 +1,1 @@
+{"nodes": {"159254": {"name": "personnage de théâtre", "type": 1, "weight": 50}, "429606": {"name": "Personnage", "type": 1, "weight": 110}, "10756": {"name": "personnage", "type": 1, "weight": 8039}}, "relations": [{"node1": 159254, "node2": 10756, "type": 6, "weight": 104.0}, {"node1": 159254, "node2": 429606, "type": 6, "weight": 10.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"299974990": {"name": "outil de planification temporelle", "type": 1, "weight": 25}, "30843": {"name": "outil", "type": 1, "weight": 12728}}, "relations": [{"node1": 299974990, "node2": 30843, "type": 6, "weight": 25.0}]}

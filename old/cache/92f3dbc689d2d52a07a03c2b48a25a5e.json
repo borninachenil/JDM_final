@@ -1,0 +1,1 @@
+{"nodes": {"17398334": {"name": "Aliment", "type": 1, "weight": 31}, "114637": {"name": "aliment", "type": 1, "weight": 2599}, "3321138": {"name": "aliment transformé", "type": 1, "weight": 55}}, "relations": [{"node1": 3321138, "node2": 114637, "type": 6, "weight": 30.0}, {"node1": 3321138, "node2": 17398334, "type": 6, "weight": 15.0}]}

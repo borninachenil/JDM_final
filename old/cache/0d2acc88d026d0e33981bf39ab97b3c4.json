@@ -1,0 +1,1 @@
+{"nodes": {"209519": {"name": "unité de masse", "type": 1, "weight": 113}, "2581963": {"name": "masse terrestre", "type": 777, "weight": 27}, "137533": {"name": "masse", "type": 1, "weight": 6658}}, "relations": [{"node1": 2581963, "node2": 137533, "type": 6, "weight": 51.0}, {"node1": 2581963, "node2": 209519, "type": 6, "weight": 30.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"52396": {"name": "transmission", "type": 1, "weight": 9295}, "214244488": {"name": "transmission familiale", "type": 1, "weight": 54}, "2932739": {"name": "Transmission", "type": 1, "weight": 1643}}, "relations": [{"node1": 214244488, "node2": 52396, "type": 6, "weight": 25.0}, {"node1": 214244488, "node2": 2932739, "type": 6, "weight": 10.0}]}

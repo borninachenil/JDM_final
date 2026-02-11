@@ -1,0 +1,1 @@
+{"nodes": {"63445": {"name": "méthode de", "type": 1, "weight": 50}, "60009": {"name": "méthode", "type": 1, "weight": 10569}, "2718175": {"name": "méthode de cuisson", "type": 1, "weight": 42}}, "relations": [{"node1": 2718175, "node2": 60009, "type": 6, "weight": 44.0}, {"node1": 2718175, "node2": 63445, "type": 6, "weight": 25.0}]}

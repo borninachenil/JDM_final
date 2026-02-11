@@ -1,0 +1,1 @@
+{"nodes": {"152663": {"name": "jus d'orange", "type": 1, "weight": 177}, "34848": {"name": "cas", "type": 1, "weight": 17883}, "341910": {"name": "cas particulier", "type": 1, "weight": 399}}, "relations": [{"node1": 341910, "node2": 34848, "type": 6, "weight": 40.0}, {"node1": 341910, "node2": 152663, "type": 6, "weight": 33.0}]}

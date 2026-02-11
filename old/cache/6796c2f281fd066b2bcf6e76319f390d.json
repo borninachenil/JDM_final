@@ -1,0 +1,1 @@
+{"nodes": {"290001": {"name": "chemin rural", "type": 777, "weight": 52}, "55077": {"name": "chemin", "type": 1, "weight": 9737}, "408005": {"name": "Chemin", "type": 1, "weight": 1852}}, "relations": [{"node1": 290001, "node2": 55077, "type": 6, "weight": 41.0}, {"node1": 290001, "node2": 408005, "type": 6, "weight": 25.0}]}

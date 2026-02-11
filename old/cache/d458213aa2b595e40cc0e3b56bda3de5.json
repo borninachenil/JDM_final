@@ -1,0 +1,1 @@
+{"nodes": {"252641": {"name": "accident industriel", "type": 1, "weight": 67}, "112929": {"name": "action", "type": 1, "weight": 18866}, "113658": {"name": "déversement", "type": 1, "weight": 99}}, "relations": [{"node1": 113658, "node2": 112929, "type": 6, "weight": 29.0}, {"node1": 113658, "node2": 252641, "type": 6, "weight": 27.0}]}

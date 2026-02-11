@@ -1,0 +1,1 @@
+{"nodes": {"2585997": {"name": "_INFO-CNRTL-NO", "type": 36, "weight": 50}, "11130523": {"name": "gaming", "type": 1, "weight": 30}}, "relations": [{"node1": 11130523, "node2": 2585997, "type": 36, "weight": 57.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"5918981": {"name": "bidon pour carburant", "type": 1, "weight": 25}, "67148": {"name": "bidon", "type": 1, "weight": 254}}, "relations": [{"node1": 5918981, "node2": 67148, "type": 6, "weight": 26.0}]}

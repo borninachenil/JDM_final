@@ -1,0 +1,1 @@
+{"nodes": {"140315": {"name": "liquide", "type": 1, "weight": 3754}, "10822854": {"name": "liquide destiné à la consommation", "type": 1, "weight": 25}}, "relations": [{"node1": 10822854, "node2": 140315, "type": 6, "weight": 26.0}]}

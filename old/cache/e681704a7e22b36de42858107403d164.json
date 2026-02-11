@@ -1,0 +1,1 @@
+{"nodes": {"260916364": {"name": "source de protéine", "type": 1, "weight": 50}, "477171275": {"name": "source de protéine animale", "type": 1, "weight": 0}}, "relations": [{"node1": 477171275, "node2": 260916364, "type": 6, "weight": 27.0}]}

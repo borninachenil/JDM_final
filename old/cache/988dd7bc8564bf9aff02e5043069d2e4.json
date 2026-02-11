@@ -1,0 +1,1 @@
+{"nodes": {"6860947": {"name": "en:musculoskeletal", "type": 1, "weight": 25}, "7277635": {"name": "en:musculoskeletal system part", "type": 1, "weight": 25}}, "relations": [{"node1": 7277635, "node2": 6860947, "type": 6, "weight": 25.0}]}

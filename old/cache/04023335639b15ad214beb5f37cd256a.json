@@ -1,0 +1,1 @@
+{"nodes": {"134899": {"name": "tube", "type": 1, "weight": 3432}, "135936": {"name": "dispositif", "type": 1, "weight": 5612}, "124863": {"name": "pneumatique", "type": 1, "weight": 344}}, "relations": [{"node1": 124863, "node2": 134899, "type": 6, "weight": 15.0}, {"node1": 124863, "node2": 135936, "type": 6, "weight": 25.0}]}

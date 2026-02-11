@@ -1,0 +1,1 @@
+{"nodes": {"10992943": {"name": "podcasteur", "type": 777, "weight": 26}, "116477": {"name": "personne", "type": 1, "weight": 35594}, "98724": {"name": "vidéaste", "type": 1, "weight": 158}}, "relations": [{"node1": 10992943, "node2": 98724, "type": 6, "weight": 28.0}, {"node1": 10992943, "node2": 116477, "type": 6, "weight": 34.0}]}

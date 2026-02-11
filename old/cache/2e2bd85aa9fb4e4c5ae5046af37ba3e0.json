@@ -1,0 +1,1 @@
+{"nodes": {"115056": {"name": "râpage", "type": 1, "weight": 52}, "15082465": {"name": "en:optical device", "type": 1, "weight": 25}, "112929": {"name": "action", "type": 1, "weight": 18866}}, "relations": [{"node1": 115056, "node2": 112929, "type": 6, "weight": 32.0}, {"node1": 115056, "node2": 15082465, "type": 6, "weight": 23.0}]}

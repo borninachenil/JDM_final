@@ -1,0 +1,1 @@
+{"nodes": {"246632": {"name": "oeuvre de fiction", "type": 1, "weight": 111}, "144938": {"name": "oeuvre", "type": 1, "weight": 4663}, "14573184": {"name": "oeuvre de fiction télévisuelle", "type": 1, "weight": 25}}, "relations": [{"node1": 14573184, "node2": 144938, "type": 6, "weight": 27.0}, {"node1": 14573184, "node2": 246632, "type": 6, "weight": 30.0}]}

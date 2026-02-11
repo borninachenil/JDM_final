@@ -1,0 +1,1 @@
+{"nodes": {"15344573": {"name": "en:exploratory drilling", "type": 1, "weight": 25}, "86032": {"name": "forage", "type": 1, "weight": 302}}, "relations": [{"node1": 15344573, "node2": 86032, "type": 6, "weight": 85.0}]}

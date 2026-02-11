@@ -1,0 +1,1 @@
+{"nodes": {"104193": {"name": "contentement", "type": 1, "weight": 910}, "7029809": {"name": "en:satisfaction", "type": 1, "weight": 25}, "14919511": {"name": "en:pride", "type": 1, "weight": 25}}, "relations": [{"node1": 14919511, "node2": 104193, "type": 6, "weight": 25.0}, {"node1": 14919511, "node2": 7029809, "type": 6, "weight": 34.0}]}

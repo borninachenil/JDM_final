@@ -1,0 +1,1 @@
+{"nodes": {"297146017": {"name": "métal et plastique", "type": 1, "weight": 25}, "1912988": {"name": "_INFO-COUNTABLE-NO", "type": 36, "weight": 10}, "163151": {"name": "_INFO-SEM-SUBST", "type": 36, "weight": 286}}, "relations": [{"node1": 297146017, "node2": 163151, "type": 36, "weight": 25.0}, {"node1": 297146017, "node2": 1912988, "type": 36, "weight": 25.0}]}

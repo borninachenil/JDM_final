@@ -1,0 +1,1 @@
+{"nodes": {"9740062": {"name": "couteau comportant deux petites fentes tranchantes", "type": 1, "weight": 25}, "32610": {"name": "couteau", "type": 1, "weight": 4387}}, "relations": [{"node1": 9740062, "node2": 32610, "type": 6, "weight": 26.0}]}

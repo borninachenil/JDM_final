@@ -1,0 +1,1 @@
+{"nodes": {"218866": {"name": "activités", "type": 1, "weight": 6341}, "15024221": {"name": "activités économiques", "type": 1, "weight": 215}, "10051307": {"name": "Activités", "type": 1, "weight": 783}}, "relations": [{"node1": 15024221, "node2": 218866, "type": 6, "weight": 27.0}, {"node1": 15024221, "node2": 10051307, "type": 6, "weight": 10.0}]}

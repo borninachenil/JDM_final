@@ -1,0 +1,1 @@
+{"nodes": {"14930925": {"name": "en:creator", "type": 1, "weight": 25}, "12321577": {"name": "en:professional or occupational group", "type": 1, "weight": 25}, "7015675": {"name": "en:farmer", "type": 1, "weight": 25}}, "relations": [{"node1": 7015675, "node2": 12321577, "type": 6, "weight": 28.0}, {"node1": 7015675, "node2": 14930925, "type": 6, "weight": 28.0}]}

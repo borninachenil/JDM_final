@@ -1,0 +1,1 @@
+{"nodes": {"16378167": {"name": "aléa géologique", "type": 1, "weight": 27}, "56157": {"name": "aléa", "type": 1, "weight": 368}}, "relations": [{"node1": 16378167, "node2": 56157, "type": 6, "weight": 26.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"93636262": {"name": "assemblée de personnes", "type": 1, "weight": 25}, "120511": {"name": "assemblée", "type": 1, "weight": 4312}, "15033499": {"name": "assemblée de", "type": 1, "weight": 25}}, "relations": [{"node1": 93636262, "node2": 120511, "type": 6, "weight": 26.0}, {"node1": 93636262, "node2": 15033499, "type": 6, "weight": 25.0}]}

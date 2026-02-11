@@ -1,0 +1,1 @@
+{"nodes": {"217870": {"name": "goût>71872", "type": 1, "weight": 122}, "87150": {"name": "caractéristique", "type": 1, "weight": 5316}, "258472": {"name": "qualité organoleptique", "type": 1, "weight": 61}}, "relations": [{"node1": 217870, "node2": 87150, "type": 6, "weight": 39.0}, {"node1": 217870, "node2": 258472, "type": 6, "weight": 38.0}]}

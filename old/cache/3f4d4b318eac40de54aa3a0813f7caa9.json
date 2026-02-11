@@ -1,0 +1,1 @@
+{"nodes": {"12325353": {"name": "en:biomedical or dental material", "type": 1, "weight": 25}, "72999": {"name": "élastomères", "type": 1, "weight": 79}}, "relations": [{"node1": 72999, "node2": 12325353, "type": 6, "weight": 41.0}]}

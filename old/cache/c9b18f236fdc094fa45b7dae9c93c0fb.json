@@ -1,0 +1,1 @@
+{"nodes": {"30843": {"name": "outil", "type": 1, "weight": 12728}, "180601": {"name": "équipement de chimie", "type": 1, "weight": 50}, "129491": {"name": "pipette", "type": 1, "weight": 216}}, "relations": [{"node1": 129491, "node2": 30843, "type": 6, "weight": 121.0}, {"node1": 129491, "node2": 180601, "type": 6, "weight": 124.0}]}

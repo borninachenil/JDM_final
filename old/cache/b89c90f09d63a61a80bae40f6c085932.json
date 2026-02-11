@@ -1,0 +1,1 @@
+{"nodes": {"6904892": {"name": "en:therapeutic", "type": 1, "weight": 25}, "62218": {"name": "massage", "type": 1, "weight": 779}, "15219956": {"name": "en:therapeutic massage", "type": 1, "weight": 25}}, "relations": [{"node1": 15219956, "node2": 62218, "type": 6, "weight": 23.0}, {"node1": 15219956, "node2": 6904892, "type": 6, "weight": 25.0}]}

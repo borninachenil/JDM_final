@@ -1,0 +1,1 @@
+{"nodes": {"5623428": {"name": "liqueur de citron", "type": 777, "weight": 25}, "66643": {"name": "liqueur", "type": 1, "weight": 423}, "88046": {"name": "spiritueux", "type": 1, "weight": 193}}, "relations": [{"node1": 5623428, "node2": 66643, "type": 6, "weight": 29.0}, {"node1": 5623428, "node2": 88046, "type": 6, "weight": 29.0}]}

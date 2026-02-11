@@ -1,0 +1,1 @@
+{"nodes": {"12321938": {"name": "en:pathologic function", "type": 1, "weight": 25}, "7109044": {"name": "en:immunologic hypersensitivity", "type": 1, "weight": 25}}, "relations": [{"node1": 7109044, "node2": 12321938, "type": 6, "weight": 35.0}]}

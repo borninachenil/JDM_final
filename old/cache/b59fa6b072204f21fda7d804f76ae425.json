@@ -1,0 +1,1 @@
+{"nodes": {"86773": {"name": "annuel", "type": 1, "weight": 2658}, "8972": {"name": "impôt", "type": 1, "weight": 1368}, "42109": {"name": "mouvement", "type": 1, "weight": 17107}}, "relations": [{"node1": 86773, "node2": 8972, "type": 6, "weight": 47.0}, {"node1": 86773, "node2": 42109, "type": 6, "weight": 41.0}]}

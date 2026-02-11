@@ -1,0 +1,1 @@
+{"nodes": {"321592": {"name": "paroi>92878", "type": 1, "weight": 50}, "84765": {"name": "éponte", "type": 1, "weight": 51}, "39056": {"name": "paroi", "type": 1, "weight": 1412}}, "relations": [{"node1": 84765, "node2": 39056, "type": 6, "weight": 260.0}, {"node1": 84765, "node2": 321592, "type": 6, "weight": 250.0}]}

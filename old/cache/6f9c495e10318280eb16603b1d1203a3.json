@@ -1,0 +1,1 @@
+{"nodes": {"52250": {"name": "acte", "type": 1, "weight": 6728}, "333679": {"name": "acte judiciaire", "type": 1, "weight": 71}, "408206": {"name": "Acte", "type": 1, "weight": 67}}, "relations": [{"node1": 333679, "node2": 52250, "type": 6, "weight": 175.0}, {"node1": 333679, "node2": 408206, "type": 6, "weight": 20.0}]}

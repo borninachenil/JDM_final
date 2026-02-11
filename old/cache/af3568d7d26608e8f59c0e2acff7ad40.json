@@ -1,0 +1,1 @@
+{"nodes": {"5898816": {"name": "contrex", "type": 777, "weight": 0}, "5794175": {"name": "marque d'eau minérale", "type": 1, "weight": 27}}, "relations": [{"node1": 5898816, "node2": 5794175, "type": 6, "weight": 10.0}]}

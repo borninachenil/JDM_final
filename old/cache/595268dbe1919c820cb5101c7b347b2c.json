@@ -1,0 +1,1 @@
+{"nodes": {"12321827": {"name": "en:body part, organ, or organ component", "type": 1, "weight": 25}, "164856": {"name": "soies", "type": 1, "weight": 117}}, "relations": [{"node1": 164856, "node2": 12321827, "type": 6, "weight": 23.0}]}

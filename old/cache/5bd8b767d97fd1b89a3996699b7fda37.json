@@ -1,0 +1,1 @@
+{"nodes": {"125093": {"name": "boulonnage", "type": 1, "weight": 53}, "15491570": {"name": "en:bolting", "type": 1, "weight": 25}, "112929": {"name": "action", "type": 1, "weight": 18866}}, "relations": [{"node1": 125093, "node2": 112929, "type": 6, "weight": 25.0}, {"node1": 125093, "node2": 15491570, "type": 6, "weight": 30.0}]}

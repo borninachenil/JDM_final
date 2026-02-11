@@ -1,0 +1,1 @@
+{"nodes": {"438949": {"name": "_INFO-POLYMORPHIC", "type": 36, "weight": 50}, "32658488": {"name": "modèle 3D", "type": 1, "weight": 61}}, "relations": [{"node1": 32658488, "node2": 438949, "type": 36, "weight": 25.0}]}

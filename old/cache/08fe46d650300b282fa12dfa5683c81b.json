@@ -1,0 +1,1 @@
+{"nodes": {"81945": {"name": "Émotion", "type": 1, "weight": 396}, "145664": {"name": "émotion", "type": 1, "weight": 10489}, "200052498": {"name": "émotion positive", "type": 1, "weight": 41}}, "relations": [{"node1": 200052498, "node2": 81945, "type": 6, "weight": 10.0}, {"node1": 200052498, "node2": 145664, "type": 6, "weight": 35.0}]}

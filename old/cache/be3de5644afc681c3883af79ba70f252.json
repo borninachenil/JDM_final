@@ -1,0 +1,1 @@
+{"nodes": {"381509": {"name": "subdivision administrative", "type": 1, "weight": 54}, "137183": {"name": "état", "type": 1, "weight": 17840}, "11152245": {"name": "État de", "type": 777, "weight": 34}}, "relations": [{"node1": 11152245, "node2": 137183, "type": 6, "weight": 15.0}, {"node1": 11152245, "node2": 381509, "type": 6, "weight": 28.0}]}

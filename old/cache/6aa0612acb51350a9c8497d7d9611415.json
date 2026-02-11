@@ -1,0 +1,1 @@
+{"nodes": {"78725": {"name": "parties", "type": 1, "weight": 5121}, "205124": {"name": "parties du corps", "type": 1, "weight": 82}, "395514": {"name": "parties du corps humain", "type": 1, "weight": 52}}, "relations": [{"node1": 395514, "node2": 78725, "type": 6, "weight": 26.0}, {"node1": 395514, "node2": 205124, "type": 6, "weight": 38.0}]}

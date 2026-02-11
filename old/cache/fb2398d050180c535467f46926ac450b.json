@@ -1,0 +1,1 @@
+{"nodes": {"108673": {"name": "énergie", "type": 1, "weight": 18778}, "222019240": {"name": "énergie intérieure", "type": 1, "weight": 67}, "2922958": {"name": "Énergie", "type": 1, "weight": 423}}, "relations": [{"node1": 222019240, "node2": 108673, "type": 6, "weight": 26.0}, {"node1": 222019240, "node2": 2922958, "type": 6, "weight": 25.0}]}

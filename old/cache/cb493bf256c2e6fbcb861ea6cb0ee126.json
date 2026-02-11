@@ -1,0 +1,1 @@
+{"nodes": {"87673": {"name": "land", "type": 1, "weight": 177}, "275612": {"name": "État fédéré", "type": 777, "weight": 53}, "287107": {"name": "subdivision territoriale", "type": 777, "weight": 55}}, "relations": [{"node1": 87673, "node2": 275612, "type": 6, "weight": 51.0}, {"node1": 87673, "node2": 287107, "type": 6, "weight": 105.0}]}

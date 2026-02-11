@@ -1,0 +1,1 @@
+{"nodes": {"44335": {"name": "organe", "type": 1, "weight": 2330}, "316850": {"name": "entité physique", "type": 1, "weight": 56}, "3178433": {"name": "organe mécanique", "type": 1, "weight": 25}}, "relations": [{"node1": 3178433, "node2": 44335, "type": 6, "weight": 28.0}, {"node1": 3178433, "node2": 316850, "type": 6, "weight": 28.0}]}

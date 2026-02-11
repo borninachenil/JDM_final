@@ -1,0 +1,1 @@
+{"nodes": {"164887961": {"name": "salsa verde", "type": 1, "weight": 25}, "276096": {"name": "_INFO-WIKI-YES", "type": 36, "weight": 50}}, "relations": [{"node1": 164887961, "node2": 276096, "type": 36, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"267352424": {"name": "guide d'apprentissage", "type": 1, "weight": 25}, "305901": {"name": "tutoriel", "type": 777, "weight": 358}, "114975": {"name": "guide", "type": 1, "weight": 2901}}, "relations": [{"node1": 305901, "node2": 114975, "type": 6, "weight": 26.0}, {"node1": 305901, "node2": 267352424, "type": 6, "weight": 25.0}]}

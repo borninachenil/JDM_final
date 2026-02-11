@@ -1,0 +1,1 @@
+{"nodes": {"97706": {"name": "fonction", "type": 1, "weight": 9383}, "331243": {"name": "fonction mathématique", "type": 1, "weight": 60}, "3385638": {"name": "Fonction", "type": 777, "weight": 2330}}, "relations": [{"node1": 331243, "node2": 97706, "type": 6, "weight": 98.0}, {"node1": 331243, "node2": 3385638, "type": 6, "weight": 15.0}]}

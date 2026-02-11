@@ -1,0 +1,1 @@
+{"nodes": {"52119": {"name": "langue", "type": 1, "weight": 13308}, "179336": {"name": "langue occitane", "type": 1, "weight": 50}, "152952": {"name": "Langue", "type": 1, "weight": 2182}}, "relations": [{"node1": 179336, "node2": 52119, "type": 6, "weight": 103.0}, {"node1": 179336, "node2": 152952, "type": 6, "weight": 10.0}]}

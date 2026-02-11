@@ -1,0 +1,1 @@
+{"nodes": {"15072054": {"name": "en:moving ridge", "type": 1, "weight": 0}, "292": {"name": "ressac", "type": 1, "weight": 79}, "14918477": {"name": "en:wave", "type": 1, "weight": 25}}, "relations": [{"node1": 292, "node2": 14918477, "type": 6, "weight": 10.0}, {"node1": 292, "node2": 15072054, "type": 6, "weight": 10.0}]}

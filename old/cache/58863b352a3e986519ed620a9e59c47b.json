@@ -1,0 +1,1 @@
+{"nodes": {"296565666": {"name": "signal d'alarme du corps", "type": 1, "weight": 25}, "50470": {"name": "signal", "type": 1, "weight": 4533}, "139914": {"name": "signal d'alarme", "type": 1, "weight": 151}}, "relations": [{"node1": 296565666, "node2": 50470, "type": 6, "weight": 25.0}, {"node1": 296565666, "node2": 139914, "type": 6, "weight": 25.0}]}

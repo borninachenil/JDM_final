@@ -1,0 +1,1 @@
+{"nodes": {"14928061": {"name": "en:surgical", "type": 1, "weight": 25}, "1781861": {"name": "ablation chirurgicale", "type": 1, "weight": 25}, "80808": {"name": "ablation", "type": 1, "weight": 187}}, "relations": [{"node1": 1781861, "node2": 80808, "type": 6, "weight": 48.0}, {"node1": 1781861, "node2": 14928061, "type": 6, "weight": 10.0}]}

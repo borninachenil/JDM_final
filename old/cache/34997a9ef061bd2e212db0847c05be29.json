@@ -1,0 +1,1 @@
+{"nodes": {"26038": {"name": "ouvrage", "type": 1, "weight": 6904}, "264039": {"name": "ouvrage hydraulique", "type": 1, "weight": 50}}, "relations": [{"node1": 264039, "node2": 26038, "type": 6, "weight": 71.0}]}

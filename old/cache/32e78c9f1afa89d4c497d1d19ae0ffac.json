@@ -1,0 +1,1 @@
+{"nodes": {"7469917": {"name": "en:relative", "type": 1, "weight": 25}, "14921137": {"name": "en:great-grandchild", "type": 1, "weight": 25}, "48588": {"name": "descendant", "type": 1, "weight": 2540}}, "relations": [{"node1": 14921137, "node2": 48588, "type": 6, "weight": 470.0}, {"node1": 14921137, "node2": 7469917, "type": 6, "weight": 30.0}]}

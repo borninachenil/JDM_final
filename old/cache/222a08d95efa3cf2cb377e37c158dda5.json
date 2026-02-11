@@ -1,0 +1,1 @@
+{"nodes": {"302902": {"name": "oeuvre musicale", "type": 777, "weight": 76}, "26584": {"name": "composition", "type": 1, "weight": 5614}, "79416": {"name": "rhapsodie", "type": 1, "weight": 51}}, "relations": [{"node1": 79416, "node2": 26584, "type": 6, "weight": 32.0}, {"node1": 79416, "node2": 302902, "type": 6, "weight": 96.0}]}

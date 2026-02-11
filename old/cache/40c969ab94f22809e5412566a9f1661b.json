@@ -1,0 +1,1 @@
+{"nodes": {"152349": {"name": "Musique", "type": 1, "weight": 3908}, "70527": {"name": "musique", "type": 1, "weight": 24460}, "181996826": {"name": "musique américaine", "type": 1, "weight": 41}}, "relations": [{"node1": 181996826, "node2": 70527, "type": 6, "weight": 35.0}, {"node1": 181996826, "node2": 152349, "type": 6, "weight": 15.0}]}

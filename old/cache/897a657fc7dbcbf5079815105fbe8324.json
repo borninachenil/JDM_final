@@ -1,0 +1,1 @@
+{"nodes": {"59471": {"name": "erreur", "type": 1, "weight": 6432}, "329419": {"name": "erreur de programmation", "type": 1, "weight": 50}, "265334826": {"name": "erreur de", "type": 1, "weight": 28}}, "relations": [{"node1": 329419, "node2": 59471, "type": 6, "weight": 252.0}, {"node1": 329419, "node2": 265334826, "type": 6, "weight": 25.0}]}

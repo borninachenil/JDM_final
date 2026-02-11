@@ -1,0 +1,1 @@
+{"nodes": {"10617702": {"name": "discipline des sciences humaines", "type": 1, "weight": 116}, "139257": {"name": "discipline", "type": 1, "weight": 5544}}, "relations": [{"node1": 10617702, "node2": 139257, "type": 6, "weight": 26.0}]}

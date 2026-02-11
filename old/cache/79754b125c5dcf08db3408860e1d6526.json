@@ -1,0 +1,1 @@
+{"nodes": {"183261": {"name": "mobilier urbain", "type": 1, "weight": 48}, "133795": {"name": "mobilier", "type": 1, "weight": 684}}, "relations": [{"node1": 183261, "node2": 133795, "type": 6, "weight": 18.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"5517142": {"name": "pratique spirituelle", "type": 1, "weight": 43}, "145946": {"name": "pratique", "type": 1, "weight": 8375}}, "relations": [{"node1": 5517142, "node2": 145946, "type": 6, "weight": 26.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"7334409": {"name": "en:programming language", "type": 1, "weight": 25}, "36359": {"name": "visuel", "type": 1, "weight": 1645}, "161538": {"name": "langage de programmation", "type": 1, "weight": 197}}, "relations": [{"node1": 36359, "node2": 161538, "type": 6, "weight": 35.0}, {"node1": 36359, "node2": 7334409, "type": 6, "weight": 30.0}]}

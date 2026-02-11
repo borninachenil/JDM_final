@@ -1,0 +1,1 @@
+{"nodes": {"75334": {"name": "musicien", "type": 1, "weight": 3684}, "97248": {"name": "mandoliniste", "type": 1, "weight": 50}, "135024": {"name": "instrumentiste", "type": 1, "weight": 136}}, "relations": [{"node1": 97248, "node2": 75334, "type": 6, "weight": 24.0}, {"node1": 97248, "node2": 135024, "type": 6, "weight": 29.0}]}

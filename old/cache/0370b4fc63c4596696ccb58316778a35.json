@@ -1,0 +1,1 @@
+{"nodes": {"295014985": {"name": "organe urinaire", "type": 1, "weight": 25}, "44335": {"name": "organe", "type": 1, "weight": 2330}}, "relations": [{"node1": 295014985, "node2": 44335, "type": 6, "weight": 25.0}]}

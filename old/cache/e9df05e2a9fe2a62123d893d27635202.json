@@ -1,0 +1,1 @@
+{"nodes": {"15441145": {"name": "en:moveable bridge", "type": 1, "weight": 25}, "8682164": {"name": "en:moveable", "type": 1, "weight": 25}, "91356": {"name": "pont", "type": 1, "weight": 5321}}, "relations": [{"node1": 15441145, "node2": 91356, "type": 6, "weight": 30.0}, {"node1": 15441145, "node2": 8682164, "type": 6, "weight": 25.0}]}

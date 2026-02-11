@@ -1,0 +1,1 @@
+{"nodes": {"108794": {"name": "période", "type": 1, "weight": 8177}, "5517366": {"name": "période géologique de la Terre", "type": 1, "weight": 25}, "3313960": {"name": "période géologique", "type": 1, "weight": 39}}, "relations": [{"node1": 5517366, "node2": 108794, "type": 6, "weight": 31.0}, {"node1": 5517366, "node2": 3313960, "type": 6, "weight": 36.0}]}

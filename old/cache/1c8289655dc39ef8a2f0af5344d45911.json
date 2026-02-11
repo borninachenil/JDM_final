@@ -1,0 +1,1 @@
+{"nodes": {"238937075": {"name": "ralentissement de la", "type": 1, "weight": 25}, "375248": {"name": "ralentissement de la croissance", "type": 1, "weight": 55}, "66332": {"name": "ralentissement", "type": 1, "weight": 434}}, "relations": [{"node1": 375248, "node2": 66332, "type": 6, "weight": 42.0}, {"node1": 375248, "node2": 238937075, "type": 6, "weight": 25.0}]}

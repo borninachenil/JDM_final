@@ -1,0 +1,1 @@
+{"nodes": {"256122": {"name": "état émotionnel", "type": 1, "weight": 126}, "137183": {"name": "état", "type": 1, "weight": 17840}, "542": {"name": "État", "type": 1, "weight": 11464}}, "relations": [{"node1": 256122, "node2": 542, "type": 6, "weight": 10.0}, {"node1": 256122, "node2": 137183, "type": 6, "weight": 55.0}]}

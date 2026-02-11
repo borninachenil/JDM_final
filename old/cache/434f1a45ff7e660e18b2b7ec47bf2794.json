@@ -1,0 +1,1 @@
+{"nodes": {"140565": {"name": "style", "type": 1, "weight": 8182}, "11136814": {"name": "style d'écriture manuscrite", "type": 1, "weight": 25}, "11136815": {"name": "style d'écriture", "type": 1, "weight": 118}}, "relations": [{"node1": 11136814, "node2": 140565, "type": 6, "weight": 26.0}, {"node1": 11136814, "node2": 11136815, "type": 6, "weight": 25.0}]}

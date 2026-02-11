@@ -1,0 +1,1 @@
+{"nodes": {"134300": {"name": "chaînette", "type": 1, "weight": 100}, "283988": {"name": "courbe plane", "type": 777, "weight": 4}}, "relations": [{"node1": 134300, "node2": 283988, "type": 6, "weight": 26.0}]}

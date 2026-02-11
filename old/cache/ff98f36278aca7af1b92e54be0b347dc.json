@@ -1,0 +1,1 @@
+{"nodes": {"225792": {"name": "métier>103465", "type": 1, "weight": 225}, "126724": {"name": "métier", "type": 1, "weight": 4864}, "236463": {"name": "métier à risques", "type": 1, "weight": 53}}, "relations": [{"node1": 236463, "node2": 126724, "type": 6, "weight": 55.0}, {"node1": 236463, "node2": 225792, "type": 6, "weight": 105.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"9112587": {"name": "en:household accessory", "type": 1, "weight": 0}, "53918": {"name": "allumettes", "type": 1, "weight": 121}, "373503": {"name": "produit de première nécessité", "type": 1, "weight": 71}}, "relations": [{"node1": 53918, "node2": 373503, "type": 6, "weight": 61.0}, {"node1": 53918, "node2": 9112587, "type": 6, "weight": 23.0}]}

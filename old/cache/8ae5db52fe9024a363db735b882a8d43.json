@@ -1,0 +1,1 @@
+{"nodes": {"17630828": {"name": "arme d'infanterie", "type": 1, "weight": 25}, "237": {"name": "objet", "type": 1, "weight": 9711}, "145948": {"name": "arme", "type": 1, "weight": 6771}}, "relations": [{"node1": 17630828, "node2": 237, "type": 6, "weight": 35.0}, {"node1": 17630828, "node2": 145948, "type": 6, "weight": 26.0}]}

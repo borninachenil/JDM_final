@@ -1,0 +1,1 @@
+{"nodes": {"268362910": {"name": "condition climatique", "type": 1, "weight": 227}, "266237": {"name": "phénomène météorologique", "type": 1, "weight": 143}, "246436": {"name": "tempête>124518", "type": 1, "weight": 148}}, "relations": [{"node1": 246436, "node2": 266237, "type": 6, "weight": 202.0}, {"node1": 246436, "node2": 268362910, "type": 6, "weight": 25.0}]}

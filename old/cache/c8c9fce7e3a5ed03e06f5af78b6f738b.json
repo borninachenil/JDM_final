@@ -1,0 +1,1 @@
+{"nodes": {"142661": {"name": "zone", "type": 1, "weight": 5777}, "388058": {"name": "zone pileuse", "type": 1, "weight": 50}, "115963613": {"name": "zone pileuse du visage humain", "type": 1, "weight": 28}}, "relations": [{"node1": 115963613, "node2": 142661, "type": 6, "weight": 29.0}, {"node1": 115963613, "node2": 388058, "type": 6, "weight": 28.0}]}

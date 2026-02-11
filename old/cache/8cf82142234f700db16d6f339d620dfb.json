@@ -1,0 +1,1 @@
+{"nodes": {"12080008": {"name": "molécule de signalisation", "type": 1, "weight": 25}, "12109075": {"name": "composant d'un analyte", "type": 1, "weight": 25}, "117662": {"name": "molécule", "type": 1, "weight": 4073}}, "relations": [{"node1": 12080008, "node2": 117662, "type": 6, "weight": 36.0}, {"node1": 12080008, "node2": 12109075, "type": 6, "weight": 34.0}]}

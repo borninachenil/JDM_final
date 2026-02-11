@@ -1,0 +1,1 @@
+{"nodes": {"16035503": {"name": "stracchino", "type": 1, "weight": 25}, "1730939": {"name": "fromage au lait de vache", "type": 1, "weight": 10}}, "relations": [{"node1": 16035503, "node2": 1730939, "type": 6, "weight": 10.0}]}

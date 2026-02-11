@@ -1,0 +1,1 @@
+{"nodes": {"106265": {"name": "appareil", "type": 1, "weight": 4064}, "3304910": {"name": "appareil médical", "type": 1, "weight": 31}, "139768": {"name": "artéfact", "type": 1, "weight": 182}}, "relations": [{"node1": 3304910, "node2": 106265, "type": 6, "weight": 102.0}, {"node1": 3304910, "node2": 139768, "type": 6, "weight": 26.0}]}

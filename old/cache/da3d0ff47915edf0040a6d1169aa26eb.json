@@ -1,0 +1,1 @@
+{"nodes": {"227684": {"name": "distinction honorifique", "type": 1, "weight": 23}, "15244": {"name": "distinction", "type": 1, "weight": 4274}, "426184": {"name": "Distinction", "type": 1, "weight": 59}}, "relations": [{"node1": 227684, "node2": 15244, "type": 6, "weight": 60.0}, {"node1": 227684, "node2": 426184, "type": 6, "weight": 5.0}]}

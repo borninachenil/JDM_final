@@ -1,0 +1,1 @@
+{"nodes": {"19216": {"name": "affirmation", "type": 1, "weight": 2469}, "276865386": {"name": "affirmation de", "type": 1, "weight": 25}, "278775241": {"name": "affirmation de base", "type": 1, "weight": 25}}, "relations": [{"node1": 278775241, "node2": 19216, "type": 6, "weight": 27.0}, {"node1": 278775241, "node2": 276865386, "type": 6, "weight": 25.0}]}

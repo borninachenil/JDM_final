@@ -1,0 +1,1 @@
+{"nodes": {"143377": {"name": "sénat", "type": 1, "weight": 2716}, "135190": {"name": "lieu", "type": 1, "weight": 13386}, "120511": {"name": "assemblée", "type": 1, "weight": 4312}}, "relations": [{"node1": 143377, "node2": 120511, "type": 6, "weight": 53.0}, {"node1": 143377, "node2": 135190, "type": 6, "weight": 49.0}]}

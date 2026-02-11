@@ -1,0 +1,1 @@
+{"nodes": {"122365069": {"name": "intégrale de surface", "type": 777, "weight": 25}, "359709": {"name": "intégrale définie", "type": 1, "weight": 52}, "424923": {"name": "Intégrale", "type": 1, "weight": 60}}, "relations": [{"node1": 122365069, "node2": 359709, "type": 6, "weight": 34.0}, {"node1": 122365069, "node2": 424923, "type": 6, "weight": 20.0}]}

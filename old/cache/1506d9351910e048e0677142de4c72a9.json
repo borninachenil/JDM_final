@@ -1,0 +1,1 @@
+{"nodes": {"15206849": {"name": "en:service plaza", "type": 1, "weight": 25}, "7992030": {"name": "en:service", "type": 1, "weight": 25}, "5537545": {"name": "architecture de médiation", "type": 777, "weight": 26}}, "relations": [{"node1": 15206849, "node2": 5537545, "type": 6, "weight": 220.0}, {"node1": 15206849, "node2": 7992030, "type": 6, "weight": 25.0}]}

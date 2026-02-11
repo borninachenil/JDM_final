@@ -1,0 +1,1 @@
+{"nodes": {"414862": {"name": "Animation", "type": 1, "weight": 79}, "35415": {"name": "animation", "type": 1, "weight": 1324}, "14145207": {"name": "animation japonaise", "type": 1, "weight": 26}}, "relations": [{"node1": 14145207, "node2": 35415, "type": 6, "weight": 25.0}, {"node1": 14145207, "node2": 414862, "type": 6, "weight": 10.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"161361281": {"name": "stratégie défensive", "type": 1, "weight": 35}, "411610": {"name": "Stratégie", "type": 1, "weight": 917}, "46324": {"name": "stratégie", "type": 1, "weight": 33627}}, "relations": [{"node1": 161361281, "node2": 46324, "type": 6, "weight": 26.0}, {"node1": 161361281, "node2": 411610, "type": 6, "weight": 10.0}]}

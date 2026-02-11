@@ -1,0 +1,1 @@
+{"nodes": {"3762435": {"name": "ingrédient de recette de cuisine", "type": 1, "weight": 12}, "189964": {"name": "grand marnier", "type": 1, "weight": 52}}, "relations": [{"node1": 189964, "node2": 3762435, "type": 6, "weight": 111.0}]}

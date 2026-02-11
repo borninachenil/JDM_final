@@ -1,0 +1,1 @@
+{"nodes": {"246466": {"name": "paillasson>81873", "type": 1, "weight": 52}, "237": {"name": "objet", "type": 1, "weight": 9711}}, "relations": [{"node1": 246466, "node2": 237, "type": 6, "weight": 28.0}]}

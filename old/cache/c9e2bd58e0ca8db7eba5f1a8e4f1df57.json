@@ -1,0 +1,1 @@
+{"nodes": {"12321899": {"name": "en:mental or behavioral dysfunction", "type": 1, "weight": 25}, "25559": {"name": "déraisonnable", "type": 1, "weight": 141}}, "relations": [{"node1": 25559, "node2": 12321899, "type": 6, "weight": 29.0}]}

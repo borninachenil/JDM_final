@@ -1,0 +1,1 @@
+{"nodes": {"39765": {"name": "trajectoire", "type": 1, "weight": 3054}, "55077": {"name": "chemin", "type": 1, "weight": 9737}, "139243": {"name": "ligne", "type": 1, "weight": 7793}}, "relations": [{"node1": 39765, "node2": 55077, "type": 6, "weight": 31.0}, {"node1": 39765, "node2": 139243, "type": 6, "weight": 32.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"359334": {"name": "installation industrielle", "type": 1, "weight": 53}, "66483": {"name": "installation", "type": 1, "weight": 2200}}, "relations": [{"node1": 359334, "node2": 66483, "type": 6, "weight": 32.0}]}

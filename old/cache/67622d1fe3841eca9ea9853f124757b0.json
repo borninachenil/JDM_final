@@ -1,0 +1,1 @@
+{"nodes": {"139243": {"name": "ligne", "type": 1, "weight": 7793}, "259286297": {"name": "ligne de", "type": 1, "weight": 28}, "15436368": {"name": "en:streetcar line", "type": 1, "weight": 25}}, "relations": [{"node1": 15436368, "node2": 139243, "type": 6, "weight": 185.0}, {"node1": 15436368, "node2": 259286297, "type": 6, "weight": 10.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"213429": {"name": "croissant>113645", "type": 1, "weight": 238}, "113645": {"name": "viennoiserie", "type": 1, "weight": 548}, "255460": {"name": "produit de boulangerie", "type": 1, "weight": 51}}, "relations": [{"node1": 213429, "node2": 113645, "type": 6, "weight": 49.0}, {"node1": 213429, "node2": 255460, "type": 6, "weight": 28.0}]}

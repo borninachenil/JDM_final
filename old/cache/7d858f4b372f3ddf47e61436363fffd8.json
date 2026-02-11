@@ -1,0 +1,1 @@
+{"nodes": {"15265933": {"name": "en:acoustic signal", "type": 1, "weight": 25}, "50470": {"name": "signal", "type": 1, "weight": 4533}, "7053907": {"name": "en:signal", "type": 1, "weight": 2}}, "relations": [{"node1": 15265933, "node2": 50470, "type": 6, "weight": 70.0}, {"node1": 15265933, "node2": 7053907, "type": 6, "weight": 35.0}]}

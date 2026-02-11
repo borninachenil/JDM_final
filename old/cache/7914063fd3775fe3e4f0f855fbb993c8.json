@@ -1,0 +1,1 @@
+{"nodes": {"271449137": {"name": "dispositif électrochimique", "type": 1, "weight": 27}, "410689": {"name": "dispositifs", "type": 1, "weight": 2349}, "135936": {"name": "dispositif", "type": 1, "weight": 5612}}, "relations": [{"node1": 271449137, "node2": 135936, "type": 6, "weight": 25.0}, {"node1": 271449137, "node2": 410689, "type": 6, "weight": 26.0}]}

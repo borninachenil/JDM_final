@@ -1,0 +1,1 @@
+{"nodes": {"14953565": {"name": "en:deadly sin", "type": 1, "weight": 25}, "205284": {"name": "péché capital", "type": 1, "weight": 52}, "131996": {"name": "luxure", "type": 1, "weight": 266}}, "relations": [{"node1": 131996, "node2": 205284, "type": 6, "weight": 51.0}, {"node1": 131996, "node2": 14953565, "type": 6, "weight": 31.0}]}

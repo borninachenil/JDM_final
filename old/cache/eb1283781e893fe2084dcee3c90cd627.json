@@ -1,0 +1,1 @@
+{"nodes": {"161289": {"name": "castagnette", "type": 1, "weight": 52}, "6605": {"name": "instrument", "type": 1, "weight": 5775}, "3298066": {"name": "instrument de musique à percussion", "type": 1, "weight": 25}}, "relations": [{"node1": 161289, "node2": 6605, "type": 6, "weight": 39.0}, {"node1": 161289, "node2": 3298066, "type": 6, "weight": 40.0}]}

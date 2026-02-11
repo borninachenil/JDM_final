@@ -1,0 +1,1 @@
+{"nodes": {"359239": {"name": "injustice sociale", "type": 1, "weight": 125}, "37731": {"name": "injustice", "type": 1, "weight": 1358}, "9025423": {"name": "Injustice", "type": 1, "weight": 42}}, "relations": [{"node1": 359239, "node2": 37731, "type": 6, "weight": 32.0}, {"node1": 359239, "node2": 9025423, "type": 6, "weight": 10.0}]}

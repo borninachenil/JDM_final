@@ -1,0 +1,1 @@
+{"nodes": {"3293569": {"name": "Bloc de pierre", "type": 777, "weight": 25}, "11692": {"name": "bloc", "type": 1, "weight": 3290}, "566391": {"name": "bloc de", "type": 777, "weight": 50}}, "relations": [{"node1": 3293569, "node2": 11692, "type": 6, "weight": 69.0}, {"node1": 3293569, "node2": 566391, "type": 6, "weight": 30.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"36372": {"name": "point", "type": 1, "weight": 19955}, "250878300": {"name": "point le plus élevé", "type": 1, "weight": 30}}, "relations": [{"node1": 250878300, "node2": 36372, "type": 6, "weight": 25.0}]}

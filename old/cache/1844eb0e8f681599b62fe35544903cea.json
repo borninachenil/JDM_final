@@ -1,0 +1,1 @@
+{"nodes": {"132350": {"name": "région", "type": 1, "weight": 9055}, "138807": {"name": "Piémont", "type": 1, "weight": 669}}, "relations": [{"node1": 138807, "node2": 132350, "type": 6, "weight": 51.0}]}

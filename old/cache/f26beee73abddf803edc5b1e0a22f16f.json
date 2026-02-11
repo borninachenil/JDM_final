@@ -1,0 +1,1 @@
+{"nodes": {"5946642": {"name": "processus cognitif", "type": 1, "weight": 123}, "112929": {"name": "action", "type": 1, "weight": 18867}, "15409381": {"name": "en:generalising", "type": 1, "weight": 25}}, "relations": [{"node1": 15409381, "node2": 112929, "type": 6, "weight": 42.0}, {"node1": 15409381, "node2": 5946642, "type": 6, "weight": 41.0}]}

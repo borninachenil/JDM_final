@@ -1,0 +1,1 @@
+{"nodes": {"424040955": {"name": "ouverture aménagée", "type": 1, "weight": 7}, "36820": {"name": "ouverture", "type": 1, "weight": 4690}}, "relations": [{"node1": 424040955, "node2": 36820, "type": 6, "weight": 26.0}]}

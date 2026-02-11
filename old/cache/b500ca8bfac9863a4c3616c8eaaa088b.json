@@ -1,0 +1,1 @@
+{"nodes": {"15095309": {"name": "en:oleoresin", "type": 1, "weight": 25}, "6909": {"name": "sécrétion", "type": 1, "weight": 311}}, "relations": [{"node1": 15095309, "node2": 6909, "type": 6, "weight": 40.0}]}

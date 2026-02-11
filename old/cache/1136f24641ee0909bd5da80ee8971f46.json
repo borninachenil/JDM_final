@@ -1,0 +1,1 @@
+{"nodes": {"83248": {"name": "île", "type": 1, "weight": 6611}, "111955": {"name": "Minorque", "type": 1, "weight": 50}, "190984": {"name": "îles Baléares", "type": 1, "weight": 73}}, "relations": [{"node1": 111955, "node2": 83248, "type": 6, "weight": 42.0}, {"node1": 111955, "node2": 190984, "type": 6, "weight": 39.0}]}

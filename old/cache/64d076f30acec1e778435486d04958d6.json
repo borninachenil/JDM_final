@@ -1,0 +1,1 @@
+{"nodes": {"14609612": {"name": "dilatation des veines", "type": 1, "weight": 30}, "7785528": {"name": "en:varicose", "type": 1, "weight": 25}, "20840": {"name": "varices", "type": 1, "weight": 73}}, "relations": [{"node1": 20840, "node2": 7785528, "type": 6, "weight": 24.0}, {"node1": 20840, "node2": 14609612, "type": 6, "weight": 35.0}]}

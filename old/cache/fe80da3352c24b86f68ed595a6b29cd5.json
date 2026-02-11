@@ -1,0 +1,1 @@
+{"nodes": {"12452": {"name": "baladeur", "type": 1, "weight": 94}, "3178816": {"name": "baladeur numérique", "type": 777, "weight": 25}, "91545334": {"name": "Baladeur", "type": 1, "weight": 25}}, "relations": [{"node1": 3178816, "node2": 12452, "type": 6, "weight": 26.0}, {"node1": 3178816, "node2": 91545334, "type": 6, "weight": 15.0}]}

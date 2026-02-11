@@ -1,0 +1,1 @@
+{"nodes": {"87648": {"name": "booléen", "type": 1, "weight": 52}, "6651": {"name": "variable", "type": 1, "weight": 5108}}, "relations": [{"node1": 87648, "node2": 6651, "type": 6, "weight": 35.0}]}

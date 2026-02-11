@@ -1,0 +1,1 @@
+{"nodes": {"241146514": {"name": "minéral de la famille des tectosilicates", "type": 1, "weight": 25}, "86490": {"name": "minéral", "type": 1, "weight": 1294}}, "relations": [{"node1": 241146514, "node2": 86490, "type": 6, "weight": 26.0}]}

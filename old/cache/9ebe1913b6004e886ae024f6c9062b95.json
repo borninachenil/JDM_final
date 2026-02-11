@@ -1,0 +1,1 @@
+{"nodes": {"146720": {"name": "céramique", "type": 1, "weight": 904}, "34994": {"name": "poterie", "type": 1, "weight": 463}, "142246": {"name": "faïence", "type": 1, "weight": 173}}, "relations": [{"node1": 142246, "node2": 34994, "type": 6, "weight": 36.0}, {"node1": 142246, "node2": 146720, "type": 6, "weight": 17.0}]}

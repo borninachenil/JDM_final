@@ -1,0 +1,1 @@
+{"nodes": {"14925897": {"name": "en:cameo", "type": 1, "weight": 25}, "80069": {"name": "modification", "type": 1, "weight": 8157}}, "relations": [{"node1": 14925897, "node2": 80069, "type": 6, "weight": 29.0}]}

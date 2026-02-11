@@ -1,0 +1,1 @@
+{"nodes": {"1801182": {"name": "rang taxonomique", "type": 1, "weight": 37}, "17778": {"name": "lignée", "type": 1, "weight": 2053}}, "relations": [{"node1": 17778, "node2": 1801182, "type": 6, "weight": 192.0}]}

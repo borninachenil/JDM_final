@@ -1,0 +1,1 @@
+{"nodes": {"7053878": {"name": "en:regulator", "type": 1, "weight": 25}, "14959402": {"name": "en:spigot", "type": 1, "weight": 25}}, "relations": [{"node1": 14959402, "node2": 7053878, "type": 6, "weight": 29.0}]}

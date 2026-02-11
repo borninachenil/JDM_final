@@ -1,0 +1,1 @@
+{"nodes": {"194988": {"name": "progrès technique", "type": 1, "weight": 201}, "415142": {"name": "Progrès", "type": 1, "weight": 401}, "46277": {"name": "progrès", "type": 1, "weight": 11100}}, "relations": [{"node1": 194988, "node2": 46277, "type": 6, "weight": 94.0}, {"node1": 194988, "node2": 415142, "type": 6, "weight": 15.0}]}

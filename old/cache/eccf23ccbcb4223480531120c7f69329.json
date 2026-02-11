@@ -1,0 +1,1 @@
+{"nodes": {"235545": {"name": "pierre dressée", "type": 1, "weight": 50}, "5623132": {"name": "monument monolithe", "type": 1, "weight": 25}, "25008": {"name": "pierre", "type": 1, "weight": 9930}}, "relations": [{"node1": 235545, "node2": 25008, "type": 6, "weight": 26.0}, {"node1": 235545, "node2": 5623132, "type": 6, "weight": 34.0}]}

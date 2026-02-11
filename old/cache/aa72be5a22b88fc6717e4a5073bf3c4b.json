@@ -1,0 +1,1 @@
+{"nodes": {"81161": {"name": "domaine", "type": 1, "weight": 7959}, "251697173": {"name": "domaine culturel", "type": 1, "weight": 30}}, "relations": [{"node1": 251697173, "node2": 81161, "type": 6, "weight": 25.0}]}

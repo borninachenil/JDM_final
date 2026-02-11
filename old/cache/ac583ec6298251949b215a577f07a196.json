@@ -1,0 +1,1 @@
+{"nodes": {"15441917": {"name": "en:form of literature", "type": 1, "weight": 25}, "7180125": {"name": "en:form", "type": 1, "weight": 25}, "142000": {"name": "forme", "type": 1, "weight": 15390}}, "relations": [{"node1": 15441917, "node2": 142000, "type": 6, "weight": 105.0}, {"node1": 15441917, "node2": 7180125, "type": 6, "weight": 25.0}]}

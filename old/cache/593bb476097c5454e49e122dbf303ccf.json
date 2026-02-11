@@ -1,0 +1,1 @@
+{"nodes": {"149413": {"name": "organes", "type": 1, "weight": 3297}, "415770436": {"name": "organes glandulaires", "type": 1, "weight": 0}}, "relations": [{"node1": 415770436, "node2": 149413, "type": 6, "weight": 25.0}]}

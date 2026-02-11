@@ -1,0 +1,1 @@
+{"nodes": {"313148849": {"name": "composant cométaire", "type": 1, "weight": 0}, "33163": {"name": "composant", "type": 1, "weight": 2917}}, "relations": [{"node1": 313148849, "node2": 33163, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"291791": {"name": "culture organisationnelle", "type": 777, "weight": 190}, "152488": {"name": "Culture", "type": 1, "weight": 6188}, "22885": {"name": "culture", "type": 1, "weight": 54953}}, "relations": [{"node1": 291791, "node2": 22885, "type": 6, "weight": 38.0}, {"node1": 291791, "node2": 152488, "type": 6, "weight": 15.0}]}

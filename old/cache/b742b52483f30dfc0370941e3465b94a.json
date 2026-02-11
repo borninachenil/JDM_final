@@ -1,0 +1,1 @@
+{"nodes": {"4035": {"name": "marqueur", "type": 1, "weight": 552}, "12079769": {"name": "marqueur social", "type": 1, "weight": 42}}, "relations": [{"node1": 12079769, "node2": 4035, "type": 6, "weight": 27.0}]}

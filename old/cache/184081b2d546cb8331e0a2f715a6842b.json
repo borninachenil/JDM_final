@@ -1,0 +1,1 @@
+{"nodes": {"3233": {"name": "partie", "type": 1, "weight": 12812}, "246207": {"name": "partie du visage", "type": 1, "weight": 54}, "216577": {"name": "partie>65364", "type": 1, "weight": 52}}, "relations": [{"node1": 246207, "node2": 3233, "type": 6, "weight": 110.0}, {"node1": 246207, "node2": 216577, "type": 6, "weight": 47.0}]}

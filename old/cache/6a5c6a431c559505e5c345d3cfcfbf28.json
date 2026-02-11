@@ -1,0 +1,1 @@
+{"nodes": {"6950366": {"name": "en:recipient", "type": 1, "weight": 25}, "38388": {"name": "décoré", "type": 1, "weight": 102}, "12467668": {"name": "en:medal", "type": 1, "weight": 25}}, "relations": [{"node1": 38388, "node2": 6950366, "type": 6, "weight": 10.0}, {"node1": 38388, "node2": 12467668, "type": 6, "weight": 27.0}]}

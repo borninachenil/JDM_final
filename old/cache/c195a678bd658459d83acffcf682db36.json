@@ -1,0 +1,1 @@
+{"nodes": {"15235229": {"name": "en:boolean operator", "type": 1, "weight": 25}, "96670": {"name": "opérateur", "type": 1, "weight": 2494}}, "relations": [{"node1": 15235229, "node2": 96670, "type": 6, "weight": 75.0}]}

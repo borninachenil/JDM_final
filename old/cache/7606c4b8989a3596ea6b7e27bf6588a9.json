@@ -1,0 +1,1 @@
+{"nodes": {"85857": {"name": "média", "type": 1, "weight": 2367}, "102118": {"name": "technologie", "type": 1, "weight": 23333}}, "relations": [{"node1": 85857, "node2": 102118, "type": 6, "weight": 71.0}]}

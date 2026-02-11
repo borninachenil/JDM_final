@@ -1,0 +1,1 @@
+{"nodes": {"33634": {"name": "préparation", "type": 1, "weight": 7194}, "5786642": {"name": "casgiu merzu", "type": 777, "weight": 25}, "12255568": {"name": "préparation fromagère", "type": 1, "weight": 25}}, "relations": [{"node1": 5786642, "node2": 33634, "type": 6, "weight": 26.0}, {"node1": 5786642, "node2": 12255568, "type": 6, "weight": 29.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"262039704": {"name": "vernis céramique", "type": 1, "weight": 0}, "101918": {"name": "vernis", "type": 1, "weight": 345}, "171870": {"name": "Nom:", "type": 4, "weight": 50}}, "relations": [{"node1": 262039704, "node2": 101918, "type": 6, "weight": 25.0}, {"node1": 262039704, "node2": 171870, "type": 4, "weight": 25.0}]}

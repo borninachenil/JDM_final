@@ -1,0 +1,1 @@
+{"nodes": {"71930": {"name": "lithographie", "type": 1, "weight": 126}, "325234": {"name": "technique d'impression", "type": 1, "weight": 62}, "15054": {"name": "procédé", "type": 1, "weight": 3633}}, "relations": [{"node1": 71930, "node2": 15054, "type": 6, "weight": 15.0}, {"node1": 71930, "node2": 325234, "type": 6, "weight": 26.0}]}

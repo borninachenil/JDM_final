@@ -1,0 +1,1 @@
+{"nodes": {"10961918": {"name": "mode d'organisation du corps", "type": 1, "weight": 25}, "133857": {"name": "mode", "type": 1, "weight": 8310}}, "relations": [{"node1": 10961918, "node2": 133857, "type": 6, "weight": 26.0}]}

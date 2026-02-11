@@ -1,0 +1,1 @@
+{"nodes": {"57230": {"name": "compétition", "type": 1, "weight": 9976}, "13615106": {"name": "compétition de cyclisme sur piste", "type": 1, "weight": 25}}, "relations": [{"node1": 13615106, "node2": 57230, "type": 6, "weight": 26.0}]}

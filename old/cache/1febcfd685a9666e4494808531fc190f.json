@@ -1,0 +1,1 @@
+{"nodes": {"173701": {"name": "pitch", "type": 1, "weight": 70}, "116308": {"name": "synthèse", "type": 1, "weight": 7576}, "87150": {"name": "caractéristique", "type": 1, "weight": 5314}}, "relations": [{"node1": 173701, "node2": 87150, "type": 6, "weight": 49.0}, {"node1": 173701, "node2": 116308, "type": 6, "weight": 29.0}]}

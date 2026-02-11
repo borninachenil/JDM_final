@@ -1,0 +1,1 @@
+{"nodes": {"438949": {"name": "_INFO-POLYMORPHIC", "type": 36, "weight": 50}, "2055745": {"name": "grigné", "type": 2, "weight": 0}}, "relations": [{"node1": 2055745, "node2": 438949, "type": 36, "weight": 34.0}]}

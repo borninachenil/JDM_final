@@ -1,0 +1,1 @@
+{"nodes": {"356934": {"name": "groupe politique", "type": 1, "weight": 156}, "14941119": {"name": "en:groupuscule", "type": 1, "weight": 25}}, "relations": [{"node1": 14941119, "node2": 356934, "type": 6, "weight": 40.0}]}

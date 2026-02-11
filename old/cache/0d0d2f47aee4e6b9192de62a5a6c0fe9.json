@@ -1,0 +1,1 @@
+{"nodes": {"16905742": {"name": "orientation dentaire", "type": 1, "weight": 25}, "82682": {"name": "orientation", "type": 1, "weight": 3095}}, "relations": [{"node1": 16905742, "node2": 82682, "type": 6, "weight": 26.0}]}

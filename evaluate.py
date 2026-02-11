@@ -1,16 +1,6 @@
-"""Evaluation du systeme : precision, rappel, F1 par classe et global."""
-
 from collections import defaultdict
-
 from config import RELATION_LABELS
-
-
 def evaluate(model, test_data, progress=True):
-    """
-    Evalue le modele sur les donnees de test.
-
-    Retourne un dict avec les metriques par classe et globales.
-    """
     predictions = []
     total = len(test_data)
 
@@ -18,19 +8,16 @@ def evaluate(model, test_data, progress=True):
         print(f"Evaluation sur {total} exemples...")
 
     for i, (a, b, rt_expected) in enumerate(test_data):
-        rt_predicted, score = model.predict(a, b)
+        rt_predicted= model.predict(a, b)
         predictions.append((rt_expected, rt_predicted))
 
         if progress and (i + 1) % 100 == 0:
-            # Calculer l'accuracy courante
             correct = sum(1 for exp, pred in predictions if exp == pred)
             acc = correct / len(predictions)
             print(f"  [{i+1}/{total}] accuracy courante: {acc:.3f}")
-
-    # Calcul des metriques par classe
     classes = sorted(set(rt for rt, _ in predictions) | set(rt for _, rt in predictions))
 
-    # True positives, false positives, false negatives par classe
+
     tp = defaultdict(int)
     fp = defaultdict(int)
     fn = defaultdict(int)
@@ -41,8 +28,6 @@ def evaluate(model, test_data, progress=True):
         else:
             fp[predicted] += 1
             fn[expected] += 1
-
-    # Metriques par classe
     results = {}
     for cls in classes:
         p = tp[cls] / (tp[cls] + fp[cls]) if (tp[cls] + fp[cls]) > 0 else 0.0
@@ -51,13 +36,10 @@ def evaluate(model, test_data, progress=True):
         support = tp[cls] + fn[cls]
         results[cls] = {"precision": p, "recall": r, "f1": f1, "support": support}
 
-    # Moyennes macro
     n_classes = len(results)
     macro_p = sum(r["precision"] for r in results.values()) / n_classes if n_classes else 0
     macro_r = sum(r["recall"] for r in results.values()) / n_classes if n_classes else 0
     macro_f1 = sum(r["f1"] for r in results.values()) / n_classes if n_classes else 0
-
-    # Accuracy globale
     correct = sum(1 for exp, pred in predictions if exp == pred)
     accuracy = correct / total if total > 0 else 0.0
 

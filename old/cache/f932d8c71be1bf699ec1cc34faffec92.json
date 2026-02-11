@@ -1,0 +1,1 @@
+{"nodes": {"101285": {"name": "musée", "type": 1, "weight": 5292}, "299763072": {"name": "musée emblématique français", "type": 1, "weight": 0}}, "relations": [{"node1": 299763072, "node2": 101285, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"232799711": {"name": "point de l'horizon", "type": 1, "weight": 32}, "36372": {"name": "point", "type": 1, "weight": 19955}, "105681": {"name": "point cardinal", "type": 1, "weight": 709}}, "relations": [{"node1": 105681, "node2": 36372, "type": 6, "weight": 37.0}, {"node1": 105681, "node2": 232799711, "type": 6, "weight": 29.0}]}

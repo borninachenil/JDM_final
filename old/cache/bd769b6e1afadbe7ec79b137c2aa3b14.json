@@ -1,0 +1,1 @@
+{"nodes": {"356183789": {"name": "valeur existentialiste", "type": 1, "weight": 25}, "19504": {"name": "valeur", "type": 1, "weight": 16911}}, "relations": [{"node1": 356183789, "node2": 19504, "type": 6, "weight": 26.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"157283": {"name": "lieu>134218", "type": 1, "weight": 358}, "295982665": {"name": "ville tunisienne", "type": 1, "weight": 25}, "136786": {"name": "ville", "type": 1, "weight": 22403}}, "relations": [{"node1": 295982665, "node2": 136786, "type": 6, "weight": 27.0}, {"node1": 295982665, "node2": 157283, "type": 6, "weight": 25.0}]}

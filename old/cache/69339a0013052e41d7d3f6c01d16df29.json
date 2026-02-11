@@ -1,0 +1,1 @@
+{"nodes": {"8843937": {"name": "en:cellular", "type": 1, "weight": 25}, "63936": {"name": "tissu", "type": 1, "weight": 3377}, "213434": {"name": "tissu cellulaire", "type": 1, "weight": 17}}, "relations": [{"node1": 213434, "node2": 63936, "type": 6, "weight": 170.0}, {"node1": 213434, "node2": 8843937, "type": 6, "weight": 10.0}]}

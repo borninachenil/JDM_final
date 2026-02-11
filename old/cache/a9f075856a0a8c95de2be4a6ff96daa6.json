@@ -1,0 +1,1 @@
+{"nodes": {"7015579": {"name": "en:public building", "type": 1, "weight": 25}, "214525": {"name": "cirque>28216", "type": 1, "weight": 10}, "389572": {"name": "édifice public", "type": 1, "weight": 68}}, "relations": [{"node1": 214525, "node2": 389572, "type": 6, "weight": 27.0}, {"node1": 214525, "node2": 7015579, "type": 6, "weight": 26.0}]}

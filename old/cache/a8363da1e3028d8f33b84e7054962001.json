@@ -1,0 +1,1 @@
+{"nodes": {"239538": {"name": "terrain>239537", "type": 1, "weight": 42}, "35925": {"name": "terrain", "type": 1, "weight": 7599}, "254099": {"name": "terrain planté d'arbres", "type": 1, "weight": 68}}, "relations": [{"node1": 254099, "node2": 35925, "type": 6, "weight": 86.0}, {"node1": 254099, "node2": 239538, "type": 6, "weight": 86.0}]}

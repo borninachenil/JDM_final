@@ -1,0 +1,1 @@
+{"nodes": {"256122": {"name": "état émotionnel", "type": 1, "weight": 126}, "37163": {"name": "embarras", "type": 1, "weight": 418}, "23665": {"name": "manque", "type": 1, "weight": 5504}}, "relations": [{"node1": 37163, "node2": 23665, "type": 6, "weight": 15.0}, {"node1": 37163, "node2": 256122, "type": 6, "weight": 35.0}]}

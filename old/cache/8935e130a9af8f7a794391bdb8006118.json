@@ -1,0 +1,1 @@
+{"nodes": {"7184230": {"name": "en:listening", "type": 1, "weight": 25}, "7183465": {"name": "en:mental process", "type": 1, "weight": 25}, "5519364": {"name": "processus mental", "type": 1, "weight": 53}}, "relations": [{"node1": 7184230, "node2": 5519364, "type": 6, "weight": 30.0}, {"node1": 7184230, "node2": 7183465, "type": 6, "weight": 49.0}]}

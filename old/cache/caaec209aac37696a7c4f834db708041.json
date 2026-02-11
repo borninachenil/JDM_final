@@ -1,0 +1,1 @@
+{"nodes": {"265340294": {"name": "unité de pensée", "type": 1, "weight": 25}, "270242873": {"name": "unité de", "type": 1, "weight": 29}, "68295": {"name": "unité", "type": 1, "weight": 7822}}, "relations": [{"node1": 265340294, "node2": 68295, "type": 6, "weight": 27.0}, {"node1": 265340294, "node2": 270242873, "type": 6, "weight": 27.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"14928487": {"name": "en:civet", "type": 1, "weight": 25}, "114486": {"name": "ragoût", "type": 1, "weight": 157}, "177321": {"name": "préparation culinaire", "type": 1, "weight": 622}}, "relations": [{"node1": 14928487, "node2": 114486, "type": 6, "weight": 100.0}, {"node1": 14928487, "node2": 177321, "type": 6, "weight": 100.0}]}

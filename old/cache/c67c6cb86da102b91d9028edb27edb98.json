@@ -1,0 +1,1 @@
+{"nodes": {"1743721": {"name": "traitement non médicamenteux", "type": 1, "weight": 25}, "111994": {"name": "aérobic", "type": 1, "weight": 67}, "56413": {"name": "gymnastique", "type": 1, "weight": 458}}, "relations": [{"node1": 111994, "node2": 56413, "type": 6, "weight": 31.0}, {"node1": 111994, "node2": 1743721, "type": 6, "weight": 3.0}]}

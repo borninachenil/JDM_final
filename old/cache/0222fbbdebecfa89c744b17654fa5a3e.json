@@ -1,0 +1,1 @@
+{"nodes": {"5955": {"name": "parc", "type": 1, "weight": 4439}, "244677": {"name": "parc régional", "type": 1, "weight": 83}, "6876967": {"name": "en:state", "type": 1, "weight": 4}}, "relations": [{"node1": 244677, "node2": 5955, "type": 6, "weight": 211.0}, {"node1": 244677, "node2": 6876967, "type": 6, "weight": 10.0}]}

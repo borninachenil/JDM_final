@@ -1,0 +1,1 @@
+{"nodes": {"111830": {"name": "soins", "type": 1, "weight": 4675}, "398324": {"name": "thérapies", "type": 1, "weight": 214}, "212291259": {"name": "thérapies non médicamenteuses", "type": 1, "weight": 25}}, "relations": [{"node1": 212291259, "node2": 111830, "type": 6, "weight": 32.0}, {"node1": 212291259, "node2": 398324, "type": 6, "weight": 25.0}]}

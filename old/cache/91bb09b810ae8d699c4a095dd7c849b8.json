@@ -1,0 +1,1 @@
+{"nodes": {"34235859": {"name": "FC Stade Nyonnais", "type": 777, "weight": 25}, "163823": {"name": "club de football", "type": 1, "weight": 113}}, "relations": [{"node1": 34235859, "node2": 163823, "type": 6, "weight": 31.0}]}

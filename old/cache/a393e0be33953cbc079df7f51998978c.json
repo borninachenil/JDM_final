@@ -1,0 +1,1 @@
+{"nodes": {"2570047": {"name": "aéro-kick", "type": 1, "weight": 10}, "5517693": {"name": "pratique de compétition sportive", "type": 1, "weight": 25}, "145946": {"name": "pratique", "type": 1, "weight": 8375}}, "relations": [{"node1": 2570047, "node2": 145946, "type": 6, "weight": 28.0}, {"node1": 2570047, "node2": 5517693, "type": 6, "weight": 35.0}]}

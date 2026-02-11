@@ -1,0 +1,1 @@
+{"nodes": {"5816761": {"name": "pierre naturelle", "type": 777, "weight": 4}, "14954740": {"name": "en:ashlar", "type": 1, "weight": 25}, "25008": {"name": "pierre", "type": 1, "weight": 9930}}, "relations": [{"node1": 14954740, "node2": 25008, "type": 6, "weight": 300.0}, {"node1": 14954740, "node2": 5816761, "type": 6, "weight": 27.0}]}

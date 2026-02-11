@@ -1,0 +1,1 @@
+{"nodes": {"14949676": {"name": "en:self-talk", "type": 1, "weight": 25}, "108165": {"name": "monologue", "type": 1, "weight": 387}, "15054": {"name": "procédé", "type": 1, "weight": 3633}}, "relations": [{"node1": 14949676, "node2": 15054, "type": 6, "weight": 23.0}, {"node1": 14949676, "node2": 108165, "type": 6, "weight": 28.0}]}

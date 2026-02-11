@@ -1,0 +1,1 @@
+{"nodes": {"52238": {"name": "rang", "type": 1, "weight": 4681}, "309540": {"name": "rang taxinomique", "type": 1, "weight": 54}, "1663416": {"name": "Rang", "type": 1, "weight": 2853}}, "relations": [{"node1": 309540, "node2": 52238, "type": 6, "weight": 31.0}, {"node1": 309540, "node2": 1663416, "type": 6, "weight": 15.0}]}

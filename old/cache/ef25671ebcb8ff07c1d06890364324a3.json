@@ -1,0 +1,1 @@
+{"nodes": {"15686452": {"name": "boisson gazeuse non alcoolisée", "type": 1, "weight": 25}, "224175": {"name": "sprite", "type": 1, "weight": 57}}, "relations": [{"node1": 224175, "node2": 15686452, "type": 6, "weight": 31.0}]}

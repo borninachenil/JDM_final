@@ -1,0 +1,1 @@
+{"nodes": {"170095532": {"name": "technique de sculpture", "type": 1, "weight": 27}, "112929": {"name": "action", "type": 1, "weight": 18866}, "42322": {"name": "moulage", "type": 1, "weight": 116}}, "relations": [{"node1": 42322, "node2": 112929, "type": 6, "weight": 37.0}, {"node1": 42322, "node2": 170095532, "type": 6, "weight": 30.0}]}

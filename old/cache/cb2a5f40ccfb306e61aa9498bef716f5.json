@@ -1,0 +1,1 @@
+{"nodes": {"174908": {"name": "chambre à feu", "type": 1, "weight": 50}, "139209": {"name": "salle", "type": 1, "weight": 6750}, "90075": {"name": "chambre", "type": 1, "weight": 13122}}, "relations": [{"node1": 174908, "node2": 90075, "type": 6, "weight": 44.0}, {"node1": 174908, "node2": 139209, "type": 6, "weight": 39.0}]}

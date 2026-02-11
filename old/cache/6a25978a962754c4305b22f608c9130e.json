@@ -1,0 +1,1 @@
+{"nodes": {"49537": {"name": "spécialité", "type": 1, "weight": 2452}, "1704291": {"name": "spécialité alsacienne", "type": 1, "weight": 25}}, "relations": [{"node1": 1704291, "node2": 49537, "type": 6, "weight": 39.0}]}

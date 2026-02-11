@@ -1,0 +1,1 @@
+{"nodes": {"367219": {"name": "offre de service", "type": 1, "weight": 60}, "270385566": {"name": "offre de", "type": 1, "weight": 30}, "5537545": {"name": "architecture de médiation", "type": 777, "weight": 26}}, "relations": [{"node1": 367219, "node2": 5537545, "type": 6, "weight": 190.0}, {"node1": 367219, "node2": 270385566, "type": 6, "weight": 25.0}]}

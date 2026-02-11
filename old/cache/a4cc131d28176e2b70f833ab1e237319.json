@@ -1,0 +1,1 @@
+{"nodes": {"14748563": {"name": "action orthodontique", "type": 1, "weight": 25}, "39882": {"name": "ancrage", "type": 1, "weight": 469}, "112929": {"name": "action", "type": 1, "weight": 18866}}, "relations": [{"node1": 39882, "node2": 112929, "type": 6, "weight": 16.0}, {"node1": 39882, "node2": 14748563, "type": 6, "weight": 31.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"14968071": {"name": "emplacement géographique", "type": 1, "weight": 42}, "325138": {"name": "endroit>135190", "type": 1, "weight": 240}, "14094383": {"name": "partie de l'espace", "type": 1, "weight": 28}}, "relations": [{"node1": 14968071, "node2": 325138, "type": 6, "weight": 85.0}, {"node1": 14968071, "node2": 14094383, "type": 6, "weight": 46.0}]}

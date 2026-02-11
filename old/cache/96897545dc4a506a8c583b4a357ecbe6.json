@@ -1,0 +1,1 @@
+{"nodes": {"271129571": {"name": "bière de fermentation", "type": 1, "weight": 0}, "106797": {"name": "bière", "type": 1, "weight": 2946}, "3321352": {"name": "bière de fermentation haute", "type": 1, "weight": 34}}, "relations": [{"node1": 3321352, "node2": 106797, "type": 6, "weight": 26.0}, {"node1": 3321352, "node2": 271129571, "type": 6, "weight": 25.0}]}

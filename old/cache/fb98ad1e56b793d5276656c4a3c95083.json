@@ -1,0 +1,1 @@
+{"nodes": {"255760821": {"name": "phénomène de régression", "type": 1, "weight": 25}, "72908": {"name": "phénomène", "type": 1, "weight": 12739}, "401864516": {"name": "phénomène de", "type": 1, "weight": 1233}}, "relations": [{"node1": 255760821, "node2": 72908, "type": 6, "weight": 29.0}, {"node1": 255760821, "node2": 401864516, "type": 6, "weight": 25.0}]}

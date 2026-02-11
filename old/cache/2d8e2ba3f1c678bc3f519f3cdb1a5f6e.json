@@ -1,0 +1,1 @@
+{"nodes": {"266422060": {"name": "grotte où vit un animal sauvage", "type": 1, "weight": 25}, "44155": {"name": "grotte", "type": 1, "weight": 1569}}, "relations": [{"node1": 266422060, "node2": 44155, "type": 6, "weight": 26.0}]}

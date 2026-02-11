@@ -1,0 +1,1 @@
+{"nodes": {"243386664": {"name": "sitcom américaine", "type": 1, "weight": 26}, "81321": {"name": "sitcom", "type": 1, "weight": 104}}, "relations": [{"node1": 243386664, "node2": 81321, "type": 6, "weight": 25.0}]}

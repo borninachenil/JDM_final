@@ -1,0 +1,1 @@
+{"nodes": {"120212": {"name": "publication", "type": 1, "weight": 7520}, "399088": {"name": "story", "type": 1, "weight": 246}, "265844575": {"name": "contenu éphémère", "type": 1, "weight": 48}}, "relations": [{"node1": 399088, "node2": 120212, "type": 6, "weight": 32.0}, {"node1": 399088, "node2": 265844575, "type": 6, "weight": 73.0}]}

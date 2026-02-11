@@ -1,0 +1,1 @@
+{"nodes": {"36899": {"name": "meuble", "type": 1, "weight": 1890}, "262471": {"name": "objet liturgique", "type": 1, "weight": 8}, "125214": {"name": "tabernacle", "type": 1, "weight": 57}}, "relations": [{"node1": 125214, "node2": 36899, "type": 6, "weight": 25.0}, {"node1": 125214, "node2": 262471, "type": 6, "weight": 23.0}]}

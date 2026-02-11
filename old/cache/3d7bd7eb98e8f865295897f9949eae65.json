@@ -1,0 +1,1 @@
+{"nodes": {"11122067": {"name": "obstacle tendu à travers une voie d'eau navigable", "type": 1, "weight": 25}, "33645": {"name": "obstacle", "type": 1, "weight": 3010}}, "relations": [{"node1": 11122067, "node2": 33645, "type": 6, "weight": 26.0}]}

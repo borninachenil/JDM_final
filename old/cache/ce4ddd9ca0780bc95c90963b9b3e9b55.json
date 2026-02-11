@@ -1,0 +1,1 @@
+{"nodes": {"143397780": {"name": "Chambre photographique", "type": 1, "weight": 25}, "6959403": {"name": "en:reflex", "type": 1, "weight": 25}, "436195": {"name": "chambre photographique", "type": 1, "weight": 50}}, "relations": [{"node1": 6959403, "node2": 436195, "type": 6, "weight": 34.0}, {"node1": 6959403, "node2": 143397780, "type": 6, "weight": 25.0}]}

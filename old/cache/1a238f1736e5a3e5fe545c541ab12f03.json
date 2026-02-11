@@ -1,0 +1,1 @@
+{"nodes": {"142549": {"name": "déluge", "type": 1, "weight": 359}, "91046": {"name": "pluie", "type": 1, "weight": 8205}, "250868": {"name": "temps de cochon", "type": 1, "weight": 20}}, "relations": [{"node1": 142549, "node2": 91046, "type": 6, "weight": 71.0}, {"node1": 142549, "node2": 250868, "type": 6, "weight": 27.0}]}

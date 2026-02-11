@@ -1,0 +1,1 @@
+{"nodes": {"15257815": {"name": "en:agricultural work", "type": 1, "weight": 0}, "70283": {"name": "travail", "type": 1, "weight": 27624}, "14918511": {"name": "en:agricultural", "type": 1, "weight": 25}}, "relations": [{"node1": 15257815, "node2": 70283, "type": 6, "weight": 80.0}, {"node1": 15257815, "node2": 14918511, "type": 6, "weight": 25.0}]}

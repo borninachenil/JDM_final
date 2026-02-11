@@ -1,0 +1,1 @@
+{"nodes": {"14653790": {"name": "dessert italien", "type": 1, "weight": 68}, "177321": {"name": "préparation culinaire", "type": 1, "weight": 622}, "38557": {"name": "dessert", "type": 1, "weight": 4357}}, "relations": [{"node1": 14653790, "node2": 38557, "type": 6, "weight": 26.0}, {"node1": 14653790, "node2": 177321, "type": 6, "weight": 26.0}]}

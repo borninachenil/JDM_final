@@ -1,0 +1,1 @@
+{"nodes": {"60132": {"name": "Roland-Garros", "type": 1, "weight": 131}, "159237": {"name": "tournoi de tennis", "type": 1, "weight": 74}, "15262735": {"name": "en:tennis tournament", "type": 1, "weight": 25}}, "relations": [{"node1": 60132, "node2": 159237, "type": 6, "weight": 45.0}, {"node1": 60132, "node2": 15262735, "type": 6, "weight": 30.0}]}

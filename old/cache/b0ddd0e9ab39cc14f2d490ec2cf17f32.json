@@ -1,0 +1,1 @@
+{"nodes": {"6017801": {"name": "habitat traditionnel des Nord-Amérindiens", "type": 777, "weight": 25}, "153268": {"name": "Habitat", "type": 1, "weight": 2381}, "129632": {"name": "habitat", "type": 1, "weight": 5926}}, "relations": [{"node1": 6017801, "node2": 129632, "type": 6, "weight": 26.0}, {"node1": 6017801, "node2": 153268, "type": 6, "weight": 15.0}]}

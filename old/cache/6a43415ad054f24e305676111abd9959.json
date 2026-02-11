@@ -1,0 +1,1 @@
+{"nodes": {"10618756": {"name": "réaction du corps", "type": 1, "weight": 26}, "414031": {"name": "Réaction", "type": 1, "weight": 348}, "93299": {"name": "réaction", "type": 1, "weight": 13430}}, "relations": [{"node1": 10618756, "node2": 93299, "type": 6, "weight": 27.0}, {"node1": 10618756, "node2": 414031, "type": 6, "weight": 10.0}]}

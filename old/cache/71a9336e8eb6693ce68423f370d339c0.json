@@ -1,0 +1,1 @@
+{"nodes": {"314078165": {"name": "association forte entre classes", "type": 1, "weight": 25}, "46912": {"name": "association", "type": 1, "weight": 9201}, "259292446": {"name": "association forte", "type": 1, "weight": 43}}, "relations": [{"node1": 314078165, "node2": 46912, "type": 6, "weight": 25.0}, {"node1": 314078165, "node2": 259292446, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"345137": {"name": "crayon feutre", "type": 1, "weight": 57}, "15509": {"name": "stylo", "type": 1, "weight": 2851}, "57565": {"name": "crayon", "type": 1, "weight": 2272}}, "relations": [{"node1": 345137, "node2": 15509, "type": 6, "weight": 21.0}, {"node1": 345137, "node2": 57565, "type": 6, "weight": 98.0}]}

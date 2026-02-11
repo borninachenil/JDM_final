@@ -1,0 +1,1 @@
+{"nodes": {"7015567": {"name": "en:island", "type": 1, "weight": 25}, "53541": {"name": "groupe", "type": 1, "weight": 17482}, "3561913": {"name": "groupe d'îles", "type": 1, "weight": 25}}, "relations": [{"node1": 3561913, "node2": 53541, "type": 6, "weight": 51.0}, {"node1": 3561913, "node2": 7015567, "type": 6, "weight": 10.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"11175019": {"name": "propriété des particules élémentaires", "type": 1, "weight": 25}, "111141": {"name": "propriété", "type": 1, "weight": 7222}}, "relations": [{"node1": 11175019, "node2": 111141, "type": 6, "weight": 27.0}]}

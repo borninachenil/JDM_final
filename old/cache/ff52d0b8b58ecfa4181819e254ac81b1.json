@@ -1,0 +1,1 @@
+{"nodes": {"5516349": {"name": "concept théologique", "type": 1, "weight": 25}, "32650": {"name": "concept", "type": 1, "weight": 11843}}, "relations": [{"node1": 5516349, "node2": 32650, "type": 6, "weight": 30.0}]}

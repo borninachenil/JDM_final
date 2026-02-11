@@ -1,0 +1,1 @@
+{"nodes": {"5573576": {"name": "notion de psychologie", "type": 1, "weight": 25}, "5573575": {"name": "notion de psychologie populaire", "type": 1, "weight": 25}, "71244": {"name": "notion", "type": 1, "weight": 8359}}, "relations": [{"node1": 5573575, "node2": 71244, "type": 6, "weight": 51.0}, {"node1": 5573575, "node2": 5573576, "type": 6, "weight": 55.0}]}

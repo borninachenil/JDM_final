@@ -1,0 +1,1 @@
+{"nodes": {"158561": {"name": "doctrine politique", "type": 1, "weight": 135}, "3409210": {"name": "système de pensée", "type": 1, "weight": 45}, "136363": {"name": "doctrine", "type": 1, "weight": 3601}}, "relations": [{"node1": 158561, "node2": 136363, "type": 6, "weight": 161.0}, {"node1": 158561, "node2": 3409210, "type": 6, "weight": 31.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"147719": {"name": "dépenses", "type": 1, "weight": 3470}, "226198": {"name": "frais>40940", "type": 1, "weight": 144}, "53495": {"name": "frais", "type": 1, "weight": 5531}}, "relations": [{"node1": 147719, "node2": 53495, "type": 6, "weight": 10.0}, {"node1": 147719, "node2": 226198, "type": 6, "weight": 10.0}]}

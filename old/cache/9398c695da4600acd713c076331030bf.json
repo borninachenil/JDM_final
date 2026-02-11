@@ -1,0 +1,1 @@
+{"nodes": {"145172": {"name": "membrane", "type": 1, "weight": 2459}, "96851": {"name": "pièce", "type": 1, "weight": 8573}, "71243": {"name": "opercule", "type": 1, "weight": 64}}, "relations": [{"node1": 71243, "node2": 96851, "type": 6, "weight": 37.0}, {"node1": 71243, "node2": 145172, "type": 6, "weight": 37.0}]}

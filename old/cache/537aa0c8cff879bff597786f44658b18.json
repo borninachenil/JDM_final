@@ -1,0 +1,1 @@
+{"nodes": {"58177": {"name": "africain", "type": 1, "weight": 2114}, "116477": {"name": "personne", "type": 1, "weight": 35594}, "68439": {"name": "individu", "type": 1, "weight": 11856}}, "relations": [{"node1": 58177, "node2": 68439, "type": 6, "weight": 25.0}, {"node1": 58177, "node2": 116477, "type": 6, "weight": 25.0}]}

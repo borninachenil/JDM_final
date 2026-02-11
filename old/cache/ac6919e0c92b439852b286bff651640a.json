@@ -1,0 +1,1 @@
+{"nodes": {"218698": {"name": "étendue d'eau", "type": 1, "weight": 140}, "8751153": {"name": "lieu avec de l'eau", "type": 1, "weight": 25}, "14183": {"name": "flaque", "type": 1, "weight": 151}}, "relations": [{"node1": 14183, "node2": 218698, "type": 6, "weight": 95.0}, {"node1": 14183, "node2": 8751153, "type": 6, "weight": 46.0}]}

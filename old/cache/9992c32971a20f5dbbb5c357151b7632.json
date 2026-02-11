@@ -1,0 +1,1 @@
+{"nodes": {"5524971": {"name": "république constitutionnelle unitaire", "type": 1, "weight": 26}, "184082": {"name": "république constitutionnelle", "type": 1, "weight": 55}, "142609": {"name": "république", "type": 1, "weight": 5746}}, "relations": [{"node1": 5524971, "node2": 142609, "type": 6, "weight": 31.0}, {"node1": 5524971, "node2": 184082, "type": 6, "weight": 36.0}]}

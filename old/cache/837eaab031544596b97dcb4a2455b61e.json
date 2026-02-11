@@ -1,0 +1,1 @@
+{"nodes": {"155779": {"name": "véhicules", "type": 1, "weight": 3767}, "14636766": {"name": "véhicules terrestres à moteur", "type": 1, "weight": 25}, "14636767": {"name": "véhicules terrestres", "type": 1, "weight": 30}}, "relations": [{"node1": 14636766, "node2": 155779, "type": 6, "weight": 76.0}, {"node1": 14636766, "node2": 14636767, "type": 6, "weight": 77.0}]}

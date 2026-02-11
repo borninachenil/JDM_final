@@ -1,0 +1,1 @@
+{"nodes": {"15217536": {"name": "en:interchanging of positions", "type": 1, "weight": 0}, "63625": {"name": "changement", "type": 1, "weight": 22133}}, "relations": [{"node1": 15217536, "node2": 63625, "type": 6, "weight": 53.0}]}

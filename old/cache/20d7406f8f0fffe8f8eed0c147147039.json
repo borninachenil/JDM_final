@@ -1,0 +1,1 @@
+{"nodes": {"6826962": {"name": "en:nausea and vomiting", "type": 1, "weight": 25}, "6835359": {"name": "en:nausea", "type": 1, "weight": 25}}, "relations": [{"node1": 6826962, "node2": 6835359, "type": 6, "weight": 26.0}]}

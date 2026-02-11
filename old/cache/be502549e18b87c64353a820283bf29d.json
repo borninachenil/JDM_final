@@ -1,0 +1,1 @@
+{"nodes": {"274141855": {"name": "défilé religieux", "type": 1, "weight": 0}, "90066": {"name": "défilé", "type": 1, "weight": 824}}, "relations": [{"node1": 274141855, "node2": 90066, "type": 6, "weight": 26.0}]}

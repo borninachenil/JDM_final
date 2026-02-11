@@ -1,0 +1,1 @@
+{"nodes": {"225374": {"name": "continent>9894", "type": 1, "weight": 45}, "9894": {"name": "géographie", "type": 1, "weight": 4340}, "39543": {"name": "territoire", "type": 1, "weight": 15258}}, "relations": [{"node1": 225374, "node2": 9894, "type": 6, "weight": 1.0}, {"node1": 225374, "node2": 39543, "type": 6, "weight": 5.0}]}

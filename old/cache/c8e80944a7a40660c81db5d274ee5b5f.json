@@ -1,0 +1,1 @@
+{"nodes": {"215926": {"name": "campagne>215924", "type": 1, "weight": 168}, "134218": {"name": "endroit", "type": 1, "weight": 7068}, "73670": {"name": "paysage", "type": 1, "weight": 7324}}, "relations": [{"node1": 215926, "node2": 73670, "type": 6, "weight": 2.0}, {"node1": 215926, "node2": 134218, "type": 6, "weight": 32.0}]}

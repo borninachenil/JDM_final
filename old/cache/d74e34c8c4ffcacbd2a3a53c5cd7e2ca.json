@@ -1,0 +1,1 @@
+{"nodes": {"1595": {"name": "bouclier", "type": 1, "weight": 1414}, "5626180": {"name": "bouclier circulaire", "type": 1, "weight": 25}}, "relations": [{"node1": 5626180, "node2": 1595, "type": 6, "weight": 29.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"17968": {"name": "nuage", "type": 1, "weight": 4810}, "99288": {"name": "brouillard", "type": 1, "weight": 574}, "5966153": {"name": "Fumée", "type": 1, "weight": 26}}, "relations": [{"node1": 5966153, "node2": 17968, "type": 6, "weight": 35.0}, {"node1": 5966153, "node2": 99288, "type": 6, "weight": 40.0}]}

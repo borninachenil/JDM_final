@@ -1,0 +1,1 @@
+{"nodes": {"319200528": {"name": "sédiment fin", "type": 1, "weight": 0}, "129859": {"name": "sédiment", "type": 1, "weight": 545}}, "relations": [{"node1": 319200528, "node2": 129859, "type": 6, "weight": 25.0}]}

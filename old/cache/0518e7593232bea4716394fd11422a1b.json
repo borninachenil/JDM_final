@@ -1,0 +1,1 @@
+{"nodes": {"187982360": {"name": "moment de récupération", "type": 1, "weight": 27}, "136447": {"name": "moment", "type": 1, "weight": 35505}, "285015913": {"name": "moment de", "type": 1, "weight": 33}}, "relations": [{"node1": 187982360, "node2": 136447, "type": 6, "weight": 28.0}, {"node1": 187982360, "node2": 285015913, "type": 6, "weight": 25.0}]}

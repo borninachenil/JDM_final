@@ -1,0 +1,1 @@
+{"nodes": {"251653547": {"name": "certification de la conformité", "type": 1, "weight": 25}, "126959": {"name": "certification", "type": 1, "weight": 1074}}, "relations": [{"node1": 251653547, "node2": 126959, "type": 6, "weight": 25.0}]}

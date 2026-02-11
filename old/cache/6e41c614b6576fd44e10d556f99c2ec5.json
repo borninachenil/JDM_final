@@ -1,0 +1,1 @@
+{"nodes": {"279573916": {"name": "dépôt de glace", "type": 1, "weight": 25}, "63865": {"name": "dépôt", "type": 1, "weight": 2588}, "291226": {"name": "dépôt de", "type": 777, "weight": 51}}, "relations": [{"node1": 279573916, "node2": 63865, "type": 6, "weight": 26.0}, {"node1": 279573916, "node2": 291226, "type": 6, "weight": 26.0}]}

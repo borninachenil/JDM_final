@@ -1,0 +1,1 @@
+{"nodes": {"15060085": {"name": "en:display panel", "type": 1, "weight": 25}, "7290964": {"name": "en:display", "type": 1, "weight": 25}, "113577": {"name": "panneau", "type": 1, "weight": 626}}, "relations": [{"node1": 15060085, "node2": 113577, "type": 6, "weight": 40.0}, {"node1": 15060085, "node2": 7290964, "type": 6, "weight": 25.0}]}

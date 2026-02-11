@@ -1,0 +1,1 @@
+{"nodes": {"87332": {"name": "expression", "type": 1, "weight": 17025}, "51515": {"name": "voix", "type": 1, "weight": 29728}, "220903": {"name": "trait grammatical", "type": 1, "weight": 53}}, "relations": [{"node1": 51515, "node2": 87332, "type": 6, "weight": 68.0}, {"node1": 51515, "node2": 220903, "type": 6, "weight": 19.0}]}

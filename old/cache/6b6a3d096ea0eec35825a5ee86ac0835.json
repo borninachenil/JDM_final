@@ -1,0 +1,1 @@
+{"nodes": {"6905306": {"name": "en:normal", "type": 1, "weight": 25}, "14938905": {"name": "en:normal form", "type": 1, "weight": 25}, "142000": {"name": "forme", "type": 1, "weight": 15390}}, "relations": [{"node1": 14938905, "node2": 142000, "type": 6, "weight": 140.0}, {"node1": 14938905, "node2": 6905306, "type": 6, "weight": 25.0}]}

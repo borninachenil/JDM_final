@@ -1,0 +1,1 @@
+{"nodes": {"2000825": {"name": "bancha", "type": 2, "weight": 0}, "438949": {"name": "_INFO-POLYMORPHIC", "type": 36, "weight": 50}, "276096": {"name": "_INFO-WIKI-YES", "type": 36, "weight": 50}}, "relations": [{"node1": 2000825, "node2": 276096, "type": 36, "weight": 25.0}, {"node1": 2000825, "node2": 438949, "type": 36, "weight": 26.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"3492778": {"name": "fragment de roche", "type": 1, "weight": 35}, "99711": {"name": "granulat", "type": 1, "weight": 83}}, "relations": [{"node1": 99711, "node2": 3492778, "type": 6, "weight": 39.0}]}

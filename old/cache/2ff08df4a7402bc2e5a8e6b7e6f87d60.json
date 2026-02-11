@@ -1,0 +1,1 @@
+{"nodes": {"674295": {"name": "peau>146881", "type": 1, "weight": 25}, "109785": {"name": "peau", "type": 1, "weight": 7573}, "369464": {"name": "peau d'animal", "type": 1, "weight": 53}}, "relations": [{"node1": 369464, "node2": 109785, "type": 6, "weight": 106.0}, {"node1": 369464, "node2": 674295, "type": 6, "weight": 25.0}]}

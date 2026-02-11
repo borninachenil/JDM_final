@@ -1,0 +1,1 @@
+{"nodes": {"15084026": {"name": "en:electronic countermeasures", "type": 1, "weight": 25}, "6986710": {"name": "en:electronic", "type": 1, "weight": 25}}, "relations": [{"node1": 15084026, "node2": 6986710, "type": 6, "weight": 25.0}]}

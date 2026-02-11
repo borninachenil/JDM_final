@@ -1,0 +1,1 @@
+{"nodes": {"359021": {"name": "infection respiratoire", "type": 1, "weight": 67}, "11385613": {"name": "infection respiratoire bactérienne", "type": 1, "weight": 25}, "11126": {"name": "infection", "type": 1, "weight": 2689}}, "relations": [{"node1": 11385613, "node2": 11126, "type": 6, "weight": 39.0}, {"node1": 11385613, "node2": 359021, "type": 6, "weight": 36.0}]}

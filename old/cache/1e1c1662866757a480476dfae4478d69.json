@@ -1,0 +1,1 @@
+{"nodes": {"14113735": {"name": "déplacement dans l'espace", "type": 1, "weight": 28}, "10564": {"name": "déplacement", "type": 1, "weight": 6791}}, "relations": [{"node1": 14113735, "node2": 10564, "type": 6, "weight": 31.0}]}

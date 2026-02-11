@@ -1,0 +1,1 @@
+{"nodes": {"220952": {"name": "sens>220951", "type": 1, "weight": 34}, "30369": {"name": "sens", "type": 1, "weight": 15330}, "110902": {"name": "odorat", "type": 1, "weight": 1094}}, "relations": [{"node1": 110902, "node2": 30369, "type": 6, "weight": 38.0}, {"node1": 110902, "node2": 220952, "type": 6, "weight": 171.0}]}

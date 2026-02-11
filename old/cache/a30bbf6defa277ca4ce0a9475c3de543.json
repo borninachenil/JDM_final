@@ -1,0 +1,1 @@
+{"nodes": {"58357": {"name": "revêtement de sol", "type": 1, "weight": 60}, "54030": {"name": "lino", "type": 1, "weight": 63}, "15082589": {"name": "en:floor covering", "type": 1, "weight": 25}}, "relations": [{"node1": 54030, "node2": 58357, "type": 6, "weight": 26.0}, {"node1": 54030, "node2": 15082589, "type": 6, "weight": 30.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"10928981": {"name": "format de disque vinyle", "type": 1, "weight": 25}, "172165": {"name": "maxi", "type": 1, "weight": 74}, "5524958": {"name": "format musical", "type": 1, "weight": 34}}, "relations": [{"node1": 172165, "node2": 5524958, "type": 6, "weight": 26.0}, {"node1": 172165, "node2": 10928981, "type": 6, "weight": 30.0}]}

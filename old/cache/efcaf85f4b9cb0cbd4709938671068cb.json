@@ -1,0 +1,1 @@
+{"nodes": {"15135590": {"name": "en:biologic", "type": 1, "weight": 0}, "12322984": {"name": "en:biologic function", "type": 1, "weight": 25}}, "relations": [{"node1": 12322984, "node2": 15135590, "type": 6, "weight": 25.0}]}

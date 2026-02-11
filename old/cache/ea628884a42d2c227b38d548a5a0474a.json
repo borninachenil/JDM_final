@@ -1,0 +1,1 @@
+{"nodes": {"14951135": {"name": "en:proper noun", "type": 1, "weight": 25}, "38303": {"name": "nom propre", "type": 1, "weight": 1932}, "99896": {"name": "anthroponyme", "type": 1, "weight": 50}}, "relations": [{"node1": 99896, "node2": 38303, "type": 6, "weight": 44.0}, {"node1": 99896, "node2": 14951135, "type": 6, "weight": 31.0}]}

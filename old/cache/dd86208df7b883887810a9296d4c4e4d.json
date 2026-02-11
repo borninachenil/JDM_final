@@ -1,0 +1,1 @@
+{"nodes": {"48513": {"name": "qualité", "type": 1, "weight": 14118}, "258472": {"name": "qualité organoleptique", "type": 1, "weight": 61}, "3321928": {"name": "Qualité", "type": 1, "weight": 4031}}, "relations": [{"node1": 258472, "node2": 48513, "type": 6, "weight": 38.0}, {"node1": 258472, "node2": 3321928, "type": 6, "weight": 10.0}]}

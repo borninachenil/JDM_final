@@ -1,0 +1,1 @@
+{"nodes": {"137183": {"name": "état", "type": 1, "weight": 17840}, "14638202": {"name": "état organisé et homéostatique de la matière", "type": 1, "weight": 25}}, "relations": [{"node1": 14638202, "node2": 137183, "type": 6, "weight": 27.0}]}

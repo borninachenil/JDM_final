@@ -1,0 +1,1 @@
+{"nodes": {"5815095": {"name": "propriété d'un matériau solide", "type": 1, "weight": 25}, "111141": {"name": "propriété", "type": 1, "weight": 7222}}, "relations": [{"node1": 5815095, "node2": 111141, "type": 6, "weight": 32.0}]}

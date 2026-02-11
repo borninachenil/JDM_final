@@ -1,0 +1,1 @@
+{"nodes": {"260369354": {"name": "terme vernaculaire", "type": 1, "weight": 25}, "144149": {"name": "terme", "type": 1, "weight": 15751}, "11004": {"name": "Terme", "type": 1, "weight": 180}}, "relations": [{"node1": 260369354, "node2": 11004, "type": 6, "weight": 10.0}, {"node1": 260369354, "node2": 144149, "type": 6, "weight": 25.0}]}

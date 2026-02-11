@@ -1,0 +1,1 @@
+{"nodes": {"3536": {"name": "périderme", "type": 1, "weight": 50}, "286675": {"name": "Tissu végétal", "type": 777, "weight": 50}, "286646": {"name": "tissu végétal", "type": 777, "weight": 10}}, "relations": [{"node1": 3536, "node2": 286646, "type": 6, "weight": 32.0}, {"node1": 3536, "node2": 286675, "type": 6, "weight": 27.0}]}

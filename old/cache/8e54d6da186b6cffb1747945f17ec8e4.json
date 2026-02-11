@@ -1,0 +1,1 @@
+{"nodes": {"32650": {"name": "concept", "type": 1, "weight": 11843}, "132350": {"name": "région", "type": 1, "weight": 9054}, "127431": {"name": "patriarcat", "type": 1, "weight": 268}}, "relations": [{"node1": 127431, "node2": 32650, "type": 6, "weight": 30.0}, {"node1": 127431, "node2": 132350, "type": 6, "weight": 32.0}]}

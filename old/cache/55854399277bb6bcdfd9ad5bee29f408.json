@@ -1,0 +1,1 @@
+{"nodes": {"455472818": {"name": "mode alternatif de règlement des conflits", "type": 1, "weight": 0}, "153749": {"name": "Mode", "type": 1, "weight": 2756}}, "relations": [{"node1": 455472818, "node2": 153749, "type": 6, "weight": 20.0}]}

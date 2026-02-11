@@ -1,0 +1,1 @@
+{"nodes": {"15066366": {"name": "en:deepness", "type": 1, "weight": 25}, "15083301": {"name": "en:shallowness", "type": 1, "weight": 25}, "7178256": {"name": "en:depth", "type": 1, "weight": 25}}, "relations": [{"node1": 15083301, "node2": 7178256, "type": 6, "weight": 32.0}, {"node1": 15083301, "node2": 15066366, "type": 6, "weight": 30.0}]}

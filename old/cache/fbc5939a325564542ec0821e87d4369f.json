@@ -1,0 +1,1 @@
+{"nodes": {"63035": {"name": "convergent", "type": 1, "weight": 198}, "3233": {"name": "partie", "type": 1, "weight": 12812}}, "relations": [{"node1": 63035, "node2": 3233, "type": 6, "weight": 35.0}]}

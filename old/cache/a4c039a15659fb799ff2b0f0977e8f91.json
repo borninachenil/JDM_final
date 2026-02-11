@@ -1,0 +1,1 @@
+{"nodes": {"441765310": {"name": "platine vinyle", "type": 1, "weight": 1}, "145641": {"name": "platine", "type": 1, "weight": 225}, "5918646": {"name": "Platine", "type": 777, "weight": 29}}, "relations": [{"node1": 441765310, "node2": 145641, "type": 6, "weight": 26.0}, {"node1": 441765310, "node2": 5918646, "type": 6, "weight": 20.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"55504": {"name": "cavité", "type": 1, "weight": 446}, "252201": {"name": "cavité naturelle", "type": 1, "weight": 50}}, "relations": [{"node1": 252201, "node2": 55504, "type": 6, "weight": 225.0}]}

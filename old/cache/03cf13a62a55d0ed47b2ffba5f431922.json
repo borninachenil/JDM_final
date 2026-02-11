@@ -1,0 +1,1 @@
+{"nodes": {"6428157": {"name": "induration de la peau", "type": 1, "weight": 25}, "45299": {"name": "induration", "type": 1, "weight": 51}, "6821864": {"name": "en:induration", "type": 1, "weight": 25}}, "relations": [{"node1": 6428157, "node2": 45299, "type": 6, "weight": 57.0}, {"node1": 6428157, "node2": 6821864, "type": 6, "weight": 29.0}]}

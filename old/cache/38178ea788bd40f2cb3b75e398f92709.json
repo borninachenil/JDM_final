@@ -1,0 +1,1 @@
+{"nodes": {"256518017": {"name": "relief géographique", "type": 1, "weight": 25}, "128567": {"name": "relief", "type": 1, "weight": 2581}}, "relations": [{"node1": 256518017, "node2": 128567, "type": 6, "weight": 25.0}]}

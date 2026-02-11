@@ -1,0 +1,1 @@
+{"nodes": {"11353": {"name": "formation", "type": 1, "weight": 19195}, "119199": {"name": "précipité", "type": 1, "weight": 136}, "14530111": {"name": "phase dispersée", "type": 777, "weight": 28}}, "relations": [{"node1": 119199, "node2": 11353, "type": 6, "weight": 37.0}, {"node1": 119199, "node2": 14530111, "type": 6, "weight": 26.0}]}

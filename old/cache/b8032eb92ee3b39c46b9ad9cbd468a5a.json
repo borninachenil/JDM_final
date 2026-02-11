@@ -1,0 +1,1 @@
+{"nodes": {"273397": {"name": "cratère d'impact", "type": 777, "weight": 54}, "85977": {"name": "Debussy", "type": 1, "weight": 55}, "15250609": {"name": "en:impact crater", "type": 1, "weight": 25}}, "relations": [{"node1": 85977, "node2": 273397, "type": 6, "weight": 32.0}, {"node1": 85977, "node2": 15250609, "type": 6, "weight": 29.0}]}

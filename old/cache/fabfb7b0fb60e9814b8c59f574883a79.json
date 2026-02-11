@@ -1,0 +1,1 @@
+{"nodes": {"141813": {"name": "Cratère", "type": 1, "weight": 50}, "76324": {"name": "cratère", "type": 1, "weight": 514}, "345115": {"name": "cratère lunaire", "type": 1, "weight": 62}}, "relations": [{"node1": 345115, "node2": 76324, "type": 6, "weight": 32.0}, {"node1": 345115, "node2": 141813, "type": 6, "weight": 15.0}]}

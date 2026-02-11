@@ -1,0 +1,1 @@
+{"nodes": {"354154505": {"name": "lieu de", "type": 1, "weight": 1704}, "135190": {"name": "lieu", "type": 1, "weight": 13386}, "361517": {"name": "lieu de séjour", "type": 1, "weight": 51}}, "relations": [{"node1": 361517, "node2": 135190, "type": 6, "weight": 85.0}, {"node1": 361517, "node2": 354154505, "type": 6, "weight": 25.0}]}

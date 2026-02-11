@@ -1,0 +1,1 @@
+{"nodes": {"15103606": {"name": "en:psychoanalytic process", "type": 1, "weight": 25}, "15055048": {"name": "en:defence mechanism", "type": 1, "weight": 25}, "117604": {"name": "mécanisme", "type": 1, "weight": 5541}}, "relations": [{"node1": 15055048, "node2": 117604, "type": 6, "weight": 95.0}, {"node1": 15055048, "node2": 15103606, "type": 6, "weight": 29.0}]}

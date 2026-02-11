@@ -1,0 +1,1 @@
+{"nodes": {"15809201": {"name": "dette financière", "type": 1, "weight": 29}, "81846": {"name": "dette", "type": 1, "weight": 3426}}, "relations": [{"node1": 15809201, "node2": 81846, "type": 6, "weight": 26.0}]}

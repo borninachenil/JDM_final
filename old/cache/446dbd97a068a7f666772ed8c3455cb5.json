@@ -1,0 +1,1 @@
+{"nodes": {"1912917": {"name": "_INFO-COUNTABLE-YES", "type": 36, "weight": 10}, "162759": {"name": "_INFO-SEM-PLACE", "type": 36, "weight": 504}, "15448457": {"name": "W.-C.", "type": 1, "weight": 25}}, "relations": [{"node1": 15448457, "node2": 162759, "type": 36, "weight": 35.0}, {"node1": 15448457, "node2": 1912917, "type": 36, "weight": 34.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"442699929": {"name": "métaphore employée", "type": 1, "weight": 0}, "29082": {"name": "métaphore", "type": 1, "weight": 2978}}, "relations": [{"node1": 442699929, "node2": 29082, "type": 6, "weight": 26.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"51419": {"name": "défaut", "type": 1, "weight": 5182}, "145039": {"name": "fissure", "type": 1, "weight": 209}, "253560": {"name": "espace vide", "type": 1, "weight": 54}}, "relations": [{"node1": 145039, "node2": 51419, "type": 6, "weight": 26.0}, {"node1": 145039, "node2": 253560, "type": 6, "weight": 26.0}]}

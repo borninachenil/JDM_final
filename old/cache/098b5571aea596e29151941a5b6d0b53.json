@@ -1,0 +1,1 @@
+{"nodes": {"65064": {"name": "ensemble", "type": 1, "weight": 14005}, "276873664": {"name": "ensemble de forces militaires", "type": 1, "weight": 25}, "15880257": {"name": "ensemble de", "type": 1, "weight": 41}}, "relations": [{"node1": 276873664, "node2": 65064, "type": 6, "weight": 25.0}, {"node1": 276873664, "node2": 15880257, "type": 6, "weight": 25.0}]}

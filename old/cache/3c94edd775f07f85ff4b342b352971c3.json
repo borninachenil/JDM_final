@@ -1,0 +1,1 @@
+{"nodes": {"15254219": {"name": "amélioration de l'habitat", "type": 1, "weight": 48}, "257271508": {"name": "amélioration de", "type": 1, "weight": 27}, "59921": {"name": "amélioration", "type": 1, "weight": 5615}}, "relations": [{"node1": 15254219, "node2": 59921, "type": 6, "weight": 26.0}, {"node1": 15254219, "node2": 257271508, "type": 6, "weight": 25.0}]}

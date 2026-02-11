@@ -1,0 +1,1 @@
+{"nodes": {"5680099": {"name": "canal exocrine", "type": 1, "weight": 25}, "396349": {"name": "canal>112609", "type": 1, "weight": 18}}, "relations": [{"node1": 396349, "node2": 5680099, "type": 6, "weight": 28.0}]}

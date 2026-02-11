@@ -1,0 +1,1 @@
+{"nodes": {"55651": {"name": "hayon", "type": 1, "weight": 52}, "36820": {"name": "ouverture", "type": 1, "weight": 4690}, "52423": {"name": "abri", "type": 1, "weight": 1992}}, "relations": [{"node1": 55651, "node2": 36820, "type": 6, "weight": 27.0}, {"node1": 55651, "node2": 52423, "type": 6, "weight": 40.0}]}

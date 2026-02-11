@@ -1,0 +1,1 @@
+{"nodes": {"359669": {"name": "intervention policière", "type": 1, "weight": 148}, "41994": {"name": "intervention", "type": 1, "weight": 11619}}, "relations": [{"node1": 359669, "node2": 41994, "type": 6, "weight": 114.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"15055217": {"name": "en:carpenter's plane", "type": 1, "weight": 25}, "8369361": {"name": "en:hand tool", "type": 1, "weight": 25}}, "relations": [{"node1": 15055217, "node2": 8369361, "type": 6, "weight": 34.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"261749450": {"name": "altération de la prononciation", "type": 1, "weight": 25}, "54701": {"name": "altération", "type": 1, "weight": 573}}, "relations": [{"node1": 261749450, "node2": 54701, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"264247182": {"name": "division temporelle", "type": 1, "weight": 25}, "80698": {"name": "division", "type": 1, "weight": 4585}}, "relations": [{"node1": 264247182, "node2": 80698, "type": 6, "weight": 25.0}]}

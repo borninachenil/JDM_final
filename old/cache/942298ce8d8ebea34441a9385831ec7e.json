@@ -1,0 +1,1 @@
+{"nodes": {"5565269": {"name": "étendue géométrique", "type": 1, "weight": 0}, "105154": {"name": "étendue", "type": 1, "weight": 3529}, "136935": {"name": "mètre", "type": 1, "weight": 3073}}, "relations": [{"node1": 5565269, "node2": 105154, "type": 6, "weight": 26.0}, {"node1": 5565269, "node2": 136935, "type": 6, "weight": 28.0}]}

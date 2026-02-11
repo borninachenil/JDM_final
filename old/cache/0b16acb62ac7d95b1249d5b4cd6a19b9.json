@@ -1,0 +1,1 @@
+{"nodes": {"3233": {"name": "partie", "type": 1, "weight": 12812}, "10962927": {"name": "partie du membre inférieur d'un animal", "type": 1, "weight": 25}, "10962928": {"name": "partie du membre inférieur", "type": 1, "weight": 25}}, "relations": [{"node1": 10962927, "node2": 3233, "type": 6, "weight": 26.0}, {"node1": 10962927, "node2": 10962928, "type": 6, "weight": 26.0}]}

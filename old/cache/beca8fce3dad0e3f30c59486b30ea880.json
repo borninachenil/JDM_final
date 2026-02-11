@@ -1,0 +1,1 @@
+{"nodes": {"261408": {"name": "revêtement extérieur", "type": 1, "weight": 54}, "7331578": {"name": "en:external", "type": 1, "weight": 25}, "133352": {"name": "revêtement", "type": 1, "weight": 263}}, "relations": [{"node1": 261408, "node2": 133352, "type": 6, "weight": 90.0}, {"node1": 261408, "node2": 7331578, "type": 6, "weight": 10.0}]}

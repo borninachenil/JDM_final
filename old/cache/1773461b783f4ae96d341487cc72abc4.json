@@ -1,0 +1,1 @@
+{"nodes": {"14921003": {"name": "en:armed", "type": 1, "weight": 25}, "60960": {"name": "décret", "type": 1, "weight": 4016}, "15422503": {"name": "en:armed force", "type": 1, "weight": 25}}, "relations": [{"node1": 15422503, "node2": 60960, "type": 6, "weight": 31.0}, {"node1": 15422503, "node2": 14921003, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"2585997": {"name": "_INFO-CNRTL-NO", "type": 36, "weight": 50}, "276096": {"name": "_INFO-WIKI-YES", "type": 36, "weight": 50}, "10053580": {"name": "Météore", "type": 1, "weight": 27}}, "relations": [{"node1": 10053580, "node2": 276096, "type": 36, "weight": 25.0}, {"node1": 10053580, "node2": 2585997, "type": 36, "weight": 59.0}]}

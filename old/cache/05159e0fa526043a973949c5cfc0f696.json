@@ -1,0 +1,1 @@
+{"nodes": {"14654392": {"name": "phénomène aérodynamique", "type": 1, "weight": 25}, "72908": {"name": "phénomène", "type": 1, "weight": 12739}}, "relations": [{"node1": 14654392, "node2": 72908, "type": 6, "weight": 56.0}]}

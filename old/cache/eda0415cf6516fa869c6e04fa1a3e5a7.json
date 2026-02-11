@@ -1,0 +1,1 @@
+{"nodes": {"123573": {"name": "sommet", "type": 1, "weight": 6400}, "214936": {"name": "sommet>12831", "type": 1, "weight": 74}, "231859": {"name": "8000", "type": 1, "weight": 76}}, "relations": [{"node1": 231859, "node2": 123573, "type": 6, "weight": 53.0}, {"node1": 231859, "node2": 214936, "type": 6, "weight": 60.0}]}

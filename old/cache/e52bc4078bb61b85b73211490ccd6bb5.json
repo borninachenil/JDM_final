@@ -1,0 +1,1 @@
+{"nodes": {"3762435": {"name": "ingrédient de recette de cuisine", "type": 1, "weight": 12}, "114637": {"name": "aliment", "type": 1, "weight": 2599}, "253011": {"name": "garniture>16033", "type": 1, "weight": 72}}, "relations": [{"node1": 253011, "node2": 114637, "type": 6, "weight": 10.0}, {"node1": 253011, "node2": 3762435, "type": 6, "weight": 110.0}]}

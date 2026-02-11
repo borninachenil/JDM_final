@@ -1,0 +1,1 @@
+{"nodes": {"54234": {"name": "écriture", "type": 1, "weight": 6511}, "389507": {"name": "écriture contrapuntique", "type": 1, "weight": 50}}, "relations": [{"node1": 389507, "node2": 54234, "type": 6, "weight": 48.0}]}

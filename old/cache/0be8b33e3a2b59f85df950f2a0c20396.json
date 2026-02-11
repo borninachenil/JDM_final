@@ -1,0 +1,1 @@
+{"nodes": {"68439": {"name": "individu", "type": 1, "weight": 11856}, "23510": {"name": "exemplaire", "type": 1, "weight": 1427}}, "relations": [{"node1": 23510, "node2": 68439, "type": 6, "weight": 26.0}]}

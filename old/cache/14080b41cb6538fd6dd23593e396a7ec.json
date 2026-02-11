@@ -1,0 +1,1 @@
+{"nodes": {"5558956": {"name": "grille de maillage", "type": 1, "weight": 25}, "563": {"name": "grille", "type": 1, "weight": 1883}}, "relations": [{"node1": 5558956, "node2": 563, "type": 6, "weight": 27.0}]}

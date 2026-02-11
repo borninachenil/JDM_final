@@ -1,0 +1,1 @@
+{"nodes": {"622962": {"name": "mezzotinte", "type": 777, "weight": 25}, "15054": {"name": "procédé", "type": 1, "weight": 3633}}, "relations": [{"node1": 622962, "node2": 15054, "type": 6, "weight": 32.0}]}

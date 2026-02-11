@@ -1,0 +1,1 @@
+{"nodes": {"152438": {"name": "Communication", "type": 1, "weight": 1966}, "12105": {"name": "communication", "type": 1, "weight": 42319}, "251219652": {"name": "communication entre processus", "type": 1, "weight": 25}}, "relations": [{"node1": 251219652, "node2": 12105, "type": 6, "weight": 25.0}, {"node1": 251219652, "node2": 152438, "type": 6, "weight": 10.0}]}

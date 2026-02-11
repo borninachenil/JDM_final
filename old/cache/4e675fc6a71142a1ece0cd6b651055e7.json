@@ -1,0 +1,1 @@
+{"nodes": {"1380283": {"name": "::>66:126724>17:48510", "type": 8, "weight": 10}, "109889": {"name": "marin-pêcheur", "type": 1, "weight": 87}, "12321577": {"name": "en:professional or occupational group", "type": 1, "weight": 25}}, "relations": [{"node1": 109889, "node2": 1380283, "type": 6, "weight": 26.0}, {"node1": 109889, "node2": 12321577, "type": 6, "weight": 31.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"145417": {"name": "canton", "type": 1, "weight": 3976}, "36364": {"name": "canton du Valais", "type": 1, "weight": 60}, "78028": {"name": "Canton", "type": 1, "weight": 3636}}, "relations": [{"node1": 36364, "node2": 78028, "type": 6, "weight": 25.0}, {"node1": 36364, "node2": 145417, "type": 6, "weight": 47.0}]}

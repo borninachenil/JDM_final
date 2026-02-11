@@ -1,0 +1,1 @@
+{"nodes": {"99851": {"name": "coupole", "type": 1, "weight": 65}, "25616": {"name": "voûte", "type": 1, "weight": 289}, "95404": {"name": "solide", "type": 1, "weight": 3805}}, "relations": [{"node1": 99851, "node2": 25616, "type": 6, "weight": 34.0}, {"node1": 99851, "node2": 95404, "type": 6, "weight": 26.0}]}

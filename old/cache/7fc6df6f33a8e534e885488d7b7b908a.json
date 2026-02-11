@@ -1,0 +1,1 @@
+{"nodes": {"2201946": {"name": "fouettage", "type": 1, "weight": 26}, "15054": {"name": "procédé", "type": 1, "weight": 3633}}, "relations": [{"node1": 2201946, "node2": 15054, "type": 6, "weight": 29.0}]}

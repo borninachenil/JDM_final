@@ -1,0 +1,1 @@
+{"nodes": {"10046377": {"name": "Oppression", "type": 777, "weight": 58}, "163744135": {"name": "oppression systémique", "type": 1, "weight": 39}, "9641": {"name": "oppression", "type": 1, "weight": 1478}}, "relations": [{"node1": 163744135, "node2": 9641, "type": 6, "weight": 26.0}, {"node1": 163744135, "node2": 10046377, "type": 6, "weight": 15.0}]}

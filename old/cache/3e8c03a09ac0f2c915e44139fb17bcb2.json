@@ -1,0 +1,1 @@
+{"nodes": {"43747": {"name": "compilation", "type": 1, "weight": 2434}, "10577051": {"name": "compilation de chansons", "type": 1, "weight": 25}, "2545789": {"name": "mixtape", "type": 1, "weight": 33}}, "relations": [{"node1": 2545789, "node2": 43747, "type": 6, "weight": 27.0}, {"node1": 2545789, "node2": 10577051, "type": 6, "weight": 35.0}]}

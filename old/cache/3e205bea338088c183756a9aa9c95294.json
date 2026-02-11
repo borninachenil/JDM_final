@@ -1,0 +1,1 @@
+{"nodes": {"301474973": {"name": "mouvement au jeu de dames", "type": 1, "weight": 0}, "42109": {"name": "mouvement", "type": 1, "weight": 17111}}, "relations": [{"node1": 301474973, "node2": 42109, "type": 6, "weight": 25.0}]}

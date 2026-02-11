@@ -1,0 +1,1 @@
+{"nodes": {"324013": {"name": "épanchement de sang", "type": 1, "weight": 6}, "315959": {"name": "épanchement>102206", "type": 1, "weight": 4}, "118248": {"name": "épanchement", "type": 1, "weight": 100}}, "relations": [{"node1": 324013, "node2": 118248, "type": 6, "weight": 206.0}, {"node1": 324013, "node2": 315959, "type": 6, "weight": 35.0}]}

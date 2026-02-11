@@ -1,0 +1,1 @@
+{"nodes": {"154877": {"name": "thé vert", "type": 1, "weight": 357}, "5623091": {"name": "sencha", "type": 777, "weight": 9}, "257307378": {"name": "thé vert japonais", "type": 1, "weight": 37}}, "relations": [{"node1": 5623091, "node2": 154877, "type": 6, "weight": 27.0}, {"node1": 5623091, "node2": 257307378, "type": 6, "weight": 25.0}]}

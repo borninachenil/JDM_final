@@ -1,0 +1,1 @@
+{"nodes": {"3695": {"name": "art", "type": 1, "weight": 16584}, "14962505": {"name": "en:steganography", "type": 1, "weight": 25}, "15054": {"name": "procédé", "type": 1, "weight": 3633}}, "relations": [{"node1": 14962505, "node2": 3695, "type": 6, "weight": 30.0}, {"node1": 14962505, "node2": 15054, "type": 6, "weight": 37.0}]}

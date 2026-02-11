@@ -1,0 +1,1 @@
+{"nodes": {"298720371": {"name": "remède à l'hubris", "type": 1, "weight": 0}, "90880": {"name": "remède", "type": 1, "weight": 1046}}, "relations": [{"node1": 298720371, "node2": 90880, "type": 6, "weight": 26.0}]}

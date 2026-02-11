@@ -1,0 +1,1 @@
+{"nodes": {"143464992": {"name": "Figurine articulée", "type": 1, "weight": 25}, "39533": {"name": "figurine", "type": 1, "weight": 342}, "14962496": {"name": "en:figurine", "type": 1, "weight": 25}}, "relations": [{"node1": 143464992, "node2": 39533, "type": 6, "weight": 60.0}, {"node1": 143464992, "node2": 14962496, "type": 6, "weight": 30.0}]}

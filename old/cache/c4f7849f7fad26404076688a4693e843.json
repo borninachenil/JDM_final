@@ -1,0 +1,1 @@
+{"nodes": {"74736": {"name": "repas", "type": 1, "weight": 6572}, "15200464": {"name": "repas de MIDI", "type": 1, "weight": 25}, "14529924": {"name": "repas de", "type": 1, "weight": 2}}, "relations": [{"node1": 15200464, "node2": 74736, "type": 6, "weight": 215.0}, {"node1": 15200464, "node2": 14529924, "type": 6, "weight": 25.0}]}

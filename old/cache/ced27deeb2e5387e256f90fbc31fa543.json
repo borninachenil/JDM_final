@@ -1,0 +1,1 @@
+{"nodes": {"2583016": {"name": "langue bantoue", "type": 1, "weight": 34}, "405271": {"name": "Loi", "type": 1, "weight": 3228}, "247984": {"name": "règle juridique", "type": 1, "weight": 54}}, "relations": [{"node1": 405271, "node2": 247984, "type": 6, "weight": 29.0}, {"node1": 405271, "node2": 2583016, "type": 6, "weight": 27.0}]}

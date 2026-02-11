@@ -1,0 +1,1 @@
+{"nodes": {"241411": {"name": "genre théâtral", "type": 1, "weight": 4}, "272716": {"name": "Genre", "type": 777, "weight": 3260}, "112576": {"name": "genre", "type": 1, "weight": 9465}}, "relations": [{"node1": 241411, "node2": 112576, "type": 6, "weight": 35.0}, {"node1": 241411, "node2": 272716, "type": 6, "weight": 10.0}]}

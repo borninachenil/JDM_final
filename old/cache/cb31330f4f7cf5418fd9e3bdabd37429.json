@@ -1,0 +1,1 @@
+{"nodes": {"5898816": {"name": "contrex", "type": 777, "weight": 0}, "2585997": {"name": "_INFO-CNRTL-NO", "type": 36, "weight": 50}, "276096": {"name": "_INFO-WIKI-YES", "type": 36, "weight": 50}}, "relations": [{"node1": 5898816, "node2": 276096, "type": 36, "weight": 31.0}, {"node1": 5898816, "node2": 2585997, "type": 36, "weight": 59.0}]}

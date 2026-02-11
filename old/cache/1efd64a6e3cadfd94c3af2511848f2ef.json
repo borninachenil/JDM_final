@@ -1,0 +1,1 @@
+{"nodes": {"136203": {"name": "rôtissage", "type": 1, "weight": 55}, "112929": {"name": "action", "type": 1, "weight": 18866}, "2718175": {"name": "méthode de cuisson", "type": 1, "weight": 42}}, "relations": [{"node1": 136203, "node2": 112929, "type": 6, "weight": 27.0}, {"node1": 136203, "node2": 2718175, "type": 6, "weight": 32.0}]}

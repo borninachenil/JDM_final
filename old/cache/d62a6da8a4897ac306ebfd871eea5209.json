@@ -1,0 +1,1 @@
+{"nodes": {"96851": {"name": "pièce", "type": 1, "weight": 8573}, "3733578": {"name": "élément architectural", "type": 1, "weight": 31}, "70904": {"name": "linteau", "type": 1, "weight": 54}}, "relations": [{"node1": 70904, "node2": 96851, "type": 6, "weight": 36.0}, {"node1": 70904, "node2": 3733578, "type": 6, "weight": 28.0}]}

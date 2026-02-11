@@ -1,0 +1,1 @@
+{"nodes": {"222969": {"name": "caisse>7575", "type": 1, "weight": 18}, "106970": {"name": "caisse", "type": 1, "weight": 2349}, "234635": {"name": "cercueil>144086", "type": 1, "weight": 76}}, "relations": [{"node1": 234635, "node2": 106970, "type": 6, "weight": 35.0}, {"node1": 234635, "node2": 222969, "type": 6, "weight": 27.0}]}

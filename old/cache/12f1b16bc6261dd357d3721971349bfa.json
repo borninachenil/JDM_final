@@ -1,0 +1,1 @@
+{"nodes": {"5622964": {"name": "fibre protéique", "type": 1, "weight": 25}, "5622963": {"name": "fibre protéique naturelle d'origine animale", "type": 1, "weight": 25}, "101290": {"name": "fibre", "type": 1, "weight": 1461}}, "relations": [{"node1": 5622963, "node2": 101290, "type": 6, "weight": 41.0}, {"node1": 5622963, "node2": 5622964, "type": 6, "weight": 46.0}]}

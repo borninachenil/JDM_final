@@ -1,0 +1,1 @@
+{"nodes": {"243120641": {"name": "concept abstrait", "type": 1, "weight": 40}, "46823": {"name": "apathie", "type": 1, "weight": 455}}, "relations": [{"node1": 46823, "node2": 243120641, "type": 6, "weight": 34.0}]}

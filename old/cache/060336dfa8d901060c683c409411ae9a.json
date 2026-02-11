@@ -1,0 +1,1 @@
+{"nodes": {"126630": {"name": "décompresseur", "type": 1, "weight": 50}, "5425": {"name": "machine", "type": 1, "weight": 8017}, "135936": {"name": "dispositif", "type": 1, "weight": 5612}}, "relations": [{"node1": 126630, "node2": 5425, "type": 6, "weight": 35.0}, {"node1": 126630, "node2": 135936, "type": 6, "weight": 35.0}]}

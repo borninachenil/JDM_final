@@ -1,0 +1,1 @@
+{"nodes": {"28184": {"name": "échange", "type": 1, "weight": 14913}, "407602": {"name": "Échange", "type": 1, "weight": 386}, "389176": {"name": "échange d'informations", "type": 1, "weight": 177}}, "relations": [{"node1": 389176, "node2": 28184, "type": 6, "weight": 47.0}, {"node1": 389176, "node2": 407602, "type": 6, "weight": 25.0}]}

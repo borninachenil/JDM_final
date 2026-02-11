@@ -1,0 +1,1 @@
+{"nodes": {"5516831": {"name": "outil percuteur", "type": 1, "weight": 25}, "2801975": {"name": "outil>8957302", "type": 1, "weight": 79}, "30843": {"name": "outil", "type": 1, "weight": 12728}}, "relations": [{"node1": 5516831, "node2": 30843, "type": 6, "weight": 42.0}, {"node1": 5516831, "node2": 2801975, "type": 6, "weight": 27.0}]}

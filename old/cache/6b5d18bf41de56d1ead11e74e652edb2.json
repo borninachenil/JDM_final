@@ -1,0 +1,1 @@
+{"nodes": {"449624852": {"name": "compilation législative", "type": 1, "weight": 0}, "43747": {"name": "compilation", "type": 1, "weight": 2434}}, "relations": [{"node1": 449624852, "node2": 43747, "type": 6, "weight": 26.0}]}

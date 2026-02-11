@@ -1,0 +1,1 @@
+{"nodes": {"214057": {"name": "pièce d'arme à feu", "type": 1, "weight": 4}, "143323": {"name": "crosse", "type": 1, "weight": 87}, "56865": {"name": "sport", "type": 1, "weight": 10538}}, "relations": [{"node1": 143323, "node2": 56865, "type": 6, "weight": 57.0}, {"node1": 143323, "node2": 214057, "type": 6, "weight": 47.0}]}

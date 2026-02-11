@@ -1,0 +1,1 @@
+{"nodes": {"254730304": {"name": "diacritique de l'alphabet", "type": 1, "weight": 25}, "54525": {"name": "diacritique", "type": 1, "weight": 138}, "5518267": {"name": "diacritique de l'alphabet latin", "type": 1, "weight": 28}}, "relations": [{"node1": 5518267, "node2": 54525, "type": 6, "weight": 26.0}, {"node1": 5518267, "node2": 254730304, "type": 6, "weight": 25.0}]}

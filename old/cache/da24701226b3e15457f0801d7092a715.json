@@ -1,0 +1,1 @@
+{"nodes": {"356183790": {"name": "concept social et philosophique", "type": 1, "weight": 0}, "32650": {"name": "concept", "type": 1, "weight": 11843}}, "relations": [{"node1": 356183790, "node2": 32650, "type": 6, "weight": 25.0}]}

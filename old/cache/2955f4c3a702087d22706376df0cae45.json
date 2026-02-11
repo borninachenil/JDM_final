@@ -1,0 +1,1 @@
+{"nodes": {"211335017": {"name": "méthodologie de développement", "type": 1, "weight": 25}, "9883": {"name": "méthodologie", "type": 1, "weight": 3922}, "14586134": {"name": "Méthodologie", "type": 1, "weight": 186}}, "relations": [{"node1": 211335017, "node2": 9883, "type": 6, "weight": 25.0}, {"node1": 211335017, "node2": 14586134, "type": 6, "weight": 10.0}]}

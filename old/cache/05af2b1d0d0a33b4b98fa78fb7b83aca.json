@@ -1,0 +1,1 @@
+{"nodes": {"214528": {"name": "enregistrement musical", "type": 1, "weight": 56}, "2931817": {"name": "Enregistrement", "type": 1, "weight": 112}, "111867": {"name": "enregistrement", "type": 1, "weight": 2577}}, "relations": [{"node1": 214528, "node2": 111867, "type": 6, "weight": 142.0}, {"node1": 214528, "node2": 2931817, "type": 6, "weight": 5.0}]}

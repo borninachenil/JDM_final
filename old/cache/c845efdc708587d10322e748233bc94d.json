@@ -1,0 +1,1 @@
+{"nodes": {"180991404": {"name": "paiement mensuel", "type": 1, "weight": 28}, "17822": {"name": "paiement", "type": 1, "weight": 4029}, "2949866": {"name": "Paiement", "type": 1, "weight": 58}}, "relations": [{"node1": 180991404, "node2": 17822, "type": 6, "weight": 25.0}, {"node1": 180991404, "node2": 2949866, "type": 6, "weight": 10.0}]}

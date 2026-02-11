@@ -1,0 +1,1 @@
+{"nodes": {"69726": {"name": "peinture et dessin", "type": 1, "weight": 59}, "35841": {"name": "peinture", "type": 1, "weight": 7221}}, "relations": [{"node1": 69726, "node2": 35841, "type": 6, "weight": 26.0}]}

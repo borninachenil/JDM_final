@@ -1,0 +1,1 @@
+{"nodes": {"62067": {"name": "commune", "type": 1, "weight": 5502}, "420110": {"name": "Isigny", "type": 1, "weight": 50}, "167583": {"name": "commune française", "type": 1, "weight": 569}}, "relations": [{"node1": 420110, "node2": 62067, "type": 6, "weight": 15.0}, {"node1": 420110, "node2": 167583, "type": 6, "weight": 20.0}]}

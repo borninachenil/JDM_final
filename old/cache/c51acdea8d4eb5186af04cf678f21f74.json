@@ -1,0 +1,1 @@
+{"nodes": {"6938": {"name": "charcuterie", "type": 1, "weight": 1301}, "153447": {"name": "cochonaille", "type": 1, "weight": 52}, "8055017": {"name": "en:pork", "type": 1, "weight": 25}}, "relations": [{"node1": 153447, "node2": 6938, "type": 6, "weight": 58.0}, {"node1": 153447, "node2": 8055017, "type": 6, "weight": 10.0}]}

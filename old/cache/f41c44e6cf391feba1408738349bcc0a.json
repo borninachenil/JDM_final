@@ -1,0 +1,1 @@
+{"nodes": {"204099": {"name": "mouvement périodique", "type": 1, "weight": 58}, "139966": {"name": "Mouvement", "type": 1, "weight": 3064}, "42109": {"name": "mouvement", "type": 1, "weight": 17111}}, "relations": [{"node1": 204099, "node2": 42109, "type": 6, "weight": 30.0}, {"node1": 204099, "node2": 139966, "type": 6, "weight": 10.0}]}

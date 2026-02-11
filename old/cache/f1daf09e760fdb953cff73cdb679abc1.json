@@ -1,0 +1,1 @@
+{"nodes": {"11353": {"name": "formation", "type": 1, "weight": 19200}, "405296": {"name": "Formation", "type": 1, "weight": 2730}, "1655392": {"name": "formation géologique", "type": 1, "weight": 87}}, "relations": [{"node1": 1655392, "node2": 11353, "type": 6, "weight": 183.0}, {"node1": 1655392, "node2": 405296, "type": 6, "weight": 15.0}]}

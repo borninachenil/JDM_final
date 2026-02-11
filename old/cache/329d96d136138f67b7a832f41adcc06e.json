@@ -1,0 +1,1 @@
+{"nodes": {"13974": {"name": "facteur", "type": 1, "weight": 5099}, "294933485": {"name": "facteur d'exclusion", "type": 1, "weight": 25}}, "relations": [{"node1": 294933485, "node2": 13974, "type": 6, "weight": 28.0}]}

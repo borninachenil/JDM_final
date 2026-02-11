@@ -1,0 +1,1 @@
+{"nodes": {"11502505": {"name": "agrès de cirque", "type": 777, "weight": 25}, "217056": {"name": "agrès>56413", "type": 1, "weight": 10}, "39345": {"name": "agrès", "type": 1, "weight": 91}}, "relations": [{"node1": 11502505, "node2": 39345, "type": 6, "weight": 36.0}, {"node1": 11502505, "node2": 217056, "type": 6, "weight": 35.0}]}

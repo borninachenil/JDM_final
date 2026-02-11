@@ -1,0 +1,1 @@
+{"nodes": {"52033844": {"name": "dialecte occitan", "type": 1, "weight": 0}, "131059": {"name": "dialecte", "type": 1, "weight": 3356}}, "relations": [{"node1": 52033844, "node2": 131059, "type": 6, "weight": 25.0}]}

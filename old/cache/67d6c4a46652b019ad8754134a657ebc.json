@@ -1,0 +1,1 @@
+{"nodes": {"37684227": {"name": "département de France", "type": 1, "weight": 46}, "111394": {"name": "département", "type": 1, "weight": 6776}}, "relations": [{"node1": 37684227, "node2": 111394, "type": 6, "weight": 26.0}]}

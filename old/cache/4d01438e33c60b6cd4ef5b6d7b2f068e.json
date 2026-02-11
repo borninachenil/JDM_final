@@ -1,0 +1,1 @@
+{"nodes": {"347705763": {"name": "pierre précieuse asiatique", "type": 1, "weight": 0}, "118990": {"name": "pierre précieuse", "type": 1, "weight": 339}, "25008": {"name": "pierre", "type": 1, "weight": 9930}}, "relations": [{"node1": 347705763, "node2": 25008, "type": 6, "weight": 25.0}, {"node1": 347705763, "node2": 118990, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"32650": {"name": "concept", "type": 1, "weight": 11843}, "8564280": {"name": "entité conceptuelle", "type": 1, "weight": 27}, "64115": {"name": "archétype", "type": 1, "weight": 179}}, "relations": [{"node1": 64115, "node2": 32650, "type": 6, "weight": 30.0}, {"node1": 64115, "node2": 8564280, "type": 6, "weight": 20.0}]}

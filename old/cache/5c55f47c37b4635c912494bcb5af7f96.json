@@ -1,0 +1,1 @@
+{"nodes": {"112929": {"name": "action", "type": 1, "weight": 18866}, "43439": {"name": "cautérisation", "type": 1, "weight": 58}, "383012": {"name": "technique médicale", "type": 1, "weight": 53}}, "relations": [{"node1": 43439, "node2": 112929, "type": 6, "weight": 36.0}, {"node1": 43439, "node2": 383012, "type": 6, "weight": 27.0}]}

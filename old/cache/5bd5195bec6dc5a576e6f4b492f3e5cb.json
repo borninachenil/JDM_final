@@ -1,0 +1,1 @@
+{"nodes": {"215764": {"name": "rapport>129024", "type": 1, "weight": 16}, "69214": {"name": "expertise", "type": 1, "weight": 5880}, "112929": {"name": "action", "type": 1, "weight": 18866}}, "relations": [{"node1": 69214, "node2": 112929, "type": 6, "weight": 26.0}, {"node1": 69214, "node2": 215764, "type": 6, "weight": 27.0}]}

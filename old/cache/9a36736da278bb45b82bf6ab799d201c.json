@@ -1,0 +1,1 @@
+{"nodes": {"15016868": {"name": "mécanisme de transmission du mouvement", "type": 1, "weight": 25}, "117604": {"name": "mécanisme", "type": 1, "weight": 5541}, "365770": {"name": "mécanisme de transmission", "type": 1, "weight": 79}}, "relations": [{"node1": 15016868, "node2": 117604, "type": 6, "weight": 31.0}, {"node1": 15016868, "node2": 365770, "type": 6, "weight": 36.0}]}

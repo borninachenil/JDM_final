@@ -1,0 +1,1 @@
+{"nodes": {"5811212": {"name": "propriété intrinsèque d'une image", "type": 1, "weight": 25}, "111141": {"name": "propriété", "type": 1, "weight": 7222}, "373914": {"name": "propriété intrinsèque", "type": 1, "weight": 72}}, "relations": [{"node1": 5811212, "node2": 111141, "type": 6, "weight": 37.0}, {"node1": 5811212, "node2": 373914, "type": 6, "weight": 40.0}]}

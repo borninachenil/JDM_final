@@ -1,0 +1,1 @@
+{"nodes": {"270239188": {"name": "science musicale", "type": 1, "weight": 25}, "80973": {"name": "science", "type": 1, "weight": 13953}}, "relations": [{"node1": 270239188, "node2": 80973, "type": 6, "weight": 25.0}]}

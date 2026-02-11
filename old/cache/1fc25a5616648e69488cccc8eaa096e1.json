@@ -1,0 +1,1 @@
+{"nodes": {"6605": {"name": "instrument", "type": 1, "weight": 5772}, "30843": {"name": "outil", "type": 1, "weight": 12728}, "42244": {"name": "piochon", "type": 1, "weight": 50}}, "relations": [{"node1": 42244, "node2": 6605, "type": 6, "weight": 56.0}, {"node1": 42244, "node2": 30843, "type": 6, "weight": 55.0}]}

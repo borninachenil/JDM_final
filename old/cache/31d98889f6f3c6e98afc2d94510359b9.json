@@ -1,0 +1,1 @@
+{"nodes": {"62067": {"name": "commune", "type": 1, "weight": 5502}, "10822524": {"name": "commune du Sud-Ouest de la France", "type": 1, "weight": 25}}, "relations": [{"node1": 10822524, "node2": 62067, "type": 6, "weight": 26.0}]}

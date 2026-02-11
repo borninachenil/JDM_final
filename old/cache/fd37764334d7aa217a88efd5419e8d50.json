@@ -1,0 +1,1 @@
+{"nodes": {"157827": {"name": "partie du corps", "type": 1, "weight": 296}, "11019": {"name": "hip", "type": 1, "weight": 50}, "15307354": {"name": "en:part of the body", "type": 1, "weight": 25}}, "relations": [{"node1": 11019, "node2": 157827, "type": 6, "weight": 39.0}, {"node1": 11019, "node2": 15307354, "type": 6, "weight": 42.0}]}

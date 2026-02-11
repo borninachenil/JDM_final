@@ -1,0 +1,1 @@
+{"nodes": {"14940731": {"name": "en:grapheme", "type": 1, "weight": 25}, "123933": {"name": "entité", "type": 1, "weight": 2115}}, "relations": [{"node1": 14940731, "node2": 123933, "type": 6, "weight": 30.0}]}

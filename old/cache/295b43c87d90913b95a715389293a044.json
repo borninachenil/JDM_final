@@ -1,0 +1,1 @@
+{"nodes": {"302902": {"name": "oeuvre musicale", "type": 777, "weight": 76}, "222944": {"name": "musique instrumentale", "type": 1, "weight": 128}, "74176": {"name": "prélude", "type": 1, "weight": 87}}, "relations": [{"node1": 74176, "node2": 222944, "type": 6, "weight": 35.0}, {"node1": 74176, "node2": 302902, "type": 6, "weight": 97.0}]}

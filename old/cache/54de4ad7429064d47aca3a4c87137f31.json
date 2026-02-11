@@ -1,0 +1,1 @@
+{"nodes": {"6341149": {"name": "exsudat végétal", "type": 1, "weight": 25}, "18316": {"name": "oléorésine", "type": 1, "weight": 56}, "6909": {"name": "sécrétion", "type": 1, "weight": 311}}, "relations": [{"node1": 18316, "node2": 6909, "type": 6, "weight": 39.0}, {"node1": 18316, "node2": 6341149, "type": 6, "weight": 27.0}]}

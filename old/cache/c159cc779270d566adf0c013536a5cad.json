@@ -1,0 +1,1 @@
+{"nodes": {"10548546": {"name": "pâtisserie frite", "type": 1, "weight": 25}, "299583442": {"name": "pâte frite sucrée", "type": 1, "weight": 0}, "154985": {"name": "beignets", "type": 1, "weight": 81}}, "relations": [{"node1": 154985, "node2": 10548546, "type": 6, "weight": 31.0}, {"node1": 154985, "node2": 299583442, "type": 6, "weight": 29.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"15197165": {"name": "blessure musculaire", "type": 1, "weight": 30}, "134412": {"name": "élongation", "type": 1, "weight": 139}, "112929": {"name": "action", "type": 1, "weight": 18866}}, "relations": [{"node1": 134412, "node2": 112929, "type": 6, "weight": 26.0}, {"node1": 134412, "node2": 15197165, "type": 6, "weight": 27.0}]}

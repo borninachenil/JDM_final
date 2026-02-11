@@ -1,0 +1,1 @@
+{"nodes": {"159058779": {"name": "jeu de cache-cache", "type": 1, "weight": 29}, "571989": {"name": "jeu de", "type": 777, "weight": 54}, "53314": {"name": "jeu", "type": 1, "weight": 12266}}, "relations": [{"node1": 159058779, "node2": 53314, "type": 6, "weight": 25.0}, {"node1": 159058779, "node2": 571989, "type": 6, "weight": 25.0}]}

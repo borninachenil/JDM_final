@@ -1,0 +1,1 @@
+{"nodes": {"129277": {"name": "passe-temps", "type": 1, "weight": 246}, "233151": {"name": "jeu>98630", "type": 1, "weight": 500}, "53688": {"name": "activité", "type": 1, "weight": 10784}}, "relations": [{"node1": 233151, "node2": 53688, "type": 6, "weight": 52.0}, {"node1": 233151, "node2": 129277, "type": 6, "weight": 2.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"70180": {"name": "pouvoir législatif", "type": 1, "weight": 320}, "7804": {"name": "pouvoir", "type": 1, "weight": 172885}}, "relations": [{"node1": 70180, "node2": 7804, "type": 6, "weight": 359.0}]}

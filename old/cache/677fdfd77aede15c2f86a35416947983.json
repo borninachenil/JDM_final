@@ -1,0 +1,1 @@
+{"nodes": {"115517": {"name": "lyophilisateur", "type": 1, "weight": 51}, "106265": {"name": "appareil", "type": 1, "weight": 4064}, "5425": {"name": "machine", "type": 1, "weight": 8017}}, "relations": [{"node1": 115517, "node2": 5425, "type": 6, "weight": 40.0}, {"node1": 115517, "node2": 106265, "type": 6, "weight": 25.0}]}

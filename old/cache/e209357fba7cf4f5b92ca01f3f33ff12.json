@@ -1,0 +1,1 @@
+{"nodes": {"41808": {"name": "enceinte", "type": 1, "weight": 2460}, "114867": {"name": "caisson", "type": 1, "weight": 82}, "55942": {"name": "voiture hippomobile", "type": 1, "weight": 77}}, "relations": [{"node1": 114867, "node2": 41808, "type": 6, "weight": 32.0}, {"node1": 114867, "node2": 55942, "type": 6, "weight": 27.0}]}

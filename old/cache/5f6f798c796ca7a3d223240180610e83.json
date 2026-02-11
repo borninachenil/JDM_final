@@ -1,0 +1,1 @@
+{"nodes": {"17631": {"name": "CO2", "type": 1, "weight": 1507}, "78365": {"name": "gaz", "type": 1, "weight": 7132}, "5961110": {"name": "série télévisée française", "type": 1, "weight": 27}}, "relations": [{"node1": 17631, "node2": 78365, "type": 6, "weight": 33.0}, {"node1": 17631, "node2": 5961110, "type": 6, "weight": 27.0}]}

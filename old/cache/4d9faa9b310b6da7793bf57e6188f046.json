@@ -1,0 +1,1 @@
+{"nodes": {"15216554": {"name": "en:sacred vessel", "type": 1, "weight": 0}, "55039": {"name": "vase", "type": 1, "weight": 1223}}, "relations": [{"node1": 15216554, "node2": 55039, "type": 6, "weight": 40.0}]}

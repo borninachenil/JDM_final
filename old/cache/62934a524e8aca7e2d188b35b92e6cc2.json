@@ -1,0 +1,1 @@
+{"nodes": {"64227": {"name": "anomalie", "type": 1, "weight": 1371}, "17570135": {"name": "anomalie dentaire intra-arcade", "type": 1, "weight": 25}, "6347965": {"name": "anomalie dentaire", "type": 1, "weight": 25}}, "relations": [{"node1": 17570135, "node2": 64227, "type": 6, "weight": 26.0}, {"node1": 17570135, "node2": 6347965, "type": 6, "weight": 27.0}]}

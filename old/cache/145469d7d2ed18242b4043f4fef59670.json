@@ -1,0 +1,1 @@
+{"nodes": {"5918993": {"name": "outil de charpentier", "type": 1, "weight": 32}, "30843": {"name": "outil", "type": 1, "weight": 12728}, "52430": {"name": "ébauchoir", "type": 1, "weight": 61}}, "relations": [{"node1": 52430, "node2": 30843, "type": 6, "weight": 26.0}, {"node1": 52430, "node2": 5918993, "type": 6, "weight": 35.0}]}

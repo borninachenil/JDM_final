@@ -1,0 +1,1 @@
+{"nodes": {"380663364": {"name": "instrument à vent et à clavier", "type": 1, "weight": 0}, "6605": {"name": "instrument", "type": 1, "weight": 5775}}, "relations": [{"node1": 380663364, "node2": 6605, "type": 6, "weight": 25.0}]}

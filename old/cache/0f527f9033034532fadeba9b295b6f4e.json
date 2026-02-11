@@ -1,0 +1,1 @@
+{"nodes": {"355771283": {"name": "conséquence de la consommation de cocaïne", "type": 1, "weight": 25}, "37954": {"name": "conséquence", "type": 1, "weight": 9932}, "13778486": {"name": "conséquence de", "type": 1, "weight": 39}}, "relations": [{"node1": 355771283, "node2": 37954, "type": 6, "weight": 26.0}, {"node1": 355771283, "node2": 13778486, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"226059": {"name": "planche>96256", "type": 1, "weight": 63}, "32667": {"name": "produit", "type": 1, "weight": 10100}, "151524": {"name": "morceau de bois", "type": 1, "weight": 73}}, "relations": [{"node1": 226059, "node2": 32667, "type": 6, "weight": 15.0}, {"node1": 226059, "node2": 151524, "type": 6, "weight": 35.0}]}

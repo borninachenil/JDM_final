@@ -1,0 +1,1 @@
+{"nodes": {"249249695": {"name": "métrique d'évaluation", "type": 1, "weight": 25}, "2041": {"name": "métrique", "type": 1, "weight": 1825}}, "relations": [{"node1": 249249695, "node2": 2041, "type": 6, "weight": 25.0}]}

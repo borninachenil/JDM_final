@@ -1,0 +1,1 @@
+{"nodes": {"1910732": {"name": "établissement>135190", "type": 1, "weight": 28}, "77864": {"name": "établissement", "type": 1, "weight": 3841}, "14953725": {"name": "en:penitentiary", "type": 1, "weight": 25}}, "relations": [{"node1": 14953725, "node2": 77864, "type": 6, "weight": 70.0}, {"node1": 14953725, "node2": 1910732, "type": 6, "weight": 70.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"7180125": {"name": "en:form", "type": 1, "weight": 25}, "142000": {"name": "forme", "type": 1, "weight": 15390}, "5500416": {"name": "forme d'énergie", "type": 1, "weight": 54}}, "relations": [{"node1": 5500416, "node2": 142000, "type": 6, "weight": 27.0}, {"node1": 5500416, "node2": 7180125, "type": 6, "weight": 10.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"2047": {"name": "nacré", "type": 1, "weight": 61}, "80897": {"name": "apparence", "type": 1, "weight": 4120}, "6800914": {"name": "en:tooth", "type": 1, "weight": 25}}, "relations": [{"node1": 2047, "node2": 80897, "type": 6, "weight": 35.0}, {"node1": 2047, "node2": 6800914, "type": 6, "weight": 31.0}]}

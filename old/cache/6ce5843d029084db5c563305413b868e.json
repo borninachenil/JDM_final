@@ -1,0 +1,1 @@
+{"nodes": {"26038": {"name": "ouvrage", "type": 1, "weight": 6904}, "216666": {"name": "ouvrage>142787", "type": 1, "weight": 60}, "222470": {"name": "ouvrage littéraire", "type": 1, "weight": 8}}, "relations": [{"node1": 222470, "node2": 26038, "type": 6, "weight": 41.0}, {"node1": 222470, "node2": 216666, "type": 6, "weight": 40.0}]}

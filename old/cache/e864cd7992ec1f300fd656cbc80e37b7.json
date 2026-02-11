@@ -1,0 +1,1 @@
+{"nodes": {"15209": {"name": "troupe", "type": 1, "weight": 2412}, "395139": {"name": "groupe de personnes", "type": 1, "weight": 185}, "11080937": {"name": "troupe d'artistes", "type": 1, "weight": 5}}, "relations": [{"node1": 11080937, "node2": 15209, "type": 6, "weight": 27.0}, {"node1": 11080937, "node2": 395139, "type": 6, "weight": 56.0}]}

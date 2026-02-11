@@ -1,0 +1,1 @@
+{"nodes": {"190322058": {"name": "pensée imaginative", "type": 1, "weight": 25}, "404540": {"name": "Pensée", "type": 1, "weight": 74}, "132037": {"name": "pensée", "type": 1, "weight": 13802}}, "relations": [{"node1": 190322058, "node2": 132037, "type": 6, "weight": 34.0}, {"node1": 190322058, "node2": 404540, "type": 6, "weight": 10.0}]}

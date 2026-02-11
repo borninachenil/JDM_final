@@ -1,0 +1,1 @@
+{"nodes": {"3762435": {"name": "ingrédient de recette de cuisine", "type": 1, "weight": 12}, "45079": {"name": "cervelle", "type": 1, "weight": 251}}, "relations": [{"node1": 45079, "node2": 3762435, "type": 6, "weight": 56.0}]}

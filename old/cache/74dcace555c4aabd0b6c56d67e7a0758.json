@@ -1,0 +1,1 @@
+{"nodes": {"237669": {"name": "département>163529", "type": 1, "weight": 29}, "135190": {"name": "lieu", "type": 1, "weight": 13386}, "39543": {"name": "territoire", "type": 1, "weight": 15258}}, "relations": [{"node1": 237669, "node2": 39543, "type": 6, "weight": 200.0}, {"node1": 237669, "node2": 135190, "type": 6, "weight": 190.0}]}

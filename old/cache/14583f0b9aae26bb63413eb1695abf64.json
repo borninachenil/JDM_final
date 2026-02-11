@@ -1,0 +1,1 @@
+{"nodes": {"233387630": {"name": "signe du destin", "type": 1, "weight": 26}, "28922": {"name": "signe", "type": 1, "weight": 7619}, "100149": {"name": "présage", "type": 1, "weight": 156}}, "relations": [{"node1": 100149, "node2": 28922, "type": 6, "weight": 13.0}, {"node1": 100149, "node2": 233387630, "type": 6, "weight": 40.0}]}

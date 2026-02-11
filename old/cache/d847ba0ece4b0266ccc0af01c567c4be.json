@@ -1,0 +1,1 @@
+{"nodes": {"5896719": {"name": "partie d'un siège", "type": 1, "weight": 25}, "3233": {"name": "partie", "type": 1, "weight": 12812}}, "relations": [{"node1": 5896719, "node2": 3233, "type": 6, "weight": 26.0}]}

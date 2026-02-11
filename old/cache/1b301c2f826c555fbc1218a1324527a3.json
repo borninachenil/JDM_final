@@ -1,0 +1,1 @@
+{"nodes": {"284593": {"name": "art divinatoire", "type": 777, "weight": 50}, "44226": {"name": "cartomancie", "type": 1, "weight": 68}}, "relations": [{"node1": 44226, "node2": 284593, "type": 6, "weight": 31.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"6605": {"name": "instrument", "type": 1, "weight": 5775}, "6345723": {"name": "instrument tranchant", "type": 1, "weight": 25}, "227036": {"name": "instrument>30843", "type": 1, "weight": 55}}, "relations": [{"node1": 6345723, "node2": 6605, "type": 6, "weight": 44.0}, {"node1": 6345723, "node2": 227036, "type": 6, "weight": 57.0}]}

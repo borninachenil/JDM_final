@@ -1,0 +1,1 @@
+{"nodes": {"18928881": {"name": "période de l'Histoire", "type": 1, "weight": 30}, "259250002": {"name": "période de", "type": 1, "weight": 33}, "108794": {"name": "période", "type": 1, "weight": 8177}}, "relations": [{"node1": 18928881, "node2": 108794, "type": 6, "weight": 36.0}, {"node1": 18928881, "node2": 259250002, "type": 6, "weight": 25.0}]}

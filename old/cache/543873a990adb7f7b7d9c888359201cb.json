@@ -1,0 +1,1 @@
+{"nodes": {"5680881": {"name": "voie spinocérébelleuse", "type": 1, "weight": 25}, "19219": {"name": "voie", "type": 1, "weight": 6640}}, "relations": [{"node1": 5680881, "node2": 19219, "type": 6, "weight": 40.0}]}

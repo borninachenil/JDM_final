@@ -1,0 +1,1 @@
+{"nodes": {"64117": {"name": "équipement", "type": 1, "weight": 2556}, "199656": {"name": "équipement sanitaire", "type": 1, "weight": 52}, "407298": {"name": "Équipement", "type": 1, "weight": 135}}, "relations": [{"node1": 199656, "node2": 64117, "type": 6, "weight": 38.0}, {"node1": 199656, "node2": 407298, "type": 6, "weight": 25.0}]}

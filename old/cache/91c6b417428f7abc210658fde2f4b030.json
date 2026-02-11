@@ -1,0 +1,1 @@
+{"nodes": {"90066": {"name": "défilé", "type": 1, "weight": 824}, "15444980": {"name": "défilé de chars", "type": 1, "weight": 25}, "15572233": {"name": "défilé de", "type": 1, "weight": 25}}, "relations": [{"node1": 15444980, "node2": 90066, "type": 6, "weight": 26.0}, {"node1": 15444980, "node2": 15572233, "type": 6, "weight": 25.0}]}

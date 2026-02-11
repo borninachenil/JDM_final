@@ -1,0 +1,1 @@
+{"nodes": {"153416": {"name": "grande roue", "type": 1, "weight": 77}, "15082285": {"name": "en:rotating mechanism", "type": 1, "weight": 25}, "14927757": {"name": "en:ride", "type": 1, "weight": 2}}, "relations": [{"node1": 153416, "node2": 14927757, "type": 6, "weight": 33.0}, {"node1": 153416, "node2": 15082285, "type": 6, "weight": 34.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"3223277": {"name": "béton bitumineux", "type": 1, "weight": 3}, "132961": {"name": "béton", "type": 1, "weight": 2205}, "14800": {"name": "mélange", "type": 1, "weight": 4220}}, "relations": [{"node1": 3223277, "node2": 14800, "type": 6, "weight": 28.0}, {"node1": 3223277, "node2": 132961, "type": 6, "weight": 26.0}]}

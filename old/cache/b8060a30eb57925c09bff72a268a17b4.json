@@ -1,0 +1,1 @@
+{"nodes": {"285831": {"name": "diffusion pédagogique des connaissances", "type": 777, "weight": 50}, "49390": {"name": "diffusion", "type": 1, "weight": 6564}}, "relations": [{"node1": 285831, "node2": 49390, "type": 6, "weight": 31.0}]}

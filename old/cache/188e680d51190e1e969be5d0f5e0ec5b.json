@@ -1,0 +1,1 @@
+{"nodes": {"29071": {"name": "détritus", "type": 1, "weight": 213}, "364223": {"name": "milieu biologique", "type": 1, "weight": 52}}, "relations": [{"node1": 29071, "node2": 364223, "type": 6, "weight": 40.0}]}

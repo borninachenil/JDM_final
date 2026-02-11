@@ -1,0 +1,1 @@
+{"nodes": {"13542598": {"name": "Êtres", "type": 1, "weight": 25}, "152168": {"name": "êtres vivants", "type": 1, "weight": 421}, "51057": {"name": "êtres", "type": 1, "weight": 2962}}, "relations": [{"node1": 152168, "node2": 51057, "type": 6, "weight": 58.0}, {"node1": 152168, "node2": 13542598, "type": 6, "weight": 15.0}]}

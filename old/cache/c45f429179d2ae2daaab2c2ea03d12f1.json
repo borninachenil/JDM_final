@@ -1,0 +1,1 @@
+{"nodes": {"323906241": {"name": "phase du cycle économique", "type": 1, "weight": 0}, "61679": {"name": "phase", "type": 1, "weight": 4663}}, "relations": [{"node1": 323906241, "node2": 61679, "type": 6, "weight": 26.0}]}

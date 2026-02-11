@@ -1,0 +1,1 @@
+{"nodes": {"408616": {"name": "organismes", "type": 1, "weight": 3630}, "3181145": {"name": "organismes vivants", "type": 1, "weight": 192}, "404906": {"name": "Organismes", "type": 1, "weight": 72}}, "relations": [{"node1": 3181145, "node2": 404906, "type": 6, "weight": 15.0}, {"node1": 3181145, "node2": 408616, "type": 6, "weight": 26.0}]}

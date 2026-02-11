@@ -1,0 +1,1 @@
+{"nodes": {"6905177": {"name": "en:high", "type": 1, "weight": 25}, "201723": {"name": "haut plateau", "type": 1, "weight": 55}, "24682": {"name": "haut", "type": 1, "weight": 11771}}, "relations": [{"node1": 201723, "node2": 24682, "type": 6, "weight": 26.0}, {"node1": 201723, "node2": 6905177, "type": 6, "weight": 23.0}]}

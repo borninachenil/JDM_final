@@ -1,0 +1,1 @@
+{"nodes": {"252030": {"name": "imperfection physique", "type": 1, "weight": 50}, "66133": {"name": "boutons", "type": 1, "weight": 541}, "14231643": {"name": "signe>102694>102206", "type": 1, "weight": 4}}, "relations": [{"node1": 66133, "node2": 252030, "type": 6, "weight": 25.0}, {"node1": 66133, "node2": 14231643, "type": 6, "weight": 26.0}]}

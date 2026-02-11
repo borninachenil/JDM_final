@@ -1,0 +1,1 @@
+{"nodes": {"6605": {"name": "instrument", "type": 1, "weight": 5775}, "7586284": {"name": "en:optical instrument", "type": 1, "weight": 25}, "14952073": {"name": "en:optical", "type": 1, "weight": 25}}, "relations": [{"node1": 7586284, "node2": 6605, "type": 6, "weight": 60.0}, {"node1": 7586284, "node2": 14952073, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"254334873": {"name": "expression de base", "type": 1, "weight": 25}, "144149": {"name": "terme", "type": 1, "weight": 15750}, "14962495": {"name": "en:statue", "type": 1, "weight": 25}}, "relations": [{"node1": 144149, "node2": 14962495, "type": 6, "weight": 41.0}, {"node1": 144149, "node2": 254334873, "type": 6, "weight": 25.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"197581": {"name": "circonscription ecclésiastique", "type": 1, "weight": 51}, "17573": {"name": "circonscription", "type": 1, "weight": 3637}}, "relations": [{"node1": 197581, "node2": 17573, "type": 6, "weight": 26.0}]}

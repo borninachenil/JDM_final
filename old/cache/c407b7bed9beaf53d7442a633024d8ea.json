@@ -1,0 +1,1 @@
+{"nodes": {"262042210": {"name": "théorie psychologique", "type": 1, "weight": 25}, "79846": {"name": "théorie", "type": 1, "weight": 9804}, "50632985": {"name": "modèle comportemental", "type": 1, "weight": 30}}, "relations": [{"node1": 262042210, "node2": 79846, "type": 6, "weight": 25.0}, {"node1": 262042210, "node2": 50632985, "type": 6, "weight": 31.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"92502609": {"name": "Vallée glaciaire", "type": 1, "weight": 25}, "29285": {"name": "vallée", "type": 1, "weight": 3828}, "402030": {"name": "Vallée", "type": 1, "weight": 2201}}, "relations": [{"node1": 92502609, "node2": 29285, "type": 6, "weight": 15.0}, {"node1": 92502609, "node2": 402030, "type": 6, "weight": 25.0}]}

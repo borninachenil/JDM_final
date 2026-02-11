@@ -1,0 +1,1 @@
+{"nodes": {"82084778": {"name": "besoin fondamental", "type": 1, "weight": 25}, "33296": {"name": "besoin", "type": 1, "weight": 12434}, "324907": {"name": "besoin>81434", "type": 1, "weight": 108}}, "relations": [{"node1": 82084778, "node2": 33296, "type": 6, "weight": 47.0}, {"node1": 82084778, "node2": 324907, "type": 6, "weight": 35.0}]}

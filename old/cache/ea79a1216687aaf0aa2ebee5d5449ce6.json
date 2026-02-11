@@ -1,0 +1,1 @@
+{"nodes": {"347182240": {"name": "conséquence possible de l'évolution", "type": 1, "weight": 0}, "37954": {"name": "conséquence", "type": 1, "weight": 9932}}, "relations": [{"node1": 347182240, "node2": 37954, "type": 6, "weight": 26.0}]}

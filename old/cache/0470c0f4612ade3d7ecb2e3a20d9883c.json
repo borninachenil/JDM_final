@@ -1,0 +1,1 @@
+{"nodes": {"322343": {"name": "partie antérieure", "type": 1, "weight": 64}, "117554": {"name": "ogive", "type": 1, "weight": 155}, "212950": {"name": "charge explosive", "type": 1, "weight": 40}}, "relations": [{"node1": 117554, "node2": 212950, "type": 6, "weight": 57.0}, {"node1": 117554, "node2": 322343, "type": 6, "weight": 31.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"288066839": {"name": "alternative au procès", "type": 1, "weight": 25}, "68452": {"name": "alternative", "type": 1, "weight": 3391}}, "relations": [{"node1": 288066839, "node2": 68452, "type": 6, "weight": 27.0}]}

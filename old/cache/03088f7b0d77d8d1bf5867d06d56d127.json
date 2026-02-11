@@ -1,0 +1,1 @@
+{"nodes": {"257146": {"name": "fibre naturelle", "type": 1, "weight": 25}, "97739": {"name": "matériau", "type": 1, "weight": 3334}, "101290": {"name": "fibre", "type": 1, "weight": 1461}}, "relations": [{"node1": 257146, "node2": 97739, "type": 6, "weight": 54.0}, {"node1": 257146, "node2": 101290, "type": 6, "weight": 513.0}]}

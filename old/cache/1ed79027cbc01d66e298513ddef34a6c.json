@@ -1,0 +1,1 @@
+{"nodes": {"439265390": {"name": "xylophone africain", "type": 1, "weight": 0}, "68269": {"name": "xylophone", "type": 1, "weight": 116}}, "relations": [{"node1": 439265390, "node2": 68269, "type": 6, "weight": 26.0}]}

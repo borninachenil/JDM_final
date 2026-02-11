@@ -1,0 +1,1 @@
+{"nodes": {"211335017": {"name": "méthodologie de développement", "type": 1, "weight": 25}, "42109": {"name": "mouvement", "type": 1, "weight": 17105}, "181168209": {"name": "DevOps", "type": 1, "weight": 32}}, "relations": [{"node1": 181168209, "node2": 42109, "type": 6, "weight": 10.0}, {"node1": 181168209, "node2": 211335017, "type": 6, "weight": 32.0}]}

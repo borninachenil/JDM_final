@@ -1,0 +1,1 @@
+{"nodes": {"139832": {"name": "gourou", "type": 1, "weight": 271}, "68439": {"name": "individu", "type": 1, "weight": 11856}, "1764097": {"name": "terme sanskrit", "type": 1, "weight": 25}}, "relations": [{"node1": 139832, "node2": 68439, "type": 6, "weight": 25.0}, {"node1": 139832, "node2": 1764097, "type": 6, "weight": 28.0}]}

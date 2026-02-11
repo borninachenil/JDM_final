@@ -1,0 +1,1 @@
+{"nodes": {"181284996": {"name": "groupement de", "type": 777, "weight": 25}, "51857": {"name": "groupement", "type": 1, "weight": 2108}, "10618917": {"name": "groupement de sépultures", "type": 1, "weight": 25}}, "relations": [{"node1": 10618917, "node2": 51857, "type": 6, "weight": 26.0}, {"node1": 10618917, "node2": 181284996, "type": 6, "weight": 25.0}]}

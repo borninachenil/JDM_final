@@ -1,0 +1,1 @@
+{"nodes": {"15777689": {"name": "réaction chimique exothermique", "type": 1, "weight": 30}, "93299": {"name": "réaction", "type": 1, "weight": 13430}, "163955": {"name": "réaction chimique", "type": 1, "weight": 330}}, "relations": [{"node1": 15777689, "node2": 93299, "type": 6, "weight": 32.0}, {"node1": 15777689, "node2": 163955, "type": 6, "weight": 36.0}]}

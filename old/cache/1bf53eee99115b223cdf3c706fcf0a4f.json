@@ -1,0 +1,1 @@
+{"nodes": {"15070147": {"name": "en:wetting", "type": 1, "weight": 25}, "112929": {"name": "action", "type": 1, "weight": 18866}, "101141": {"name": "humidification", "type": 1, "weight": 86}}, "relations": [{"node1": 101141, "node2": 112929, "type": 6, "weight": 38.0}, {"node1": 101141, "node2": 15070147, "type": 6, "weight": 10.0}]}

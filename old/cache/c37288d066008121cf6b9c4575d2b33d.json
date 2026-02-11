@@ -1,0 +1,1 @@
+{"nodes": {"64681": {"name": "niveau", "type": 1, "weight": 10017}, "19872": {"name": "étage", "type": 1, "weight": 2932}, "26585": {"name": "rez-de-chaussée", "type": 1, "weight": 161}}, "relations": [{"node1": 26585, "node2": 19872, "type": 6, "weight": 88.0}, {"node1": 26585, "node2": 64681, "type": 6, "weight": 88.0}]}

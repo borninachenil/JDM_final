@@ -1,0 +1,1 @@
+{"nodes": {"33634": {"name": "préparation", "type": 1, "weight": 7194}, "177321": {"name": "préparation culinaire", "type": 1, "weight": 622}, "12255568": {"name": "préparation fromagère", "type": 1, "weight": 25}}, "relations": [{"node1": 12255568, "node2": 33634, "type": 6, "weight": 38.0}, {"node1": 12255568, "node2": 177321, "type": 6, "weight": 85.0}]}

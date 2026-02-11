@@ -1,0 +1,1 @@
+{"nodes": {"73716": {"name": "diatribe", "type": 1, "weight": 83}, "7470306": {"name": "en:literary genre", "type": 1, "weight": 25}, "213078": {"name": "genre littéraire", "type": 1, "weight": 133}}, "relations": [{"node1": 73716, "node2": 213078, "type": 6, "weight": 34.0}, {"node1": 73716, "node2": 7470306, "type": 6, "weight": 27.0}]}

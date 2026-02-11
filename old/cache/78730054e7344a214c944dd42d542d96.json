@@ -1,0 +1,1 @@
+{"nodes": {"154695": {"name": "matière grasse", "type": 1, "weight": 441}, "356467": {"name": "graisse de mouton", "type": 1, "weight": 50}, "124071": {"name": "graisse", "type": 1, "weight": 1042}}, "relations": [{"node1": 356467, "node2": 124071, "type": 6, "weight": 40.0}, {"node1": 356467, "node2": 154695, "type": 6, "weight": 34.0}]}

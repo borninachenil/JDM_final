@@ -1,0 +1,1 @@
+{"nodes": {"100886": {"name": "tautologie", "type": 1, "weight": 53}, "139513": {"name": "phrase", "type": 1, "weight": 6108}}, "relations": [{"node1": 100886, "node2": 139513, "type": 6, "weight": 29.0}]}

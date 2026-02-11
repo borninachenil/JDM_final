@@ -1,0 +1,1 @@
+{"nodes": {"14028496": {"name": "institution fiscale", "type": 1, "weight": 25}, "87855": {"name": "institution", "type": 1, "weight": 5991}}, "relations": [{"node1": 14028496, "node2": 87855, "type": 6, "weight": 26.0}]}

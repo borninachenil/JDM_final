@@ -1,0 +1,1 @@
+{"nodes": {"581796": {"name": "groupe de", "type": 777, "weight": 28}, "5518245": {"name": "groupe de heavy metal", "type": 1, "weight": 50}, "53541": {"name": "groupe", "type": 1, "weight": 17482}}, "relations": [{"node1": 5518245, "node2": 53541, "type": 6, "weight": 33.0}, {"node1": 5518245, "node2": 581796, "type": 6, "weight": 25.0}]}

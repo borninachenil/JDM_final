@@ -1,0 +1,1 @@
+{"nodes": {"243130135": {"name": "conflit verbal", "type": 1, "weight": 31}, "107426": {"name": "conflit", "type": 1, "weight": 17891}, "5813322": {"name": "Conflit", "type": 1, "weight": 835}}, "relations": [{"node1": 243130135, "node2": 107426, "type": 6, "weight": 25.0}, {"node1": 243130135, "node2": 5813322, "type": 6, "weight": 5.0}]}

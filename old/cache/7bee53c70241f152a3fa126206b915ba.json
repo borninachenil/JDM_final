@@ -1,0 +1,1 @@
+{"nodes": {"15078829": {"name": "en:psychological feature", "type": 1, "weight": 25}, "7151008": {"name": "en:learning", "type": 1, "weight": 4}, "7187000": {"name": "en:knowledge", "type": 1, "weight": 8}}, "relations": [{"node1": 7187000, "node2": 7151008, "type": 6, "weight": 35.0}, {"node1": 7187000, "node2": 15078829, "type": 6, "weight": 44.0}]}

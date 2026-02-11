@@ -1,0 +1,1 @@
+{"nodes": {"17407606": {"name": "violation d'une loi de l'État", "type": 1, "weight": 0}, "126318": {"name": "violation", "type": 1, "weight": 1114}}, "relations": [{"node1": 17407606, "node2": 126318, "type": 6, "weight": 26.0}]}

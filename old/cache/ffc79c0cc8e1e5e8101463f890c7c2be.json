@@ -1,0 +1,1 @@
+{"nodes": {"2450788": {"name": "hépar", "type": 1, "weight": 0}, "14633097": {"name": "Soufre", "type": 1, "weight": 25}, "5794175": {"name": "marque d'eau minérale", "type": 1, "weight": 27}}, "relations": [{"node1": 2450788, "node2": 5794175, "type": 6, "weight": 10.0}, {"node1": 2450788, "node2": 14633097, "type": 6, "weight": 35.0}]}

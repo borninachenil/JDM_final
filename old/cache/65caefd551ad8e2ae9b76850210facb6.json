@@ -1,0 +1,1 @@
+{"nodes": {"367691737": {"name": "caractéristique planétaire", "type": 1, "weight": 25}, "82542": {"name": "unique", "type": 1, "weight": 6357}}, "relations": [{"node1": 82542, "node2": 367691737, "type": 6, "weight": 32.0}]}

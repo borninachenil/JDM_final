@@ -1,0 +1,1 @@
+{"nodes": {"341789757": {"name": "disparition d'espèce", "type": 1, "weight": 27}, "120760": {"name": "disparition", "type": 1, "weight": 4473}}, "relations": [{"node1": 341789757, "node2": 120760, "type": 6, "weight": 25.0}]}

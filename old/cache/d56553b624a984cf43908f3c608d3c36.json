@@ -1,0 +1,1 @@
+{"nodes": {"11126": {"name": "infection", "type": 1, "weight": 2689}, "391370": {"name": "infection ORL", "type": 1, "weight": 50}, "219489": {"name": "infection>30330", "type": 1, "weight": 158}}, "relations": [{"node1": 391370, "node2": 11126, "type": 6, "weight": 224.0}, {"node1": 391370, "node2": 219489, "type": 6, "weight": 186.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"6605": {"name": "instrument", "type": 1, "weight": 5772}, "277339": {"name": "instrument chirurgical", "type": 1, "weight": 53}, "95167": {"name": "curette", "type": 1, "weight": 53}}, "relations": [{"node1": 95167, "node2": 6605, "type": 6, "weight": 39.0}, {"node1": 95167, "node2": 277339, "type": 6, "weight": 65.0}]}

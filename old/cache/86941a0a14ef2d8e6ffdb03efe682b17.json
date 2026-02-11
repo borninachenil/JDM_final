@@ -1,0 +1,1 @@
+{"nodes": {"6904288": {"name": "en:nervous", "type": 1, "weight": 25}, "6800353": {"name": "en:nervous system", "type": 1, "weight": 6}, "7187704": {"name": "en:nervous system part", "type": 1, "weight": 25}}, "relations": [{"node1": 7187704, "node2": 6800353, "type": 6, "weight": 25.0}, {"node1": 7187704, "node2": 6904288, "type": 6, "weight": 25.0}]}

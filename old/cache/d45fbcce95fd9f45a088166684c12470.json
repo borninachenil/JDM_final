@@ -1,0 +1,1 @@
+{"nodes": {"5516965": {"name": "signal ferroviaire", "type": 1, "weight": 25}, "50470": {"name": "signal", "type": 1, "weight": 4533}, "7053907": {"name": "en:signal", "type": 1, "weight": 2}}, "relations": [{"node1": 5516965, "node2": 50470, "type": 6, "weight": 36.0}, {"node1": 5516965, "node2": 7053907, "type": 6, "weight": 27.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"74082": {"name": "nageoire", "type": 1, "weight": 427}, "146972": {"name": "caudale", "type": 1, "weight": 55}, "12338479": {"name": "en:amphibian", "type": 1, "weight": 25}}, "relations": [{"node1": 146972, "node2": 74082, "type": 6, "weight": 80.0}, {"node1": 146972, "node2": 12338479, "type": 6, "weight": 10.0}]}

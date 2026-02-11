@@ -1,0 +1,1 @@
+{"nodes": {"38929": {"name": "étape", "type": 1, "weight": 5233}, "5802230": {"name": "étape du processus de préparation des vins mousseux", "type": 1, "weight": 25}}, "relations": [{"node1": 5802230, "node2": 38929, "type": 6, "weight": 31.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"195068341": {"name": "légumes fermentés", "type": 1, "weight": 27}, "299583438": {"name": "légumes fermentés épicés", "type": 1, "weight": 25}, "105995": {"name": "légumes", "type": 1, "weight": 2498}}, "relations": [{"node1": 299583438, "node2": 105995, "type": 6, "weight": 26.0}, {"node1": 299583438, "node2": 195068341, "type": 6, "weight": 25.0}]}

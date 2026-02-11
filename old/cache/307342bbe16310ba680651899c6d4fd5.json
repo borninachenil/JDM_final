@@ -1,0 +1,1 @@
+{"nodes": {"11237216": {"name": "document délivré par une personne compétente", "type": 1, "weight": 25}, "54770": {"name": "document", "type": 1, "weight": 5457}}, "relations": [{"node1": 11237216, "node2": 54770, "type": 6, "weight": 28.0}]}

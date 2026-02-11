@@ -1,0 +1,1 @@
+{"nodes": {"10777776": {"name": "traitement mécanique", "type": 1, "weight": 26}, "10777775": {"name": "traitement mécanique de la pâte à papier", "type": 1, "weight": 25}, "74419": {"name": "traitement", "type": 1, "weight": 10962}}, "relations": [{"node1": 10777775, "node2": 74419, "type": 6, "weight": 36.0}, {"node1": 10777775, "node2": 10777776, "type": 6, "weight": 36.0}]}

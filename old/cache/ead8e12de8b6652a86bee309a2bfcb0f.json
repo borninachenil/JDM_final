@@ -1,0 +1,1 @@
+{"nodes": {"5553361": {"name": "dispersion colloïdale", "type": 1, "weight": 25}, "7438003": {"name": "en:dispersion", "type": 1, "weight": 25}, "50814": {"name": "dispersion", "type": 1, "weight": 799}}, "relations": [{"node1": 5553361, "node2": 50814, "type": 6, "weight": 30.0}, {"node1": 5553361, "node2": 7438003, "type": 6, "weight": 32.0}]}

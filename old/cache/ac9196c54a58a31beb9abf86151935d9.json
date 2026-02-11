@@ -1,0 +1,1 @@
+{"nodes": {"23043": {"name": "clos", "type": 1, "weight": 170}, "238965183": {"name": "rue en cul-de-sac", "type": 1, "weight": 25}, "20564": {"name": "rue", "type": 1, "weight": 15342}}, "relations": [{"node1": 23043, "node2": 20564, "type": 6, "weight": 34.0}, {"node1": 23043, "node2": 238965183, "type": 6, "weight": 25.0}]}

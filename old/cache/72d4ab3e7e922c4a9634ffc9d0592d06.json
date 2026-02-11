@@ -1,0 +1,1 @@
+{"nodes": {"237711": {"name": "faisceau musculaire", "type": 1, "weight": 50}, "59768": {"name": "faisceau", "type": 1, "weight": 2161}}, "relations": [{"node1": 237711, "node2": 59768, "type": 6, "weight": 45.0}]}

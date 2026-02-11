@@ -1,0 +1,1 @@
+{"nodes": {"14941239": {"name": "en:guild", "type": 1, "weight": 25}, "395139": {"name": "groupe de personnes", "type": 1, "weight": 185}, "53541": {"name": "groupe", "type": 1, "weight": 17482}}, "relations": [{"node1": 14941239, "node2": 53541, "type": 6, "weight": 70.0}, {"node1": 14941239, "node2": 395139, "type": 6, "weight": 10.0}]}

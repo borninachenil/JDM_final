@@ -1,0 +1,1 @@
+{"nodes": {"140902": {"name": "étoffe", "type": 1, "weight": 469}, "38924": {"name": "lambeau", "type": 1, "weight": 61}, "3229598": {"name": "technique chirurgicale", "type": 1, "weight": 26}}, "relations": [{"node1": 38924, "node2": 140902, "type": 6, "weight": 43.0}, {"node1": 38924, "node2": 3229598, "type": 6, "weight": 26.0}]}

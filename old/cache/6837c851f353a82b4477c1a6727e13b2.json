@@ -1,0 +1,1 @@
+{"nodes": {"366658071": {"name": "entité fédérée", "type": 1, "weight": 28}, "123933": {"name": "entité", "type": 1, "weight": 2115}}, "relations": [{"node1": 366658071, "node2": 123933, "type": 6, "weight": 25.0}]}

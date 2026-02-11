@@ -1,0 +1,1 @@
+{"nodes": {"5517462": {"name": "oeuvre lyrique", "type": 1, "weight": 31}, "144938": {"name": "oeuvre", "type": 1, "weight": 4663}, "5517461": {"name": "oeuvre lyrique dramatique", "type": 1, "weight": 25}}, "relations": [{"node1": 5517461, "node2": 144938, "type": 6, "weight": 52.0}, {"node1": 5517461, "node2": 5517462, "type": 6, "weight": 52.0}]}

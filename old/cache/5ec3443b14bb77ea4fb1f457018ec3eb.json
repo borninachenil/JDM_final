@@ -1,0 +1,1 @@
+{"nodes": {"12008224": {"name": "Lipp", "type": 1, "weight": 25}, "276096": {"name": "_INFO-WIKI-YES", "type": 36, "weight": 50}}, "relations": [{"node1": 12008224, "node2": 276096, "type": 36, "weight": 25.0}]}

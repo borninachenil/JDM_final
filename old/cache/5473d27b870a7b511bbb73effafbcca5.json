@@ -1,0 +1,1 @@
+{"nodes": {"429606": {"name": "Personnage", "type": 1, "weight": 110}, "10756": {"name": "personnage", "type": 1, "weight": 8039}, "437884": {"name": "personnage comique", "type": 1, "weight": 62}}, "relations": [{"node1": 437884, "node2": 10756, "type": 6, "weight": 65.0}, {"node1": 437884, "node2": 429606, "type": 6, "weight": 5.0}]}

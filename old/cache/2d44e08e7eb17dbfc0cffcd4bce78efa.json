@@ -1,0 +1,1 @@
+{"nodes": {"299926205": {"name": "blessure de guerre psychologique", "type": 1, "weight": 25}, "61147": {"name": "blessure", "type": 1, "weight": 3666}}, "relations": [{"node1": 299926205, "node2": 61147, "type": 6, "weight": 25.0}]}

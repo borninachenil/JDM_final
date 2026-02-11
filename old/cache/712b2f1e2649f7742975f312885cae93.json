@@ -1,0 +1,1 @@
+{"nodes": {"243120641": {"name": "concept abstrait", "type": 1, "weight": 40}, "8562": {"name": "modalité", "type": 1, "weight": 798}, "1290": {"name": "possibilité", "type": 1, "weight": 9369}}, "relations": [{"node1": 1290, "node2": 8562, "type": 6, "weight": 31.0}, {"node1": 1290, "node2": 243120641, "type": 6, "weight": 41.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"11049816": {"name": "entité historique et culturelle", "type": 1, "weight": 25}, "123933": {"name": "entité", "type": 1, "weight": 2115}, "352063": {"name": "entité historique", "type": 1, "weight": 53}}, "relations": [{"node1": 11049816, "node2": 123933, "type": 6, "weight": 31.0}, {"node1": 11049816, "node2": 352063, "type": 6, "weight": 36.0}]}

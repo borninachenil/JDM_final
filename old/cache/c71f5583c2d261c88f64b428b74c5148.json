@@ -1,0 +1,1 @@
+{"nodes": {"137865": {"name": "cours d'eau", "type": 1, "weight": 1720}, "60866": {"name": "cours", "type": 1, "weight": 15532}, "8969213": {"name": "cours d'eau artificiel", "type": 1, "weight": 26}}, "relations": [{"node1": 8969213, "node2": 60866, "type": 6, "weight": 26.0}, {"node1": 8969213, "node2": 137865, "type": 6, "weight": 25.0}]}

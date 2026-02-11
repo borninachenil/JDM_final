@@ -1,0 +1,1 @@
+{"nodes": {"16378153": {"name": "aléa météorologique", "type": 1, "weight": 26}, "10962044": {"name": "aléa naturel", "type": 777, "weight": 34}, "56157": {"name": "aléa", "type": 1, "weight": 368}}, "relations": [{"node1": 16378153, "node2": 56157, "type": 6, "weight": 26.0}, {"node1": 16378153, "node2": 10962044, "type": 6, "weight": 27.0}]}

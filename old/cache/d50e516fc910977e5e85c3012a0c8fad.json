@@ -1,0 +1,1 @@
+{"nodes": {"221145": {"name": "site d'enfouissement", "type": 1, "weight": 58}, "118334": {"name": "site", "type": 1, "weight": 8773}, "135190": {"name": "lieu", "type": 1, "weight": 13386}}, "relations": [{"node1": 221145, "node2": 118334, "type": 6, "weight": 259.0}, {"node1": 221145, "node2": 135190, "type": 6, "weight": 30.0}]}

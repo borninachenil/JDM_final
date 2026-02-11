@@ -1,0 +1,1 @@
+{"nodes": {"341783279": {"name": "mesure d'agitation moléculaire", "type": 1, "weight": 0}, "305695360": {"name": "mesure d", "type": 1, "weight": 74}, "139340": {"name": "mesure", "type": 1, "weight": 14371}}, "relations": [{"node1": 341783279, "node2": 139340, "type": 6, "weight": 31.0}, {"node1": 341783279, "node2": 305695360, "type": 6, "weight": 36.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"96851": {"name": "pièce", "type": 1, "weight": 8573}, "13264": {"name": "bielle", "type": 1, "weight": 93}, "216183": {"name": "pièce mécanique", "type": 1, "weight": 190}}, "relations": [{"node1": 13264, "node2": 96851, "type": 6, "weight": 41.0}, {"node1": 13264, "node2": 216183, "type": 6, "weight": 77.0}]}

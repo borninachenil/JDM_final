@@ -1,0 +1,1 @@
+{"nodes": {"6068": {"name": "torpeur", "type": 1, "weight": 136}, "295052429": {"name": "état de somnolence profonde", "type": 1, "weight": 25}}, "relations": [{"node1": 6068, "node2": 295052429, "type": 6, "weight": 28.0}]}

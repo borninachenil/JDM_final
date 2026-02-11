@@ -1,0 +1,1 @@
+{"nodes": {"137183": {"name": "état", "type": 1, "weight": 17840}, "12725468": {"name": "état affectif violent et passager", "type": 1, "weight": 25}, "12725469": {"name": "état affectif", "type": 1, "weight": 28}}, "relations": [{"node1": 12725468, "node2": 137183, "type": 6, "weight": 27.0}, {"node1": 12725468, "node2": 12725469, "type": 6, "weight": 25.0}]}

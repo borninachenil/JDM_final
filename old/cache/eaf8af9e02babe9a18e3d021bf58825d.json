@@ -1,0 +1,1 @@
+{"nodes": {"299807009": {"name": "discrimination basée sur la différence", "type": 1, "weight": 0}, "91241": {"name": "discrimination", "type": 1, "weight": 4401}}, "relations": [{"node1": 299807009, "node2": 91241, "type": 6, "weight": 26.0}]}

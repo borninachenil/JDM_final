@@ -1,0 +1,1 @@
+{"nodes": {"201958": {"name": "humour noir", "type": 1, "weight": 209}, "312131": {"name": "concept philosophique", "type": 1, "weight": 70}, "22694": {"name": "absurdité", "type": 1, "weight": 347}}, "relations": [{"node1": 22694, "node2": 201958, "type": 6, "weight": 30.0}, {"node1": 22694, "node2": 312131, "type": 6, "weight": 30.0}]}

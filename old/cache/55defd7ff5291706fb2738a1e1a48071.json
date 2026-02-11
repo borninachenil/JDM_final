@@ -1,0 +1,1 @@
+{"nodes": {"60384": {"name": "jarret", "type": 1, "weight": 91}, "135190": {"name": "lieu", "type": 1, "weight": 13386}, "9076472": {"name": "morceau de viande>254055", "type": 1, "weight": 12}}, "relations": [{"node1": 60384, "node2": 135190, "type": 6, "weight": 56.0}, {"node1": 60384, "node2": 9076472, "type": 6, "weight": 29.0}]}

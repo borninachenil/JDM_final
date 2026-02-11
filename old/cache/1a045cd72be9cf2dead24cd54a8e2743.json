@@ -1,0 +1,1 @@
+{"nodes": {"6011895": {"name": "défaut topologique", "type": 777, "weight": 25}, "51419": {"name": "défaut", "type": 1, "weight": 5182}, "72512": {"name": "configuration", "type": 1, "weight": 2720}}, "relations": [{"node1": 6011895, "node2": 51419, "type": 6, "weight": 40.0}, {"node1": 6011895, "node2": 72512, "type": 6, "weight": 32.0}]}

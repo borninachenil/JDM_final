@@ -1,0 +1,1 @@
+{"nodes": {"16168550": {"name": "établissement de luxe", "type": 1, "weight": 25}, "77864": {"name": "établissement", "type": 1, "weight": 3841}, "404627": {"name": "Établissement", "type": 1, "weight": 131}}, "relations": [{"node1": 16168550, "node2": 77864, "type": 6, "weight": 26.0}, {"node1": 16168550, "node2": 404627, "type": 6, "weight": 10.0}]}

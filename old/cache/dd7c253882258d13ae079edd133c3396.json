@@ -1,0 +1,1 @@
+{"nodes": {"105637": {"name": "étuvée", "type": 1, "weight": 52}, "374157": {"name": "préparation alimentaire", "type": 1, "weight": 60}, "114839": {"name": "mets", "type": 1, "weight": 3119}}, "relations": [{"node1": 105637, "node2": 114839, "type": 6, "weight": 25.0}, {"node1": 105637, "node2": 374157, "type": 6, "weight": 26.0}]}

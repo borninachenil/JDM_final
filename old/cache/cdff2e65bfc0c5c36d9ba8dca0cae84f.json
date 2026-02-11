@@ -1,0 +1,1 @@
+{"nodes": {"15072637": {"name": "en:flying field", "type": 1, "weight": 25}, "113743": {"name": "port", "type": 1, "weight": 5772}, "14967243": {"name": "en:flying", "type": 1, "weight": 25}}, "relations": [{"node1": 15072637, "node2": 113743, "type": 6, "weight": 37.0}, {"node1": 15072637, "node2": 14967243, "type": 6, "weight": 25.0}]}

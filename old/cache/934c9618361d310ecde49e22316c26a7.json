@@ -1,0 +1,1 @@
+{"nodes": {"15320232": {"name": "portion héréditaire", "type": 1, "weight": 25}, "110940": {"name": "portion", "type": 1, "weight": 2401}, "14921738": {"name": "en:attribute", "type": 1, "weight": 25}}, "relations": [{"node1": 15320232, "node2": 110940, "type": 6, "weight": 26.0}, {"node1": 15320232, "node2": 14921738, "type": 6, "weight": 44.0}]}

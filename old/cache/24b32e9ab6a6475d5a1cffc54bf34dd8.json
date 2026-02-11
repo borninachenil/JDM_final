@@ -1,0 +1,1 @@
+{"nodes": {"179691": {"name": "électro-ménager", "type": 1, "weight": 51}, "106265": {"name": "appareil", "type": 1, "weight": 4064}, "32025": {"name": "électro", "type": 1, "weight": 120}}, "relations": [{"node1": 179691, "node2": 32025, "type": 6, "weight": 21.0}, {"node1": 179691, "node2": 106265, "type": 6, "weight": 1.0}]}

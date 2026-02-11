@@ -1,0 +1,1 @@
+{"nodes": {"7336901": {"name": "en:sugar substitute", "type": 1, "weight": 25}, "70062": {"name": "édulcorant", "type": 1, "weight": 232}, "261687": {"name": "édulcorant artificiel", "type": 1, "weight": 58}}, "relations": [{"node1": 261687, "node2": 70062, "type": 6, "weight": 284.0}, {"node1": 261687, "node2": 7336901, "type": 6, "weight": 26.0}]}

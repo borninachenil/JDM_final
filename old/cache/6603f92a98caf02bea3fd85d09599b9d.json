@@ -1,0 +1,1 @@
+{"nodes": {"252569574": {"name": "dégradation écologique", "type": 1, "weight": 42}, "14636258": {"name": "Dégradation", "type": 1, "weight": 43}, "134527": {"name": "dégradation", "type": 1, "weight": 3224}}, "relations": [{"node1": 252569574, "node2": 134527, "type": 6, "weight": 25.0}, {"node1": 252569574, "node2": 14636258, "type": 6, "weight": 15.0}]}

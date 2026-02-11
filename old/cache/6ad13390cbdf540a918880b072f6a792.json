@@ -1,0 +1,1 @@
+{"nodes": {"143759978": {"name": "Titre honorifique", "type": 1, "weight": 25}, "7970": {"name": "titre", "type": 1, "weight": 8797}, "2580748": {"name": "Titre", "type": 1, "weight": 3818}}, "relations": [{"node1": 143759978, "node2": 7970, "type": 6, "weight": 60.0}, {"node1": 143759978, "node2": 2580748, "type": 6, "weight": 25.0}]}

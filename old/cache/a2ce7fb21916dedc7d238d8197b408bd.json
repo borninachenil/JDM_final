@@ -1,0 +1,1 @@
+{"nodes": {"361358": {"name": "liant hydraulique", "type": 1, "weight": 50}, "119991147": {"name": "Liant", "type": 1, "weight": 25}, "109466": {"name": "liant", "type": 1, "weight": 210}}, "relations": [{"node1": 361358, "node2": 109466, "type": 6, "weight": 41.0}, {"node1": 361358, "node2": 119991147, "type": 6, "weight": 15.0}]}

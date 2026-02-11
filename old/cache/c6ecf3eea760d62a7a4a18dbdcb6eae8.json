@@ -1,0 +1,1 @@
+{"nodes": {"17407605": {"name": "comportement strictement interdit par la loi pénale", "type": 1, "weight": 25}, "16718": {"name": "comportement", "type": 1, "weight": 12463}}, "relations": [{"node1": 17407605, "node2": 16718, "type": 6, "weight": 26.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"8568731": {"name": "être multicellulaire", "type": 1, "weight": 37}, "11080571": {"name": "être complexe multicellulaire", "type": 1, "weight": 25}, "13369": {"name": "être", "type": 1, "weight": 925601}}, "relations": [{"node1": 11080571, "node2": 13369, "type": 6, "weight": 26.0}, {"node1": 11080571, "node2": 8568731, "type": 6, "weight": 66.0}]}

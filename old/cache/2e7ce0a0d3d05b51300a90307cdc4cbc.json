@@ -1,0 +1,1 @@
+{"nodes": {"80973": {"name": "science", "type": 1, "weight": 13953}, "142229": {"name": "Science", "type": 1, "weight": 3904}, "270228280": {"name": "science formelle", "type": 1, "weight": 25}}, "relations": [{"node1": 270228280, "node2": 80973, "type": 6, "weight": 25.0}, {"node1": 270228280, "node2": 142229, "type": 6, "weight": 10.0}]}

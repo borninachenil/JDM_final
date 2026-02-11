@@ -1,0 +1,1 @@
+{"nodes": {"15062075": {"name": "en:representational process", "type": 1, "weight": 0}, "15084324": {"name": "en:basic cognitive process", "type": 1, "weight": 25}}, "relations": [{"node1": 15062075, "node2": 15084324, "type": 6, "weight": 31.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"47593": {"name": "nuance", "type": 1, "weight": 1049}, "318668": {"name": "nuance de couleur", "type": 1, "weight": 2}, "401723637": {"name": "nuance de", "type": 1, "weight": 45}}, "relations": [{"node1": 318668, "node2": 47593, "type": 6, "weight": 26.0}, {"node1": 318668, "node2": 401723637, "type": 6, "weight": 25.0}]}

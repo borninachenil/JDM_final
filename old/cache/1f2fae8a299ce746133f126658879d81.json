@@ -1,0 +1,1 @@
+{"nodes": {"71198": {"name": "projectile", "type": 1, "weight": 295}, "13665916": {"name": "projectile autopropulsé et guidé", "type": 1, "weight": 25}}, "relations": [{"node1": 13665916, "node2": 71198, "type": 6, "weight": 26.0}]}

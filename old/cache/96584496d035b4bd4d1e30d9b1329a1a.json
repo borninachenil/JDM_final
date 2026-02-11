@@ -1,0 +1,1 @@
+{"nodes": {"1469237": {"name": "composant de la matière", "type": 1, "weight": 25}, "261302829": {"name": "composant de", "type": 1, "weight": 25}, "33163": {"name": "composant", "type": 1, "weight": 2917}}, "relations": [{"node1": 1469237, "node2": 33163, "type": 6, "weight": 26.0}, {"node1": 1469237, "node2": 261302829, "type": 6, "weight": 25.0}]}

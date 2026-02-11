@@ -1,0 +1,1 @@
+{"nodes": {"336314191": {"name": "réunion sociale grecque", "type": 1, "weight": 0}, "138659": {"name": "symposium", "type": 1, "weight": 225}}, "relations": [{"node1": 138659, "node2": 336314191, "type": 6, "weight": 26.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"143180": {"name": "marque", "type": 1, "weight": 6279}, "5794175": {"name": "marque d'eau minérale", "type": 1, "weight": 27}}, "relations": [{"node1": 5794175, "node2": 143180, "type": 6, "weight": 26.0}]}

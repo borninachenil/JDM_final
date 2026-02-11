@@ -1,0 +1,1 @@
+{"nodes": {"5521329": {"name": "sensation de mal-être", "type": 1, "weight": 27}, "127640": {"name": "sensation", "type": 1, "weight": 3066}, "274255520": {"name": "sensation de", "type": 1, "weight": 26}}, "relations": [{"node1": 5521329, "node2": 127640, "type": 6, "weight": 29.0}, {"node1": 5521329, "node2": 274255520, "type": 6, "weight": 25.0}]}

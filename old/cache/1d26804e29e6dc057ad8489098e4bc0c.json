@@ -1,0 +1,1 @@
+{"nodes": {"82234": {"name": "précarité", "type": 1, "weight": 981}, "178380374": {"name": "précarité professionnelle", "type": 1, "weight": 36}}, "relations": [{"node1": 178380374, "node2": 82234, "type": 6, "weight": 26.0}]}

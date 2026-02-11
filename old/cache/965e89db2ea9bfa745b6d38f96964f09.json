@@ -1,0 +1,1 @@
+{"nodes": {"27114": {"name": "catégorie", "type": 1, "weight": 5836}, "54899": {"name": "réunion", "type": 1, "weight": 5108}, "268466197": {"name": "structure ontologique", "type": 1, "weight": 25}}, "relations": [{"node1": 27114, "node2": 54899, "type": 6, "weight": 30.0}, {"node1": 27114, "node2": 268466197, "type": 6, "weight": 27.0}]}

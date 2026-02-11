@@ -1,0 +1,1 @@
+{"nodes": {"259298045": {"name": "réplique de théâtre", "type": 1, "weight": 25}, "13926": {"name": "aparté", "type": 1, "weight": 62}, "112551": {"name": "réplique", "type": 1, "weight": 442}}, "relations": [{"node1": 13926, "node2": 112551, "type": 6, "weight": 28.0}, {"node1": 13926, "node2": 259298045, "type": 6, "weight": 25.0}]}

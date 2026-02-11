@@ -1,0 +1,1 @@
+{"nodes": {"15446072": {"name": "en:social background", "type": 1, "weight": 25}, "143408": {"name": "milieu", "type": 1, "weight": 12148}, "6905432": {"name": "en:social", "type": 1, "weight": 25}}, "relations": [{"node1": 15446072, "node2": 143408, "type": 6, "weight": 230.0}, {"node1": 15446072, "node2": 6905432, "type": 6, "weight": 25.0}]}

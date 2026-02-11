@@ -1,0 +1,1 @@
+{"nodes": {"144647": {"name": "fête", "type": 1, "weight": 7902}, "326318": {"name": "fête>73890", "type": 1, "weight": 62}, "158400": {"name": "fête chrétienne", "type": 1, "weight": 118}}, "relations": [{"node1": 158400, "node2": 144647, "type": 6, "weight": 92.0}, {"node1": 158400, "node2": 326318, "type": 6, "weight": 2.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"26038": {"name": "ouvrage", "type": 1, "weight": 6904}, "55137": {"name": "construction", "type": 1, "weight": 8004}, "15423506": {"name": "en:highway structure", "type": 1, "weight": 25}}, "relations": [{"node1": 15423506, "node2": 26038, "type": 6, "weight": 120.0}, {"node1": 15423506, "node2": 55137, "type": 6, "weight": 120.0}]}

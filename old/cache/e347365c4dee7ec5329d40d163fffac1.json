@@ -1,0 +1,1 @@
+{"nodes": {"63471": {"name": "protection", "type": 1, "weight": 16402}, "329885036": {"name": "protection des", "type": 1, "weight": 27}, "258755061": {"name": "protection des monuments", "type": 1, "weight": 25}}, "relations": [{"node1": 258755061, "node2": 63471, "type": 6, "weight": 26.0}, {"node1": 258755061, "node2": 329885036, "type": 6, "weight": 25.0}]}

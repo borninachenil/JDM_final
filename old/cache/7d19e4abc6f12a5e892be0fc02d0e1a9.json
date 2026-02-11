@@ -1,0 +1,1 @@
+{"nodes": {"55304": {"name": "trucage", "type": 1, "weight": 146}, "112929": {"name": "action", "type": 1, "weight": 18867}, "53688": {"name": "activité", "type": 1, "weight": 10784}}, "relations": [{"node1": 55304, "node2": 53688, "type": 6, "weight": 79.0}, {"node1": 55304, "node2": 112929, "type": 6, "weight": 82.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"244505": {"name": "nettoyage à sec", "type": 1, "weight": 34}, "95364": {"name": "nettoyage", "type": 1, "weight": 1104}, "15054": {"name": "procédé", "type": 1, "weight": 3633}}, "relations": [{"node1": 244505, "node2": 15054, "type": 6, "weight": 58.0}, {"node1": 244505, "node2": 95364, "type": 6, "weight": 89.0}]}

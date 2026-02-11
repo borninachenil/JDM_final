@@ -1,0 +1,1 @@
+{"nodes": {"257432108": {"name": "articulation de la jambe", "type": 1, "weight": 25}, "126388": {"name": "articulation", "type": 1, "weight": 1306}, "2335006": {"name": "articulation de", "type": 777, "weight": 25}}, "relations": [{"node1": 257432108, "node2": 126388, "type": 6, "weight": 25.0}, {"node1": 257432108, "node2": 2335006, "type": 6, "weight": 25.0}]}

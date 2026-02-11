@@ -1,0 +1,1 @@
+{"nodes": {"15064740": {"name": "en:modification", "type": 1, "weight": 25}, "14938792": {"name": "en:grammatical relation", "type": 1, "weight": 0}, "7054039": {"name": "en:copy", "type": 1, "weight": 25}}, "relations": [{"node1": 15064740, "node2": 7054039, "type": 6, "weight": 26.0}, {"node1": 15064740, "node2": 14938792, "type": 6, "weight": 28.0}]}

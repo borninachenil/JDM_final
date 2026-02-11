@@ -1,0 +1,1 @@
+{"nodes": {"15072665": {"name": "en:string of beads", "type": 1, "weight": 0}, "7487297": {"name": "en:string", "type": 1, "weight": 25}}, "relations": [{"node1": 15072665, "node2": 7487297, "type": 6, "weight": 35.0}]}

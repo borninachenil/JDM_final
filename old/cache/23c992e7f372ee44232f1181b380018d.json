@@ -1,0 +1,1 @@
+{"nodes": {"52119": {"name": "langue", "type": 1, "weight": 13308}, "5786629": {"name": "langue uto-aztèque", "type": 1, "weight": 25}}, "relations": [{"node1": 5786629, "node2": 52119, "type": 6, "weight": 27.0}]}

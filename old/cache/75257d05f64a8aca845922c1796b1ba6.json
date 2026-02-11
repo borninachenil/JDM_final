@@ -1,0 +1,1 @@
+{"nodes": {"308229384": {"name": "miroir mobile", "type": 1, "weight": 25}, "62788": {"name": "miroir", "type": 1, "weight": 2845}}, "relations": [{"node1": 308229384, "node2": 62788, "type": 6, "weight": 26.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"333785": {"name": "action militaire", "type": 1, "weight": 139}, "112929": {"name": "action", "type": 1, "weight": 18867}, "397085": {"name": "Action", "type": 1, "weight": 2648}}, "relations": [{"node1": 333785, "node2": 112929, "type": 6, "weight": 52.0}, {"node1": 333785, "node2": 397085, "type": 6, "weight": 25.0}]}

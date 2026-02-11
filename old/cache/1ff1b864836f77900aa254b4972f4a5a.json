@@ -1,0 +1,1 @@
+{"nodes": {"12398116": {"name": "en:sea", "type": 1, "weight": 25}, "7015598": {"name": "en:geographic area", "type": 1, "weight": 25}}, "relations": [{"node1": 12398116, "node2": 7015598, "type": 6, "weight": 37.0}]}

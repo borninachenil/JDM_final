@@ -1,0 +1,1 @@
+{"nodes": {"5516902": {"name": "aliment japonais traditionnel", "type": 1, "weight": 25}, "5516903": {"name": "aliment japonais", "type": 1, "weight": 25}, "114637": {"name": "aliment", "type": 1, "weight": 2599}}, "relations": [{"node1": 5516902, "node2": 114637, "type": 6, "weight": 41.0}, {"node1": 5516902, "node2": 5516903, "type": 6, "weight": 46.0}]}

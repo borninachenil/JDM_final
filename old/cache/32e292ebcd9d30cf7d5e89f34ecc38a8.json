@@ -1,0 +1,1 @@
+{"nodes": {"382193": {"name": "symbole graphique", "type": 1, "weight": 50}, "145994": {"name": "lettre", "type": 1, "weight": 14857}, "214515": {"name": "lettre de l'alphabet", "type": 1, "weight": 358}}, "relations": [{"node1": 214515, "node2": 145994, "type": 6, "weight": 27.0}, {"node1": 214515, "node2": 382193, "type": 6, "weight": 115.0}]}

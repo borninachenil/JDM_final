@@ -1,0 +1,1 @@
+{"nodes": {"55249": {"name": "parfum", "type": 1, "weight": 2572}, "11358": {"name": "substance", "type": 1, "weight": 4710}, "131055": {"name": "extrait", "type": 1, "weight": 2687}}, "relations": [{"node1": 131055, "node2": 11358, "type": 6, "weight": 35.0}, {"node1": 131055, "node2": 55249, "type": 6, "weight": 42.0}]}

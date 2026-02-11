@@ -1,0 +1,1 @@
+{"nodes": {"338406": {"name": "bande de tissu", "type": 1, "weight": 50}, "15569086": {"name": "bande de", "type": 1, "weight": 28}, "141457": {"name": "bande", "type": 1, "weight": 4940}}, "relations": [{"node1": 338406, "node2": 141457, "type": 6, "weight": 41.0}, {"node1": 338406, "node2": 15569086, "type": 6, "weight": 25.0}]}

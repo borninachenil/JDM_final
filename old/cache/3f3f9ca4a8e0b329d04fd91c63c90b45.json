@@ -1,0 +1,1 @@
+{"nodes": {"170114": {"name": "acte de langage", "type": 1, "weight": 185}, "116477": {"name": "personne", "type": 1, "weight": 35594}, "142056": {"name": "suggestion", "type": 1, "weight": 1078}}, "relations": [{"node1": 142056, "node2": 116477, "type": 6, "weight": 32.0}, {"node1": 142056, "node2": 170114, "type": 6, "weight": 28.0}]}

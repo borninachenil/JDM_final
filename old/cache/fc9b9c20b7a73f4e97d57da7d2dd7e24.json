@@ -1,0 +1,1 @@
+{"nodes": {"6417262": {"name": "partie postérieure du cou", "type": 1, "weight": 25}, "3233": {"name": "partie", "type": 1, "weight": 12812}, "233174": {"name": "partie postérieure", "type": 1, "weight": 19}}, "relations": [{"node1": 6417262, "node2": 3233, "type": 6, "weight": 29.0}, {"node1": 6417262, "node2": 233174, "type": 6, "weight": 25.0}]}

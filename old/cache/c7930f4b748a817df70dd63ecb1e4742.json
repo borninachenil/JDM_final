@@ -1,0 +1,1 @@
+{"nodes": {"122103": {"name": "condensateur", "type": 1, "weight": 97}, "123153": {"name": "chimique", "type": 1, "weight": 3880}}, "relations": [{"node1": 123153, "node2": 122103, "type": 6, "weight": 54.0}]}

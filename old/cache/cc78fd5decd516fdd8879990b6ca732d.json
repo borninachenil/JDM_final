@@ -1,0 +1,1 @@
+{"nodes": {"29836": {"name": "Épidaure", "type": 1, "weight": 51}, "234766": {"name": "circonscription administrative", "type": 1, "weight": 53}}, "relations": [{"node1": 29836, "node2": 234766, "type": 6, "weight": 15.0}]}

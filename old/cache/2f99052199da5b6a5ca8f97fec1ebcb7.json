@@ -1,0 +1,1 @@
+{"nodes": {"4333036": {"name": "carte nationale", "type": 1, "weight": 79}, "131196": {"name": "carte", "type": 1, "weight": 8439}}, "relations": [{"node1": 4333036, "node2": 131196, "type": 6, "weight": 29.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"80148": {"name": "suppression", "type": 1, "weight": 3328}, "12565892": {"name": "suppression des sensations", "type": 1, "weight": 25}}, "relations": [{"node1": 12565892, "node2": 80148, "type": 6, "weight": 26.0}]}

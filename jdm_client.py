@@ -1,5 +1,4 @@
 """Client API JeuxDeMots avec cache disque."""
-
 import json
 import os
 import time
@@ -12,8 +11,6 @@ from config import JDM_API_BASE, API_RATE_LIMIT, API_REQUEST_LIMIT, CACHE_DIR
 
 
 class JDMClient:
-    """Client pour l'API JeuxDeMots avec cache disque et memoire."""
-
     def __init__(self, cache_dir=CACHE_DIR):
         self.cache_dir = cache_dir
         self._memory_cache = {}
@@ -21,7 +18,6 @@ class JDMClient:
         os.makedirs(cache_dir, exist_ok=True)
 
     def _cache_key(self, word, types_ids, min_weight):
-        """Genere une cle de cache unique."""
         raw = f"{word}|{types_ids}|{min_weight}"
         return hashlib.md5(raw.encode("utf-8")).hexdigest()
 
@@ -35,7 +31,6 @@ class JDMClient:
         if os.path.exists(path):
             with open(path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-            # Convertir les cles de nodes en int (JSON les serialise en string)
             if "nodes" in data and isinstance(data["nodes"], dict):
                 data["nodes"] = {int(k): v for k, v in data["nodes"].items()}
             self._memory_cache[key] = data
@@ -55,7 +50,6 @@ class JDMClient:
         self._last_request_time = time.time()
 
     def _api_call(self, endpoint, params=None, retries=3):
-        """Appel HTTP GET vers l'API JDM avec retry."""
         url = f"{JDM_API_BASE}{endpoint}"
         if params:
             url += "?" + urllib.parse.urlencode(params)
@@ -83,15 +77,6 @@ class JDMClient:
                 return None
 
     def get_relations(self, word, types_ids=None, min_weight=0, limit=API_REQUEST_LIMIT):
-        """
-        Recupere les relations sortantes d'un mot.
-
-        Retourne un dict structure :
-        {
-            "nodes": {node_id: {"name": str, "type": int, "weight": float}},
-            "relations": [{"node1": int, "node2": int, "type": int, "weight": float}]
-        }
-        """
         types_str = str(types_ids) if types_ids is not None else "all"
         cache_key = self._cache_key(word, types_str, min_weight)
 
@@ -111,7 +96,6 @@ class JDMClient:
             self._save_to_cache(cache_key, result)
             return result
 
-        # Parser les noeuds
         nodes = {}
         for node in raw.get("nodes", []):
             nodes[node["id"]] = {
@@ -120,7 +104,6 @@ class JDMClient:
                 "weight": node.get("w", 0),
             }
 
-        # Parser les relations
         relations = []
         for rel in raw.get("relations", []):
             relations.append({
@@ -133,9 +116,8 @@ class JDMClient:
         result = {"nodes": nodes, "relations": relations}
         self._save_to_cache(cache_key, result)
         return result
-
+    # r_isa
     def get_hyperonyms(self, word):
-        """Recupere les hyperonymes (r_isa, type 6) d'un mot. Retourne {nom: poids}."""
         data = self.get_relations(word, types_ids=6, min_weight=1)
         nodes = data["nodes"]
         result = {}
@@ -147,7 +129,6 @@ class JDMClient:
         return result
 
     def get_infosem(self, word):
-        """Recupere les types semantiques (_INFO-SEM) d'un mot. Retourne {nom: poids}."""
         data = self.get_relations(word, types_ids=36, min_weight=1)
         nodes = data["nodes"]
         result = {}
@@ -161,7 +142,6 @@ class JDMClient:
         return result
 
     def get_relation_types_present(self, word):
-        """Recupere l'ensemble des types de relations dans lesquels le mot apparait."""
         data = self.get_relations(word, types_ids=None, min_weight=0)
         types_present = set()
         for rel in data["relations"]:
@@ -170,14 +150,12 @@ class JDMClient:
         return types_present
 
     def prefetch_batch(self, words, progress=True):
-        """Pre-charge les donnees JDM pour un ensemble de mots."""
         words = list(set(words))
         total = len(words)
         fetched = 0
         cached = 0
 
         for i, word in enumerate(words):
-            # Verifier si deja en cache pour les 3 types de requetes
             key_isa = self._cache_key(word, "6", 1)
             key_sem = self._cache_key(word, "36", 1)
             key_all = self._cache_key(word, "all", 0)
@@ -200,21 +178,3 @@ class JDMClient:
 
         if progress:
             print(f"  Prefetch termine : {fetched} fetched, {cached} cached sur {total} mots")
-
-
-if __name__ == "__main__":
-    client = JDMClient()
-
-    print("=== Test: hyperonymes de 'desert' ===")
-    hyp = client.get_hyperonyms("désert")
-    for name, weight in sorted(hyp.items(), key=lambda x: -x[1]):
-        print(f"  {name}: {weight}")
-
-    print("\n=== Test: _INFO-SEM de 'désert' ===")
-    sem = client.get_infosem("désert")
-    for name, weight in sorted(sem.items(), key=lambda x: -x[1]):
-        print(f"  {name}: {weight}")
-
-    print("\n=== Test: types de relations presents pour 'désert' ===")
-    types = client.get_relation_types_present("désert")
-    print(f"  Types: {sorted(types)}")

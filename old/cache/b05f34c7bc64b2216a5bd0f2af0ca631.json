@@ -1,0 +1,1 @@
+{"nodes": {"14956864": {"name": "en:propulsion", "type": 1, "weight": 25}, "15082513": {"name": "en:actuation", "type": 1, "weight": 0}, "15045537": {"name": "en:pulling", "type": 1, "weight": 25}}, "relations": [{"node1": 15045537, "node2": 14956864, "type": 6, "weight": 31.0}, {"node1": 15045537, "node2": 15082513, "type": 6, "weight": 27.0}]}

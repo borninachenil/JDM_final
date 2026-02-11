@@ -1,0 +1,1 @@
+{"nodes": {"22243": {"name": "pays", "type": 1, "weight": 29109}, "2785548": {"name": "lieu géographique", "type": 1, "weight": 22}, "295982661": {"name": "pays maghrébin", "type": 1, "weight": 25}}, "relations": [{"node1": 295982661, "node2": 22243, "type": 6, "weight": 26.0}, {"node1": 295982661, "node2": 2785548, "type": 6, "weight": 26.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"237": {"name": "objet", "type": 1, "weight": 9711}, "366881": {"name": "objet de dévotion", "type": 1, "weight": 50}, "17676448": {"name": "objet de", "type": 777, "weight": 41}}, "relations": [{"node1": 366881, "node2": 237, "type": 6, "weight": 29.0}, {"node1": 366881, "node2": 17676448, "type": 6, "weight": 31.0}]}

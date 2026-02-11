@@ -1,0 +1,1 @@
+{"nodes": {"15592466": {"name": "comportement à risque", "type": 1, "weight": 84}, "16718": {"name": "comportement", "type": 1, "weight": 12463}, "8004903": {"name": "Comportement", "type": 1, "weight": 188}}, "relations": [{"node1": 15592466, "node2": 16718, "type": 6, "weight": 36.0}, {"node1": 15592466, "node2": 8004903, "type": 6, "weight": 10.0}]}

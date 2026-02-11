@@ -1,0 +1,1 @@
+{"nodes": {"5628791": {"name": "tetilla", "type": 1, "weight": 25}, "2585997": {"name": "_INFO-CNRTL-NO", "type": 36, "weight": 50}, "273221": {"name": "_INFO-WIKI-NO", "type": 36, "weight": 50}}, "relations": [{"node1": 5628791, "node2": 273221, "type": 36, "weight": 27.0}, {"node1": 5628791, "node2": 2585997, "type": 36, "weight": 54.0}]}

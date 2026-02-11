@@ -1,0 +1,1 @@
+{"nodes": {"255485734": {"name": "héritage direct", "type": 1, "weight": 28}, "120619": {"name": "héritage", "type": 1, "weight": 7956}}, "relations": [{"node1": 255485734, "node2": 120619, "type": 6, "weight": 25.0}]}

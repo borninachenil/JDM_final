@@ -1,0 +1,1 @@
+{"nodes": {"15416636": {"name": "en:game of skill", "type": 1, "weight": 25}, "53314": {"name": "jeu", "type": 1, "weight": 12266}}, "relations": [{"node1": 15416636, "node2": 53314, "type": 6, "weight": 125.0}]}

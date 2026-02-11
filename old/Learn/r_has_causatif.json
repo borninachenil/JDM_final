@@ -1,0 +1,4002 @@
+[
+{
+"A":"dégâts",
+"L":"de la",
+"B":"tempête"
+},
+{
+"A":"retards",
+"L":"de la",
+"B":"circulation"
+},
+{
+"A":"fatigue",
+"L":"du",
+"B":"voyage"
+},
+{
+"A":"stress",
+"L":"de l'",
+"B":"examen"
+},
+{
+"A":"cicatrices",
+"L":"de l'",
+"B":"accident"
+},
+{
+"A":"tristesse",
+"L":"de la",
+"B":"séparation"
+},
+{
+"A":"joie",
+"L":"de la",
+"B":"victoire"
+},
+{
+"A":"pollution",
+"L":"de l'",
+"B":"usine"
+},
+{
+"A":"bruit",
+"L":"du",
+"B":"chantier"
+},
+{
+"A":"fumée",
+"L":"de l'",
+"B":"incendie"
+},
+{
+"A":"chaleur",
+"L":"du",
+"B":"soleil"
+},
+{
+"A":"froid",
+"L":"de l'",
+"B":"hiver"
+},
+{
+"A":"humidité",
+"L":"de la",
+"B":"pluie"
+},
+{
+"A":"sécheresse",
+"L":"de la",
+"B":"canicule"
+},
+{
+"A":"inondations",
+"L":"du",
+"B":"fleuve"
+},
+{
+"A":"érosion",
+"L":"du",
+"B":"vent"
+},
+{
+"A":"destruction",
+"L":"du",
+"B":"séisme"
+},
+{
+"A":"victimes",
+"L":"du",
+"B":"tsunami"
+},
+{
+"A":"cendres",
+"L":"du",
+"B":"volcan"
+},
+{
+"A":"ravages",
+"L":"de la",
+"B":"guerre"
+},
+{
+"A":"traumatisme",
+"L":"du",
+"B":"conflit"
+},
+{
+"A":"souffrance",
+"L":"de la",
+"B":"maladie"
+},
+{
+"A":"douleur",
+"L":"de la",
+"B":"blessure"
+},
+{
+"A":"fièvre",
+"L":"de l'",
+"B":"infection"
+},
+{
+"A":"nausée",
+"L":"du",
+"B":"mal de mer"
+},
+{
+"A":"vertige",
+"L":"de la",
+"B":"hauteur"
+},
+{
+"A":"essoufflement",
+"L":"de la",
+"B":"course"
+},
+{
+"A":"sueur",
+"L":"de l'",
+"B":"effort"
+},
+{
+"A":"courbatures",
+"L":"de l'",
+"B":"entraînement"
+},
+{
+"A":"crampes",
+"L":"de la",
+"B":"déshydratation"
+},
+{
+"A":"épuisement",
+"L":"du",
+"B":"marathon"
+},
+{
+"A":"bronzage",
+"L":"du",
+"B":"soleil"
+},
+{
+"A":"brûlure",
+"L":"de l'",
+"B":"eau bouillante"
+},
+{
+"A":"gelure",
+"L":"du",
+"B":"froid"
+},
+{
+"A":"allergie",
+"L":"du",
+"B":"pollen"
+},
+{
+"A":"éternuements",
+"L":"de la",
+"B":"poussière"
+},
+{
+"A":"toux",
+"L":"du",
+"B":"rhume"
+},
+{
+"A":"mal de tête",
+"L":"du",
+"B":"bruit"
+},
+{
+"A":"migraine",
+"L":"de la",
+"B":"lumière"
+},
+{
+"A":"insomnie",
+"L":"du",
+"B":"café"
+},
+{
+"A":"somnolence",
+"L":"du",
+"B":"repas"
+},
+{
+"A":"ivresse",
+"L":"de l'",
+"B":"alcool"
+},
+{
+"A":"gueule de bois",
+"L":"de la",
+"B":"fête"
+},
+{
+"A":"euphorie",
+"L":"de la",
+"B":"drogue"
+},
+{
+"A":"dépendance",
+"L":"du",
+"B":"tabac"
+},
+{
+"A":"cancer",
+"L":"du",
+"B":"tabagisme"
+},
+{
+"A":"obésité",
+"L":"de la",
+"B":"malbouffe"
+},
+{
+"A":"diabète",
+"L":"du",
+"B":"sucre"
+},
+{
+"A":"carie",
+"L":"du",
+"B":"bonbon"
+},
+{
+"A":"intoxication",
+"L":"du",
+"B":"champignon"
+},
+{
+"A":"empoisonnement",
+"L":"de la",
+"B":"nourriture"
+},
+{
+"A":"contamination",
+"L":"de l'",
+"B":"eau"
+},
+{
+"A":"épidémie",
+"L":"du",
+"B":"virus"
+},
+{
+"A":"contagion",
+"L":"de la",
+"B":"grippe"
+},
+{
+"A":"propagation",
+"L":"de la",
+"B":"maladie"
+},
+{
+"A":"transmission",
+"L":"du",
+"B":"microbe"
+},
+{
+"A":"infection",
+"L":"de la",
+"B":"bactérie"
+},
+{
+"A":"inflammation",
+"L":"de la",
+"B":"piqûre"
+},
+{
+"A":"démangeaison",
+"L":"de l'",
+"B":"ortie"
+},
+{
+"A":"enflure",
+"L":"de la",
+"B":"morsure"
+},
+{
+"A":"paralysie",
+"L":"du",
+"B":"venin"
+},
+{
+"A":"décès",
+"L":"de l'",
+"B":"empoisonnement"
+},
+{
+"A":"mort",
+"L":"de la",
+"B":"famine"
+},
+{
+"A":"faiblesse",
+"L":"de la",
+"B":"malnutrition"
+},
+{
+"A":"anémie",
+"L":"de la",
+"B":"carence"
+},
+{
+"A":"rachitisme",
+"L":"du",
+"B":"manque"
+},
+{
+"A":"scorbut",
+"L":"de la",
+"B":"vitamine"
+},
+{
+"A":"cécité",
+"L":"du",
+"B":"diabète"
+},
+{
+"A":"surdité",
+"L":"de l'",
+"B":"explosion"
+},
+{
+"A":"myopie",
+"L":"de l'",
+"B":"écran"
+},
+{
+"A":"presbytie",
+"L":"de l'",
+"B":"âge"
+},
+{
+"A":"rides",
+"L":"du",
+"B":"vieillissement"
+},
+{
+"A":"calvitie",
+"L":"de l'",
+"B":"hérédité"
+},
+{
+"A":"blanchiment",
+"L":"du",
+"B":"stress"
+},
+{
+"A":"chute",
+"L":"de l'",
+"B":"angoisse"
+},
+{
+"A":"anxiété",
+"L":"de l'",
+"B":"attente"
+},
+{
+"A":"peur",
+"L":"de l'",
+"B":"inconnu"
+},
+{
+"A":"panique",
+"L":"de l'",
+"B":"urgence"
+},
+{
+"A":"terreur",
+"L":"du",
+"B":"danger"
+},
+{
+"A":"effroi",
+"L":"de la",
+"B":"menace"
+},
+{
+"A":"horreur",
+"L":"du",
+"B":"spectacle"
+},
+{
+"A":"dégoût",
+"L":"de l'",
+"B":"odeur"
+},
+{
+"A":"répulsion",
+"L":"de la",
+"B":"vue"
+},
+{
+"A":"colère",
+"L":"de l'",
+"B":"injustice"
+},
+{
+"A":"rage",
+"L":"de la",
+"B":"frustration"
+},
+{
+"A":"fureur",
+"L":"de la",
+"B":"trahison"
+},
+{
+"A":"irritation",
+"L":"du",
+"B":"retard"
+},
+{
+"A":"agacement",
+"L":"de l'",
+"B":"attente"
+},
+{
+"A":"impatience",
+"L":"de l'",
+"B":"ennui"
+},
+{
+"A":"déception",
+"L":"de l'",
+"B":"échec"
+},
+{
+"A":"désillusion",
+"L":"de la",
+"B":"réalité"
+},
+{
+"A":"amertume",
+"L":"de la",
+"B":"défaite"
+},
+{
+"A":"regret",
+"L":"de la",
+"B":"décision"
+},
+{
+"A":"remords",
+"L":"de l'",
+"B":"acte"
+},
+{
+"A":"honte",
+"L":"de la",
+"B":"faute"
+},
+{
+"A":"culpabilité",
+"L":"de l'",
+"B":"erreur"
+},
+{
+"A":"embarras",
+"L":"de la",
+"B":"situation"
+},
+{
+"A":"gêne",
+"L":"du",
+"B":"compliment"
+},
+{
+"A":"timidité",
+"L":"de la",
+"B":"rencontre"
+},
+{
+"A":"confusion",
+"L":"du",
+"B":"discours"
+},
+{
+"A":"perplexité",
+"L":"de la",
+"B":"question"
+},
+{
+"A":"étonnement",
+"L":"de la",
+"B":"nouvelle"
+},
+{
+"A":"surprise",
+"L":"de l'",
+"B":"annonce"
+},
+{
+"A":"stupéfaction",
+"L":"de la",
+"B":"révélation"
+},
+{
+"A":"émerveillement",
+"L":"de la",
+"B":"découverte"
+},
+{
+"A":"admiration",
+"L":"de la",
+"B":"performance"
+},
+{
+"A":"respect",
+"L":"de l'",
+"B":"exploit"
+},
+{
+"A":"vénération",
+"L":"du",
+"B":"sacrifice"
+},
+{
+"A":"gratitude",
+"L":"du",
+"B":"geste"
+},
+{
+"A":"reconnaissance",
+"L":"de l'",
+"B":"aide"
+},
+{
+"A":"bonheur",
+"L":"de la",
+"B":"réussite"
+},
+{
+"A":"satisfaction",
+"L":"du",
+"B":"résultat"
+},
+{
+"A":"fierté",
+"L":"de l'",
+"B":"accomplissement"
+},
+{
+"A":"soulagement",
+"L":"de la",
+"B":"fin"
+},
+{
+"A":"apaisement",
+"L":"du",
+"B":"calme"
+},
+{
+"A":"sérénité",
+"L":"de la",
+"B":"paix"
+},
+{
+"A":"mélancolie",
+"L":"de l'",
+"B":"automne"
+},
+{
+"A":"nostalgie",
+"L":"du",
+"B":"passé"
+},
+{
+"A":"spleen",
+"L":"de l'",
+"B":"hiver"
+},
+{
+"A":"morosité",
+"L":"du",
+"B":"temps"
+},
+{
+"A":"déprime",
+"L":"de la",
+"B":"solitude"
+},
+{
+"A":"dépression",
+"L":"de l'",
+"B":"isolement"
+},
+{
+"A":"angoisse",
+"L":"de la",
+"B":"nuit"
+},
+{
+"A":"cauchemar",
+"L":"du",
+"B":"trauma"
+},
+{
+"A":"terreur nocturne",
+"L":"du",
+"B":"stress"
+},
+{
+"A":"insomnie",
+"L":"de l'",
+"B":"anxiété"
+},
+{
+"A":"réveil",
+"L":"du",
+"B":"cauchemar"
+},
+{
+"A":"sursaut",
+"L":"du",
+"B":"bruit"
+},
+{
+"A":"frisson",
+"L":"du",
+"B":"froid"
+},
+{
+"A":"tremblement",
+"L":"de la",
+"B":"peur"
+},
+{
+"A":"frémissement",
+"L":"de l'",
+"B":"émotion"
+},
+{
+"A":"tressaillement",
+"L":"de la",
+"B":"surprise"
+},
+{
+"A":"sursaut",
+"L":"de l'",
+"B":"effroi"
+},
+{
+"A":"soubresaut",
+"L":"du",
+"B":"choc"
+},
+{
+"A":"spasme",
+"L":"de la",
+"B":"douleur"
+},
+{
+"A":"contorsion",
+"L":"de la",
+"B":"souffrance"
+},
+{
+"A":"grimace",
+"L":"de la",
+"B":"douleur"
+},
+{
+"A":"rictus",
+"L":"de la",
+"B":"souffrance"
+},
+{
+"A":"cri",
+"L":"de la",
+"B":"douleur"
+},
+{
+"A":"hurlement",
+"L":"de la",
+"B":"souffrance"
+},
+{
+"A":"gémissement",
+"L":"de la",
+"B":"douleur"
+},
+{
+"A":"plainte",
+"L":"de la",
+"B":"souffrance"
+},
+{
+"A":"sanglot",
+"L":"du",
+"B":"chagrin"
+},
+{
+"A":"pleur",
+"L":"de la",
+"B":"tristesse"
+},
+{
+"A":"larme",
+"L":"de l'",
+"B":"émotion"
+},
+{
+"A":"hoquet",
+"L":"des",
+"B":"pleurs"
+},
+{
+"A":"reniflement",
+"L":"du",
+"B":"rhume"
+},
+{
+"A":"éternuement",
+"L":"du",
+"B":"rhume"
+},
+{
+"A":"quinte",
+"L":"de la",
+"B":"toux"
+},
+{
+"A":"crachat",
+"L":"de la",
+"B":"bronchite"
+},
+{
+"A":"expectoration",
+"L":"de la",
+"B":"pneumonie"
+},
+{
+"A":"mucosité",
+"L":"du",
+"B":"rhume"
+},
+{
+"A":"écoulement",
+"L":"du",
+"B":"nez"
+},
+{
+"A":"congestion",
+"L":"du",
+"B":"rhume"
+},
+{
+"A":"obstruction",
+"L":"du",
+"B":"nez"
+},
+{
+"A":"difficulté",
+"L":"de la",
+"B":"respiration"
+},
+{
+"A":"dyspnée",
+"L":"de l'",
+"B":"asthme"
+},
+{
+"A":"sifflement",
+"L":"de l'",
+"B":"asthme"
+},
+{
+"A":"oppression",
+"L":"de la",
+"B":"crise"
+},
+{
+"A":"étranglement",
+"L":"de l'",
+"B":"allergie"
+},
+{
+"A":"suffocation",
+"L":"de l'",
+"B":"asthme"
+},
+{
+"A":"haletement",
+"L":"de la",
+"B":"course"
+},
+{
+"A":"souffle court",
+"L":"de l'",
+"B":"effort"
+},
+{
+"A":"respiration rapide",
+"L":"du",
+"B":"stress"
+},
+{
+"A":"hyperventilation",
+"L":"de la",
+"B":"panique"
+},
+{
+"A":"apnée",
+"L":"du",
+"B":"sommeil"
+},
+{
+"A":"ronflement",
+"L":"de l'",
+"B":"obésité"
+},
+{
+"A":"somnolence",
+"L":"de l'",
+"B":"apnée"
+},
+{
+"A":"fatigue",
+"L":"du",
+"B":"manque"
+},
+{
+"A":"épuisement",
+"L":"de l'",
+"B":"insomnie"
+},
+{
+"A":"léthargie",
+"L":"de la",
+"B":"fatigue"
+},
+{
+"A":"torpeur",
+"L":"du",
+"B":"sommeil"
+},
+{
+"A":"engourdissement",
+"L":"du",
+"B":"froid"
+},
+{
+"A":"raideur",
+"L":"du",
+"B":"froid"
+},
+{
+"A":"crampe",
+"L":"du",
+"B":"froid"
+},
+{
+"A":"claquement",
+"L":"des",
+"B":"dents"
+},
+{
+"A":"chair de poule",
+"L":"du",
+"B":"froid"
+},
+{
+"A":"frissonnement",
+"L":"du",
+"B":"froid"
+},
+{
+"A":"grelottement",
+"L":"du",
+"B":"froid"
+},
+{
+"A":"hypothermie",
+"L":"du",
+"B":"froid"
+},
+{
+"A":"engelure",
+"L":"du",
+"B":"gel"
+},
+{
+"A":"gelure",
+"L":"du",
+"B":"froid extrême"
+},
+{
+"A":"nécrose",
+"L":"du",
+"B":"gel"
+},
+{
+"A":"gangrène",
+"L":"du",
+"B":"froid"
+},
+{
+"A":"amputation",
+"L":"de la",
+"B":"gangrène"
+},
+{
+"A":"mutilation",
+"L":"de l'",
+"B":"accident"
+},
+{
+"A":"défiguration",
+"L":"de la",
+"B":"brûlure"
+},
+{
+"A":"difformité",
+"L":"de la",
+"B":"malformation"
+},
+{
+"A":"déformation",
+"L":"de l'",
+"B":"arthrose"
+},
+{
+"A":"bosse",
+"L":"de la",
+"B":"fracture"
+},
+{
+"A":"cal",
+"L":"du",
+"B":"traumatisme"
+},
+{
+"A":"nodosité",
+"L":"de l'",
+"B":"arthrose"
+},
+{
+"A":"kyste",
+"L":"de la",
+"B":"glande"
+},
+{
+"A":"tumeur",
+"L":"du",
+"B":"cancer"
+},
+{
+"A":"grosseur",
+"L":"de la",
+"B":"tumeur"
+},
+{
+"A":"masse",
+"L":"du",
+"B":"kyste"
+},
+{
+"A":"protubérance",
+"L":"de la",
+"B":"bosse"
+},
+{
+"A":"excroissance",
+"L":"de la",
+"B":"verrue"
+},
+{
+"A":"verrue",
+"L":"du",
+"B":"virus"
+},
+{
+"A":"papillome",
+"L":"du",
+"B":"HPV"
+},
+{
+"A":"condylome",
+"L":"du",
+"B":"virus"
+},
+{
+"A":"molluscum",
+"L":"de la",
+"B":"contagion"
+},
+{
+"A":"herpès",
+"L":"du",
+"B":"virus"
+},
+{
+"A":"bouton de fièvre",
+"L":"du",
+"B":"stress"
+},
+{
+"A":"zona",
+"L":"du",
+"B":"virus"
+},
+{
+"A":"varicelle",
+"L":"du",
+"B":"virus"
+},
+{
+"A":"rougeole",
+"L":"du",
+"B":"virus"
+},
+{
+"A":"rubéole",
+"L":"du",
+"B":"virus"
+},
+{
+"A":"oreillons",
+"L":"du",
+"B":"virus"
+},
+{
+"A":"scarlatine",
+"L":"de la",
+"B":"bactérie"
+},
+{
+"A":"coqueluche",
+"L":"de la",
+"B":"bactérie"
+},
+{
+"A":"diphtérie",
+"L":"de la",
+"B":"bactérie"
+},
+{
+"A":"tétanos",
+"L":"de la",
+"B":"bactérie"
+},
+{
+"A":"polio",
+"L":"du",
+"B":"virus"
+},
+{
+"A":"rage",
+"L":"du",
+"B":"chien"
+},
+{
+"A":"morsure",
+"L":"du",
+"B":"serpent"
+},
+{
+"A":"piqûre",
+"L":"de l'",
+"B":"abeille"
+},
+{
+"A":"gonflement",
+"L":"de la",
+"B":"guêpe"
+},
+{
+"A":"réaction",
+"L":"du",
+"B":"frelon"
+},
+{
+"A":"choc",
+"L":"de l'",
+"B":"araignée"
+},
+{
+"A":"venin",
+"L":"du",
+"B":"scorpion"
+},
+{
+"A":"mort",
+"L":"de la",
+"B":"méduse"
+},
+{
+"A":"brûlure",
+"L":"du",
+"B":"corail"
+},
+{
+"A":"coupure",
+"L":"du",
+"B":"couteau"
+},
+{
+"A":"entaille",
+"L":"de la",
+"B":"lame"
+},
+{
+"A":"plaie",
+"L":"du",
+"B":"verre"
+},
+{
+"A":"saignement",
+"L":"de la",
+"B":"coupure"
+},
+{
+"A":"hémorragie",
+"L":"de l'",
+"B":"artère"
+},
+{
+"A":"perte de sang",
+"L":"de la",
+"B":"plaie"
+},
+{
+"A":"choc",
+"L":"du",
+"B":"sang"
+},
+{
+"A":"évanouissement",
+"L":"du",
+"B":"saignement"
+},
+{
+"A":"malaise",
+"L":"de la",
+"B":"vue"
+},
+{
+"A":"nausée",
+"L":"du",
+"B":"sang"
+},
+{
+"A":"vomissement",
+"L":"du",
+"B":"dégoût"
+},
+{
+"A":"haut-le-cœur",
+"L":"de l'",
+"B":"odeur"
+},
+{
+"A":"dégoût",
+"L":"du",
+"B":"goût"
+},
+{
+"A":"amertume",
+"L":"du",
+"B":"médicament"
+},
+{
+"A":"grimace",
+"L":"du",
+"B":"sirop"
+},
+{
+"A":"refus",
+"L":"de l'",
+"B":"injection"
+},
+{
+"A":"peur",
+"L":"de l'",
+"B":"aiguille"
+},
+{
+"A":"phobie",
+"L":"du",
+"B":"sang"
+},
+{
+"A":"angoisse",
+"L":"du",
+"B":"médecin"
+},
+{
+"A":"stress",
+"L":"de l'",
+"B":"hôpital"
+},
+{
+"A":"anxiété",
+"L":"de l'",
+"B":"opération"
+},
+{
+"A":"panique",
+"L":"de la",
+"B":"chirurgie"
+},
+{
+"A":"terreur",
+"L":"du",
+"B":"dentiste"
+},
+{
+"A":"peur",
+"L":"de la",
+"B":"fraise"
+},
+{
+"A":"douleur",
+"L":"du",
+"B":"soin"
+},
+{
+"A":"souffrance",
+"L":"de l'",
+"B":"extraction"
+},
+{
+"A":"gonflement",
+"L":"de la",
+"B":"joue"
+},
+{
+"A":"enflure",
+"L":"de la",
+"B":"gencive"
+},
+{
+"A":"inflammation",
+"L":"de la",
+"B":"dent"
+},
+{
+"A":"abcès",
+"L":"de la",
+"B":"racine"
+},
+{
+"A":"infection",
+"L":"de la",
+"B":"bouche"
+},
+{
+"A":"fièvre",
+"L":"de la",
+"B":"dent"
+},
+{
+"A":"douleur",
+"L":"de la",
+"B":"rage"
+},
+{
+"A":"insomnie",
+"L":"de la",
+"B":"douleur"
+},
+{
+"A":"fatigue",
+"L":"du",
+"B":"mal"
+},
+{
+"A":"épuisement",
+"L":"de la",
+"B":"nuit"
+},
+{
+"A":"somnolence",
+"L":"du",
+"B":"jour"
+},
+{
+"A":"irritabilité",
+"L":"du",
+"B":"manque"
+},
+{
+"A":"nervosité",
+"L":"de la",
+"B":"fatigue"
+},
+{
+"A":"tension",
+"L":"du",
+"B":"stress"
+},
+{
+"A":"crispation",
+"L":"de la",
+"B":"nervosité"
+},
+{
+"A":"raideur",
+"L":"de la",
+"B":"tension"
+},
+{
+"A":"douleur",
+"L":"de la",
+"B":"nuque"
+},
+{
+"A":"torticolis",
+"L":"du",
+"B":"stress"
+},
+{
+"A":"contracture",
+"L":"du",
+"B":"muscle"
+},
+{
+"A":"crampe",
+"L":"de la",
+"B":"contraction"
+},
+{
+"A":"spasme",
+"L":"du",
+"B":"dos"
+},
+{
+"A":"lumbago",
+"L":"du",
+"B":"mouvement"
+},
+{
+"A":"sciatique",
+"L":"du",
+"B":"nerf"
+},
+{
+"A":"douleur",
+"L":"de la",
+"B":"jambe"
+},
+{
+"A":"engourdissement",
+"L":"du",
+"B":"pied"
+},
+{
+"A":"fourmillement",
+"L":"de la",
+"B":"main"
+},
+{
+"A":"picotement",
+"L":"du",
+"B":"bras"
+},
+{
+"A":"paralysie",
+"L":"du",
+"B":"nerf"
+},
+{
+"A":"faiblesse",
+"L":"du",
+"B":"membre"
+},
+{
+"A":"atrophie",
+"L":"du",
+"B":"muscle"
+},
+{
+"A":"fonte",
+"L":"de la",
+"B":"masse"
+},
+{
+"A":"maigreur",
+"L":"du",
+"B":"jeûne"
+},
+{
+"A":"dénutrition",
+"L":"du",
+"B":"régime"
+},
+{
+"A":"anorexie",
+"L":"du",
+"B":"trouble"
+},
+{
+"A":"boulimie",
+"L":"du",
+"B":"stress"
+},
+{
+"A":"vomissement",
+"L":"de la",
+"B":"crise"
+},
+{
+"A":"purge",
+"L":"du",
+"B":"repas"
+},
+{
+"A":"malnutrition",
+"L":"du",
+"B":"trouble"
+},
+{
+"A":"carence",
+"L":"du",
+"B":"régime"
+},
+{
+"A":"manque",
+"L":"de la",
+"B":"vitamine"
+},
+{
+"A":"déficit",
+"L":"du",
+"B":"minéral"
+},
+{
+"A":"ostéoporose",
+"L":"du",
+"B":"calcium"
+},
+{
+"A":"fragilité",
+"L":"de l'",
+"B":"os"
+},
+{
+"A":"fracture",
+"L":"de la",
+"B":"chute"
+},
+{
+"A":"fêlure",
+"L":"du",
+"B":"choc"
+},
+{
+"A":"cassure",
+"L":"de l'",
+"B":"impact"
+},
+{
+"A":"brisure",
+"L":"du",
+"B":"coup"
+},
+{
+"A":"éclatement",
+"L":"de l'",
+"B":"os"
+},
+{
+"A":"rupture",
+"L":"du",
+"B":"ligament"
+},
+{
+"A":"déchirure",
+"L":"du",
+"B":"tendon"
+},
+{
+"A":"entorse",
+"L":"de la",
+"B":"cheville"
+},
+{
+"A":"foulure",
+"L":"du",
+"B":"poignet"
+},
+{
+"A":"luxation",
+"L":"de l'",
+"B":"épaule"
+},
+{
+"A":"déboîtement",
+"L":"de la",
+"B":"hanche"
+},
+{
+"A":"déplacement",
+"L":"de la",
+"B":"vertèbre"
+},
+{
+"A":"hernie",
+"L":"du",
+"B":"disque"
+},
+{
+"A":"compression",
+"L":"du",
+"B":"nerf"
+},
+{
+"A":"douleur",
+"L":"de la",
+"B":"compression"
+},
+{
+"A":"paralysie",
+"L":"de la",
+"B":"moelle"
+},
+{
+"A":"tétraplégie",
+"L":"de l'",
+"B":"accident"
+},
+{
+"A":"paraplégie",
+"L":"de la",
+"B":"chute"
+},
+{
+"A":"hémiplégie",
+"L":"de l'",
+"B":"AVC"
+},
+{
+"A":"invalidité",
+"L":"de l'",
+"B":"accident"
+},
+{
+"A":"handicap",
+"L":"de la",
+"B":"naissance"
+},
+{
+"A":"infirmité",
+"L":"du",
+"B":"gène"
+},
+{
+"A":"malformation",
+"L":"de la",
+"B":"génétique"
+},
+{
+"A":"anomalie",
+"L":"du",
+"B":"chromosome"
+},
+{
+"A":"syndrome",
+"L":"de la",
+"B":"trisomie"
+},
+{
+"A":"maladie",
+"L":"de l'",
+"B":"hérédité"
+},
+{
+"A":"trouble",
+"L":"du",
+"B":"développement"
+},
+{
+"A":"retard",
+"L":"de la",
+"B":"croissance"
+},
+{
+"A":"nanisme",
+"L":"de l'",
+"B":"hormone"
+},
+{
+"A":"gigantisme",
+"L":"de la",
+"B":"glande"
+},
+{
+"A":"obésité",
+"L":"de l'",
+"B":"hormone"
+},
+{
+"A":"maigreur",
+"L":"de la",
+"B":"thyroïde"
+},
+{
+"A":"goitre",
+"L":"de l'",
+"B":"iode"
+},
+{
+"A":"hypothyroïdie",
+"L":"du",
+"B":"manque"
+},
+{
+"A":"hyperthyroïdie",
+"L":"de l'",
+"B":"excès"
+},
+{
+"A":"palpitations",
+"L":"de l'",
+"B":"hyperthyroïdie"
+},
+{
+"A":"tachycardie",
+"L":"du",
+"B":"cœur"
+},
+{
+"A":"arythmie",
+"L":"du",
+"B":"stress"
+},
+{
+"A":"fibrillation",
+"L":"de l'",
+"B":"oreillette"
+},
+{
+"A":"infarctus",
+"L":"de l'",
+"B":"artère"
+},
+{
+"A":"crise cardiaque",
+"L":"du",
+"B":"caillot"
+},
+{
+"A":"arrêt",
+"L":"du",
+"B":"cœur"
+},
+{
+"A":"mort subite",
+"L":"de l'",
+"B":"arrêt"
+},
+{
+"A":"décès",
+"L":"de la",
+"B":"crise"
+},
+{
+"A":"mort",
+"L":"de l'",
+"B":"infarctus"
+},
+{
+"A":"deuil",
+"L":"de la",
+"B":"mort"
+},
+{
+"A":"chagrin",
+"L":"du",
+"B":"deuil"
+},
+{
+"A":"tristesse",
+"L":"de la",
+"B":"perte"
+},
+{
+"A":"dépression",
+"L":"du",
+"B":"deuil"
+},
+{
+"A":"mélancolie",
+"L":"de la",
+"B":"perte"
+},
+{
+"A":"nostalgie",
+"L":"du",
+"B":"défunt"
+},
+{
+"A":"regret",
+"L":"de l'",
+"B":"absence"
+},
+{
+"A":"manque",
+"L":"du",
+"B":"disparu"
+},
+{
+"A":"vide",
+"L":"de l'",
+"B":"absence"
+},
+{
+"A":"solitude",
+"L":"du",
+"B":"veuvage"
+},
+{
+"A":"isolement",
+"L":"de la",
+"B":"solitude"
+},
+{
+"A":"abandon",
+"L":"de la",
+"B":"famille"
+},
+{
+"A":"rejet",
+"L":"de la",
+"B":"société"
+},
+{
+"A":"exclusion",
+"L":"du",
+"B":"groupe"
+},
+{
+"A":"marginalisation",
+"L":"de l'",
+"B":"exclusion"
+},
+{
+"A":"stigmatisation",
+"L":"de la",
+"B":"différence"
+},
+{
+"A":"discrimination",
+"L":"du",
+"B":"préjugé"
+},
+{
+"A":"racisme",
+"L":"de l'",
+"B":"ignorance"
+},
+{
+"A":"sexisme",
+"L":"du",
+"B":"patriarcat"
+},
+{
+"A":"homophobie",
+"L":"de la",
+"B":"peur"
+},
+{
+"A":"xénophobie",
+"L":"de l'",
+"B":"étranger"
+},
+{
+"A":"haine",
+"L":"de la",
+"B":"différence"
+},
+{
+"A":"violence",
+"L":"de la",
+"B":"haine"
+},
+{
+"A":"agression",
+"L":"de la",
+"B":"violence"
+},
+{
+"A":"coup",
+"L":"de l'",
+"B":"agression"
+},
+{
+"A":"blessure",
+"L":"du",
+"B":"coup"
+},
+{
+"A":"traumatisme",
+"L":"de la",
+"B":"violence"
+},
+{
+"A":"séquelles",
+"L":"du",
+"B":"traumatisme"
+},
+{
+"A":"cicatrices",
+"L":"des",
+"B":"coups"
+},
+{
+"A":"marques",
+"L":"de la",
+"B":"violence"
+},
+{
+"A":"traces",
+"L":"de l'",
+"B":"agression"
+},
+{
+"A":"preuves",
+"L":"du",
+"B":"crime"
+},
+{
+"A":"témoignages",
+"L":"de la",
+"B":"victime"
+},
+{
+"A":"plainte",
+"L":"du",
+"B":"témoin"
+},
+{
+"A":"procès",
+"L":"de la",
+"B":"plainte"
+},
+{
+"A":"jugement",
+"L":"du",
+"B":"procès"
+},
+{
+"A":"condamnation",
+"L":"du",
+"B":"jugement"
+},
+{
+"A":"peine",
+"L":"de la",
+"B":"condamnation"
+},
+{
+"A":"prison",
+"L":"de la",
+"B":"peine"
+},
+{
+"A":"enfermement",
+"L":"de la",
+"B":"prison"
+},
+{
+"A":"détention",
+"L":"de l'",
+"B":"enfermement"
+},
+{
+"A":"incarcération",
+"L":"de la",
+"B":"détention"
+},
+{
+"A":"captivité",
+"L":"de l'",
+"B":"incarcération"
+},
+{
+"A":"privation",
+"L":"de la",
+"B":"liberté"
+},
+{
+"A":"souffrance",
+"L":"de la",
+"B":"privation"
+},
+{
+"A":"douleur",
+"L":"de l'",
+"B":"enfermement"
+},
+{
+"A":"désespoir",
+"L":"de la",
+"B":"prison"
+},
+{
+"A":"suicide",
+"L":"du",
+"B":"désespoir"
+},
+{
+"A":"mort",
+"L":"du",
+"B":"suicide"
+},
+{
+"A":"tragédie",
+"L":"de la",
+"B":"mort"
+},
+{
+"A":"drame",
+"L":"de la",
+"B":"tragédie"
+},
+{
+"A":"catastrophe",
+"L":"du",
+"B":"drame"
+},
+{
+"A":"désastre",
+"L":"de la",
+"B":"catastrophe"
+},
+{
+"A":"apocalypse",
+"L":"du",
+"B":"désastre"
+},
+{
+"A":"fin",
+"L":"de l'",
+"B":"apocalypse"
+},
+{
+"A":"destruction",
+"L":"de la",
+"B":"fin"
+},
+{
+"A":"anéantissement",
+"L":"de la",
+"B":"destruction"
+},
+{
+"A":"néant",
+"L":"de l'",
+"B":"anéantissement"
+},
+{
+"A":"vide",
+"L":"du",
+"B":"néant"
+},
+{
+"A":"silence",
+"L":"du",
+"B":"vide"
+},
+{
+"A":"paix",
+"L":"du",
+"B":"silence"
+},
+{
+"A":"calme",
+"L":"de la",
+"B":"paix"
+},
+{
+"A":"sérénité",
+"L":"du",
+"B":"calme"
+},
+{
+"A":"tranquillité",
+"L":"de la",
+"B":"sérénité"
+},
+{
+"A":"repos",
+"L":"de la",
+"B":"tranquillité"
+},
+{
+"A":"sommeil",
+"L":"du",
+"B":"repos"
+},
+{
+"A":"rêve",
+"L":"du",
+"B":"sommeil"
+},
+{
+"A":"cauchemar",
+"L":"du",
+"B":"rêve"
+},
+{
+"A":"réveil",
+"L":"du",
+"B":"cauchemar"
+},
+{
+"A":"sursaut",
+"L":"du",
+"B":"réveil"
+},
+{
+"A":"peur",
+"L":"du",
+"B":"sursaut"
+},
+{
+"A":"angoisse",
+"L":"de la",
+"B":"peur"
+},
+{
+"A":"stress",
+"L":"de l'",
+"B":"angoisse"
+},
+{
+"A":"tension",
+"L":"du",
+"B":"stress"
+},
+{
+"A":"nervosité",
+"L":"de la",
+"B":"tension"
+},
+{
+"A":"agitation",
+"L":"de la",
+"B":"nervosité"
+},
+{
+"A":"excitation",
+"L":"de l'",
+"B":"agitation"
+},
+{
+"A":"euphorie",
+"L":"de l'",
+"B":"excitation"
+},
+{
+"A":"ivresse",
+"L":"de l'",
+"B":"euphorie"
+},
+{
+"A":"délire",
+"L":"de l'",
+"B":"ivresse"
+},
+{
+"A":"folie",
+"L":"du",
+"B":"délire"
+},
+{
+"A":"démence",
+"L":"de la",
+"B":"folie"
+},
+{
+"A":"aliénation",
+"L":"de la",
+"B":"démence"
+},
+{
+"A":"confusion",
+"L":"de l'",
+"B":"aliénation"
+},
+{
+"A":"égarement",
+"L":"de la",
+"B":"confusion"
+},
+{
+"A":"perte",
+"L":"de l'",
+"B":"égarement"
+},
+{
+"A":"disparition",
+"L":"de la",
+"B":"perte"
+},
+{
+"A":"absence",
+"L":"de la",
+"B":"disparition"
+},
+{
+"A":"vide",
+"L":"de l'",
+"B":"absence"
+},
+{
+"A":"manque",
+"L":"du",
+"B":"vide"
+},
+{
+"A":"besoin",
+"L":"du",
+"B":"manque"
+},
+{
+"A":"désir",
+"L":"du",
+"B":"besoin"
+},
+{
+"A":"envie",
+"L":"du",
+"B":"désir"
+},
+{
+"A":"passion",
+"L":"de l'",
+"B":"envie"
+},
+{
+"A":"amour",
+"L":"de la",
+"B":"passion"
+},
+{
+"A":"attachement",
+"L":"de l'",
+"B":"amour"
+},
+{
+"A":"dépendance",
+"L":"de l'",
+"B":"attachement"
+},
+{
+"A":"addiction",
+"L":"de la",
+"B":"dépendance"
+},
+{
+"A":"asservissement",
+"L":"de l'",
+"B":"addiction"
+},
+{
+"A":"esclavage",
+"L":"de l'",
+"B":"asservissement"
+},
+{
+"A":"soumission",
+"L":"de l'",
+"B":"esclavage"
+},
+{
+"A":"obéissance",
+"L":"de la",
+"B":"soumission"
+},
+{
+"A":"docilité",
+"L":"de l'",
+"B":"obéissance"
+},
+{
+"A":"passivité",
+"L":"de la",
+"B":"docilité"
+},
+{
+"A":"inertie",
+"L":"de la",
+"B":"passivité"
+},
+{
+"A":"apathie",
+"L":"de l'",
+"B":"inertie"
+},
+{
+"A":"indifférence",
+"L":"de l'",
+"B":"apathie"
+},
+{
+"A":"détachement",
+"L":"de l'",
+"B":"indifférence"
+},
+{
+"A":"froideur",
+"L":"du",
+"B":"détachement"
+},
+{
+"A":"distance",
+"L":"de la",
+"B":"froideur"
+},
+{
+"A":"éloignement",
+"L":"de la",
+"B":"distance"
+},
+{
+"A":"séparation",
+"L":"de l'",
+"B":"éloignement"
+},
+{
+"A":"rupture",
+"L":"de la",
+"B":"séparation"
+},
+{
+"A":"divorce",
+"L":"de la",
+"B":"rupture"
+},
+{
+"A":"séparation",
+"L":"du",
+"B":"divorce"
+},
+{
+"A":"déchirement",
+"L":"de la",
+"B":"séparation"
+},
+{
+"A":"souffrance",
+"L":"du",
+"B":"déchirement"
+},
+{
+"A":"douleur",
+"L":"de la",
+"B":"souffrance"
+},
+{
+"A":"mal",
+"L":"de la",
+"B":"douleur"
+},
+{
+"A":"peine",
+"L":"du",
+"B":"mal"
+},
+{
+"A":"chagrin",
+"L":"de la",
+"B":"peine"
+},
+{
+"A":"tristesse",
+"L":"du",
+"B":"chagrin"
+},
+{
+"A":"mélancolie",
+"L":"de la",
+"B":"tristesse"
+},
+{
+"A":"panne",
+"L":"de la",
+"B":"foudre"
+},
+{
+"A":"incendie",
+"L":"de la",
+"B":"sécheresse"
+},
+{
+"A":"glissement",
+"L":"de la",
+"B":"pluie"
+},
+{
+"A":"avalanche",
+"L":"de la",
+"B":"neige"
+},
+{
+"A":"éboulement",
+"L":"du",
+"B":"tremblement"
+},
+{
+"A":"tsunami",
+"L":"du",
+"B":"séisme"
+},
+{
+"A":"ruine",
+"L":"de l'",
+"B":"ouragan"
+},
+{
+"A":"dévastation",
+"L":"du",
+"B":"cyclone"
+},
+{
+"A":"noyade",
+"L":"de l'",
+"B":"inondation"
+},
+{
+"A":"asphyxie",
+"L":"de la",
+"B":"fumée"
+},
+{
+"A":"boutons",
+"L":"de l'",
+"B":"acné"
+},
+{
+"A":"rougeur",
+"L":"du",
+"B":"coup de soleil"
+},
+{
+"A":"cloque",
+"L":"de la",
+"B":"brûlure"
+},
+{
+"A":"ecchymose",
+"L":"du",
+"B":"choc"
+},
+{
+"A":"hématome",
+"L":"du",
+"B":"coup"
+},
+{
+"A":"enflure",
+"L":"de la",
+"B":"piqûre"
+},
+{
+"A":"démangeaison",
+"L":"de la",
+"B":"piqûre"
+},
+{
+"A":"inflammation",
+"L":"de l'",
+"B":"infection"
+},
+{
+"A":"abcès",
+"L":"de l'",
+"B":"infection"
+},
+{
+"A":"septicémie",
+"L":"de la",
+"B":"plaie"
+},
+{
+"A":"gangrène",
+"L":"de la",
+"B":"nécrose"
+},
+{
+"A":"amputation",
+"L":"du",
+"B":"diabète"
+},
+{
+"A":"cécité",
+"L":"du",
+"B":"glaucome"
+},
+{
+"A":"surdité",
+"L":"du",
+"B":"bruit"
+},
+{
+"A":"paralysie",
+"L":"de l'",
+"B":"AVC"
+},
+{
+"A":"handicap",
+"L":"de l'",
+"B":"accident"
+},
+{
+"A":"séquelle",
+"L":"de la",
+"B":"maladie"
+},
+{
+"A":"rechute",
+"L":"de l'",
+"B":"arrêt"
+},
+{
+"A":"contagion",
+"L":"du",
+"B":"contact"
+},
+{
+"A":"épidémie",
+"L":"du",
+"B":"virus"
+},
+{
+"A":"pandémie",
+"L":"de la",
+"B":"contagion"
+},
+{
+"A":"contamination",
+"L":"de la",
+"B":"bactérie"
+},
+{
+"A":"intoxication",
+"L":"du",
+"B":"poison"
+},
+{
+"A":"empoisonnement",
+"L":"de la",
+"B":"toxine"
+},
+{
+"A":"vomissement",
+"L":"de l'",
+"B":"intoxication"
+},
+{
+"A":"diarrhée",
+"L":"de la",
+"B":"gastro"
+},
+{
+"A":"constipation",
+"L":"du",
+"B":"stress"
+},
+{
+"A":"colique",
+"L":"de l'",
+"B":"indigestion"
+},
+{
+"A":"reflux",
+"L":"de l'",
+"B":"acidité"
+},
+{
+"A":"ulcère",
+"L":"du",
+"B":"stress"
+},
+{
+"A":"calcul",
+"L":"de la",
+"B":"déshydratation"
+},
+{
+"A":"rétention",
+"L":"de l'",
+"B":"eau"
+},
+{
+"A":"œdème",
+"L":"de la",
+"B":"circulation"
+},
+{
+"A":"varices",
+"L":"de la",
+"B":"station"
+},
+{
+"A":"thrombose",
+"L":"de l'",
+"B":"immobilité"
+},
+{
+"A":"embolie",
+"L":"du",
+"B":"caillot"
+},
+{
+"A":"infarctus",
+"L":"de l'",
+"B":"artère"
+},
+{
+"A":"angine",
+"L":"du",
+"B":"froid"
+},
+{
+"A":"bronchite",
+"L":"du",
+"B":"tabac"
+},
+{
+"A":"pneumonie",
+"L":"du",
+"B":"froid"
+},
+{
+"A":"asthme",
+"L":"de la",
+"B":"pollution"
+},
+{
+"A":"angoisse",
+"L":"de l'",
+"B":"attente"
+},
+{
+"A":"anxiété",
+"L":"du",
+"B":"futur"
+},
+{
+"A":"panique",
+"L":"de la",
+"B":"peur"
+},
+{
+"A":"phobie",
+"L":"du",
+"B":"traumatisme"
+},
+{
+"A":"dépression",
+"L":"de la",
+"B":"solitude"
+},
+{
+"A":"mélancolie",
+"L":"de l'",
+"B":"absence"
+},
+{
+"A":"nostalgie",
+"L":"du",
+"B":"passé"
+},
+{
+"A":"regret",
+"L":"de la",
+"B":"décision"
+},
+{
+"A":"remords",
+"L":"de la",
+"B":"faute"
+},
+{
+"A":"culpabilité",
+"L":"de l'",
+"B":"erreur"
+},
+{
+"A":"honte",
+"L":"de l'",
+"B":"échec"
+},
+{
+"A":"humiliation",
+"L":"de la",
+"B":"défaite"
+},
+{
+"A":"vexation",
+"L":"de la",
+"B":"remarque"
+},
+{
+"A":"colère",
+"L":"de l'",
+"B":"injustice"
+},
+{
+"A":"rage",
+"L":"de la",
+"B":"trahison"
+},
+{
+"A":"fureur",
+"L":"de l'",
+"B":"offense"
+},
+{
+"A":"rancune",
+"L":"de l'",
+"B":"affront"
+},
+{
+"A":"ressentiment",
+"L":"de la",
+"B":"jalousie"
+},
+{
+"A":"envie",
+"L":"de la",
+"B":"réussite"
+},
+{
+"A":"jalousie",
+"L":"du",
+"B":"succès"
+},
+{
+"A":"admiration",
+"L":"de la",
+"B":"beauté"
+},
+{
+"A":"émerveillement",
+"L":"de la",
+"B":"découverte"
+},
+{
+"A":"étonnement",
+"L":"de la",
+"B":"surprise"
+},
+{
+"A":"stupéfaction",
+"L":"du",
+"B":"choc"
+},
+{
+"A":"confusion",
+"L":"du",
+"B":"désordre"
+},
+{
+"A":"désorientation",
+"L":"du",
+"B":"changement"
+},
+{
+"A":"vertige",
+"L":"de la",
+"B":"vitesse"
+},
+{
+"A":"étourdissement",
+"L":"de la",
+"B":"rotation"
+},
+{
+"A":"éblouissement",
+"L":"de la",
+"B":"lumière"
+},
+{
+"A":"cécité",
+"L":"de l'",
+"B":"éclair"
+},
+{
+"A":"assourdissement",
+"L":"de l'",
+"B":"explosion"
+},
+{
+"A":"chômage",
+"L":"de la",
+"B":"crise"
+},
+{
+"A":"pauvreté",
+"L":"de l'",
+"B":"inflation"
+},
+{
+"A":"famine",
+"L":"de la",
+"B":"sécheresse"
+},
+{
+"A":"exode",
+"L":"de la",
+"B":"guerre"
+},
+{
+"A":"migration",
+"L":"de la",
+"B":"misère"
+},
+{
+"A":"réfugiés",
+"L":"du",
+"B":"conflit"
+},
+{
+"A":"déplacés",
+"L":"de la",
+"B":"catastrophe"
+},
+{
+"A":"orphelins",
+"L":"de la",
+"B":"guerre"
+},
+{
+"A":"veuves",
+"L":"de la",
+"B":"guerre"
+},
+{
+"A":"blessés",
+"L":"du",
+"B":"combat"
+},
+{
+"A":"mutilés",
+"L":"de la",
+"B":"mine"
+},
+{
+"A":"victimes",
+"L":"de l'",
+"B":"attentat"
+},
+{
+"A":"traumatisés",
+"L":"du",
+"B":"massacre"
+},
+{
+"A":"rescapés",
+"L":"du",
+"B":"naufrage"
+},
+{
+"A":"survivants",
+"L":"du",
+"B":"crash"
+},
+{
+"A":"endeuillés",
+"L":"du",
+"B":"deuil"
+},
+{
+"A":"affligés",
+"L":"de la",
+"B":"perte"
+},
+{
+"A":"désespérés",
+"L":"de l'",
+"B":"abandon"
+},
+{
+"A":"abandonnés",
+"L":"de la",
+"B":"séparation"
+},
+{
+"A":"divorcés",
+"L":"de la",
+"B":"mésentente"
+},
+{
+"A":"rupture",
+"L":"de la",
+"B":"dispute"
+},
+{
+"A":"brouille",
+"L":"de la",
+"B":"querelle"
+},
+{
+"A":"conflit",
+"L":"du",
+"B":"désaccord"
+},
+{
+"A":"guerre",
+"L":"de la",
+"B":"rivalité"
+},
+{
+"A":"hostilité",
+"L":"de l'",
+"B":"antagonisme"
+},
+{
+"A":"animosité",
+"L":"de la",
+"B":"haine"
+},
+{
+"A":"vendetta",
+"L":"de la",
+"B":"vengeance"
+},
+{
+"A":"représailles",
+"L":"de l'",
+"B":"attaque"
+},
+{
+"A":"riposte",
+"L":"de la",
+"B":"provocation"
+},
+{
+"A":"escalade",
+"L":"de la",
+"B":"tension"
+},
+{
+"A":"inflation",
+"L":"de la",
+"B":"création"
+},
+{
+"A":"dévaluation",
+"L":"de l'",
+"B":"impression"
+},
+{
+"A":"récession",
+"L":"de la",
+"B":"contraction"
+},
+{
+"A":"stagnation",
+"L":"de l'",
+"B":"inaction"
+},
+{
+"A":"marasme",
+"L":"de la",
+"B":"crise"
+},
+{
+"A":"krach",
+"L":"de la",
+"B":"spéculation"
+},
+{
+"A":"faillite",
+"L":"de la",
+"B":"dette"
+},
+{
+"A":"banqueroute",
+"L":"des",
+"B":"dépenses"
+},
+{
+"A":"déficit",
+"L":"du",
+"B":"gaspillage"
+},
+{
+"A":"endettement",
+"L":"de l'",
+"B":"emprunt"
+},
+{
+"A":"surendettement",
+"L":"du",
+"B":"crédit"
+},
+{
+"A":"saisie",
+"L":"de l'",
+"B":"impayé"
+},
+{
+"A":"expulsion",
+"L":"du",
+"B":"loyer"
+},
+{
+"A":"SDF",
+"L":"de l'",
+"B":"expulsion"
+},
+{
+"A":"mendicité",
+"L":"de la",
+"B":"pauvreté"
+},
+{
+"A":"vol",
+"L":"de la",
+"B":"nécessité"
+},
+{
+"A":"délinquance",
+"L":"de la",
+"B":"misère"
+},
+{
+"A":"criminalité",
+"L":"de l'",
+"B":"exclusion"
+},
+{
+"A":"violence",
+"L":"de la",
+"B":"frustration"
+},
+{
+"A":"émeute",
+"L":"de la",
+"B":"colère"
+},
+{
+"A":"révolte",
+"L":"de l'",
+"B":"oppression"
+},
+{
+"A":"révolution",
+"L":"de l'",
+"B":"injustice"
+},
+{
+"A":"chaos",
+"L":"de l'",
+"B":"anarchie"
+},
+{
+"A":"désordre",
+"L":"de la",
+"B":"confusion"
+},
+{
+"A":"déforestation",
+"L":"de l'",
+"B":"exploitation"
+},
+{
+"A":"désertification",
+"L":"de la",
+"B":"surexploitation"
+},
+{
+"A":"érosion",
+"L":"du",
+"B":"déboisement"
+},
+{
+"A":"pollution",
+"L":"du",
+"B":"rejet"
+},
+{
+"A":"contamination",
+"L":"du",
+"B":"déversement"
+},
+{
+"A":"acidification",
+"L":"des",
+"B":"émissions"
+},
+{
+"A":"réchauffement",
+"L":"du",
+"B":"CO2"
+},
+{
+"A":"fonte",
+"L":"du",
+"B":"réchauffement"
+},
+{
+"A":"montée",
+"L":"de la",
+"B":"fonte"
+},
+{
+"A":"submersion",
+"L":"de la",
+"B":"montée"
+},
+{
+"A":"disparition",
+"L":"de la",
+"B":"submersion"
+},
+{
+"A":"extinction",
+"L":"de la",
+"B":"chasse"
+},
+{
+"A":"raréfaction",
+"L":"de la",
+"B":"surpêche"
+},
+{
+"A":"pénurie",
+"L":"de la",
+"B":"consommation"
+},
+{
+"A":"épuisement",
+"L":"de l'",
+"B":"extraction"
+},
+{
+"A":"tarissement",
+"L":"du",
+"B":"pompage"
+},
+{
+"A":"assèchement",
+"L":"du",
+"B":"prélèvement"
+},
+{
+"A":"salinisation",
+"L":"de l'",
+"B":"irrigation"
+},
+{
+"A":"stérilisation",
+"L":"du",
+"B":"pesticide"
+},
+{
+"A":"appauvrissement",
+"L":"de la",
+"B":"monoculture"
+},
+{
+"A":"bug",
+"L":"du",
+"B":"code"
+},
+{
+"A":"plantage",
+"L":"du",
+"B":"virus"
+},
+{
+"A":"crash",
+"L":"du",
+"B":"conflit"
+},
+{
+"A":"blocage",
+"L":"du",
+"B":"gel"
+},
+{
+"A":"lenteur",
+"L":"de la",
+"B":"saturation"
+},
+{
+"A":"ralentissement",
+"L":"de la",
+"B":"charge"
+},
+{
+"A":"surchauffe",
+"L":"de l'",
+"B":"utilisation"
+},
+{
+"A":"panne",
+"L":"de l'",
+"B":"usure"
+},
+{
+"A":"dysfonctionnement",
+"L":"du",
+"B":"défaut"
+},
+{
+"A":"court-circuit",
+"L":"de la",
+"B":"surtension"
+},
+{
+"A":"incendie",
+"L":"de la",
+"B":"surcharge"
+},
+{
+"A":"explosion",
+"L":"de la",
+"B":"surpression"
+},
+{
+"A":"fissure",
+"L":"de la",
+"B":"fatigue"
+},
+{
+"A":"rupture",
+"L":"de la",
+"B":"tension"
+},
+{
+"A":"fracture",
+"L":"du",
+"B":"choc"
+},
+{
+"A":"bris",
+"L":"de la",
+"B":"chute"
+},
+{
+"A":"casse",
+"L":"du",
+"B":"heurt"
+},
+{
+"A":"déformation",
+"L":"de la",
+"B":"chaleur"
+},
+{
+"A":"dilatation",
+"L":"de la",
+"B":"température"
+},
+{
+"A":"contraction",
+"L":"du",
+"B":"refroidissement"
+},
+{
+"A":"rétraction",
+"L":"du",
+"B":"séchage"
+},
+{
+"A":"gonflement",
+"L":"de l'",
+"B":"humidité"
+},
+{
+"A":"pourrissement",
+"L":"de l'",
+"B":"eau"
+},
+{
+"A":"moisissure",
+"L":"de l'",
+"B":"humidité"
+},
+{
+"A":"rouille",
+"L":"de l'",
+"B":"oxydation"
+},
+{
+"A":"corrosion",
+"L":"de l'",
+"B":"acidité"
+},
+{
+"A":"usure",
+"L":"du",
+"B":"frottement"
+},
+{
+"A":"rayure",
+"L":"du",
+"B":"contact"
+},
+{
+"A":"éraflure",
+"L":"du",
+"B":"frôlement"
+},
+{
+"A":"entaille",
+"L":"du",
+"B":"tranchant"
+},
+{
+"A":"coupure",
+"L":"de la",
+"B":"lame"
+},
+{
+"A":"perforation",
+"L":"de la",
+"B":"pointe"
+},
+{
+"A":"déchirure",
+"L":"de la",
+"B":"traction"
+},
+{
+"A":"arrachement",
+"L":"de la",
+"B":"force"
+},
+{
+"A":"brûlure",
+"L":"du",
+"B":"four"
+},
+{
+"A":"calcination",
+"L":"de la",
+"B":"chaleur"
+},
+{
+"A":"carbonisation",
+"L":"de la",
+"B":"cuisson"
+},
+{
+"A":"cramage",
+"L":"de l'",
+"B":"oubli"
+},
+{
+"A":"dessèchement",
+"L":"de la",
+"B":"cuisson"
+},
+{
+"A":"durcissement",
+"L":"de la",
+"B":"cuisson"
+},
+{
+"A":"ramollissement",
+"L":"de la",
+"B":"cuisson"
+},
+{
+"A":"déliquescence",
+"L":"de la",
+"B":"chaleur"
+},
+{
+"A":"liquéfaction",
+"L":"de la",
+"B":"fonte"
+},
+{
+"A":"solidification",
+"L":"du",
+"B":"refroidissement"
+},
+{
+"A":"cristallisation",
+"L":"de l'",
+"B":"évaporation"
+},
+{
+"A":"caramélisation",
+"L":"du",
+"B":"sucre"
+},
+{
+"A":"brunissement",
+"L":"de la",
+"B":"réaction"
+},
+{
+"A":"noircissement",
+"L":"de l'",
+"B":"oxydation"
+},
+{
+"A":"blanchiment",
+"L":"de la",
+"B":"cuisson"
+},
+{
+"A":"fermentation",
+"L":"de la",
+"B":"levure"
+},
+{
+"A":"putréfaction",
+"L":"de la",
+"B":"bactérie"
+},
+{
+"A":"rancissement",
+"L":"de l'",
+"B":"oxygène"
+},
+{
+"A":"aigrissement",
+"L":"de la",
+"B":"fermentation"
+},
+{
+"A":"caillage",
+"L":"de l'",
+"B":"acidité"
+},
+{
+"A":"coagulation",
+"L":"de la",
+"B":"présure"
+},
+{
+"A":"gélification",
+"L":"de la",
+"B":"gélatine"
+},
+{
+"A":"prise",
+"L":"du",
+"B":"gel"
+},
+{
+"A":"foisonnement",
+"L":"du",
+"B":"fouettage"
+},
+{
+"A":"montée",
+"L":"du",
+"B":"levain"
+},
+{
+"A":"gonflement",
+"L":"de la",
+"B":"levure"
+},
+{
+"A":"affaissement",
+"L":"du",
+"B":"dégonflage"
+},
+{
+"A":"progrès",
+"L":"de l'",
+"B":"entraînement"
+},
+{
+"A":"amélioration",
+"L":"de la",
+"B":"pratique"
+},
+{
+"A":"perfectionnement",
+"L":"de l'",
+"B":"exercice"
+},
+{
+"A":"maîtrise",
+"L":"de l'",
+"B":"expérience"
+},
+{
+"A":"expertise",
+"L":"de la",
+"B":"formation"
+},
+{
+"A":"compétence",
+"L":"de l'",
+"B":"apprentissage"
+},
+{
+"A":"habileté",
+"L":"de la",
+"B":"répétition"
+},
+{
+"A":"dextérité",
+"L":"de l'",
+"B":"usage"
+},
+{
+"A":"virtuosité",
+"L":"du",
+"B":"travail"
+},
+{
+"A":"excellence",
+"L":"de la",
+"B":"persévérance"
+},
+{
+"A":"réussite",
+"L":"de l'",
+"B":"effort"
+},
+{
+"A":"succès",
+"L":"du",
+"B":"mérite"
+},
+{
+"A":"victoire",
+"L":"de la",
+"B":"stratégie"
+},
+{
+"A":"triomphe",
+"L":"de la",
+"B":"détermination"
+},
+{
+"A":"gloire",
+"L":"de l'",
+"B":"exploit"
+},
+{
+"A":"renommée",
+"L":"de la",
+"B":"performance"
+},
+{
+"A":"célébrité",
+"L":"du",
+"B":"talent"
+},
+{
+"A":"popularité",
+"L":"de la",
+"B":"sympathie"
+},
+{
+"A":"notoriété",
+"L":"du",
+"B":"scandale"
+},
+{
+"A":"infamie",
+"L":"du",
+"B":"crime"
+},
+{
+"A":"bonheur",
+"L":"de la",
+"B":"rencontre"
+},
+{
+"A":"félicité",
+"L":"de l'",
+"B":"amour"
+},
+{
+"A":"extase",
+"L":"de la",
+"B":"passion"
+},
+{
+"A":"ivresse",
+"L":"de la",
+"B":"joie"
+},
+{
+"A":"euphorie",
+"L":"de l'",
+"B":"enthousiasme"
+},
+{
+"A":"excitation",
+"L":"de l'",
+"B":"attente"
+},
+{
+"A":"impatience",
+"L":"du",
+"B":"désir"
+},
+{
+"A":"fébrilité",
+"L":"de l'",
+"B":"anticipation"
+},
+{
+"A":"nervosité",
+"L":"de l'",
+"B":"enjeu"
+},
+{
+"A":"trac",
+"L":"de la",
+"B":"scène"
+},
+{
+"A":"timidité",
+"L":"de la",
+"B":"gêne"
+},
+{
+"A":"embarras",
+"L":"de la",
+"B":"situation"
+},
+{
+"A":"malaise",
+"L":"de l'",
+"B":"ambiance"
+},
+{
+"A":"gêne",
+"L":"de la",
+"B":"présence"
+},
+{
+"A":"trouble",
+"L":"de l'",
+"B":"émotion"
+},
+{
+"A":"bouleversement",
+"L":"de la",
+"B":"révélation"
+},
+{
+"A":"choc",
+"L":"de l'",
+"B":"annonce"
+},
+{
+"A":"trauma",
+"L":"du",
+"B":"drame"
+},
+{
+"A":"blessure",
+"L":"de la",
+"B":"parole"
+},
+{
+"A":"souffrance",
+"L":"de la",
+"B":"séparation"
+},
+{
+"A":"déchirement",
+"L":"du",
+"B":"choix"
+},
+{
+"A":"dilemme",
+"L":"de l'",
+"B":"alternative"
+},
+{
+"A":"indécision",
+"L":"du",
+"B":"doute"
+},
+{
+"A":"hésitation",
+"L":"de l'",
+"B":"incertitude"
+},
+{
+"A":"perplexité",
+"L":"de la",
+"B":"complexité"
+},
+{
+"A":"incompréhension",
+"L":"de l'",
+"B":"abstraction"
+},
+{
+"A":"ignorance",
+"L":"du",
+"B":"manque"
+},
+{
+"A":"méconnaissance",
+"L":"de l'",
+"B":"absence"
+},
+{
+"A":"oubli",
+"L":"du",
+"B":"temps"
+},
+{
+"A":"amnésie",
+"L":"du",
+"B":"choc"
+},
+{
+"A":"démence",
+"L":"de la",
+"B":"maladie"
+},
+{
+"A":"ride",
+"L":"de l'",
+"B":"âge"
+},
+{
+"A":"calvitie",
+"L":"du",
+"B":"stress"
+},
+{
+"A":"blanchiment",
+"L":"de l'",
+"B":"âge"
+},
+{
+"A":"jaunissement",
+"L":"du",
+"B":"tabac"
+},
+{
+"A":"tache",
+"L":"du",
+"B":"vieillissement"
+},
+{
+"A":"flétrissement",
+"L":"du",
+"B":"temps"
+},
+{
+"A":"fanage",
+"L":"de la",
+"B":"chaleur"
+},
+{
+"A":"fanaison",
+"L":"du",
+"B":"soleil"
+},
+{
+"A":"dessèchement",
+"L":"de la",
+"B":"sécheresse"
+},
+{
+"A":"craquellement",
+"L":"de la",
+"B":"sécheresse"
+},
+{
+"A":"fendillement",
+"L":"du",
+"B":"gel"
+},
+{
+"A":"écaillage",
+"L":"de l'",
+"B":"usure"
+},
+{
+"A":"pelage",
+"L":"du",
+"B":"frottement"
+},
+{
+"A":"décoloration",
+"L":"du",
+"B":"soleil"
+},
+{
+"A":"ternissement",
+"L":"du",
+"B":"temps"
+},
+{
+"A":"salissure",
+"L":"de la",
+"B":"poussière"
+},
+{
+"A":"souillure",
+"L":"de la",
+"B":"boue"
+},
+{
+"A":"tache",
+"L":"de la",
+"B":"graisse"
+},
+{
+"A":"auréole",
+"L":"de l'",
+"B":"eau"
+},
+{
+"A":"moisissure",
+"L":"de l'",
+"B":"humidité"
+},
+{
+"A":"panne",
+"L":"de la",
+"B":"foudre"
+},
+{
+"A":"incendie",
+"L":"de la",
+"B":"sécheresse"
+},
+{
+"A":"glissement",
+"L":"de la",
+"B":"pluie"
+},
+{
+"A":"avalanche",
+"L":"de la",
+"B":"neige"
+},
+{
+"A":"éboulement",
+"L":"du",
+"B":"tremblement"
+},
+{
+"A":"tsunami",
+"L":"du",
+"B":"séisme"
+},
+{
+"A":"ruine",
+"L":"de l'",
+"B":"ouragan"
+},
+{
+"A":"dévastation",
+"L":"du",
+"B":"cyclone"
+},
+{
+"A":"noyade",
+"L":"de l'",
+"B":"inondation"
+},
+{
+"A":"asphyxie",
+"L":"de la",
+"B":"fumée"
+},
+{
+"A":"boutons",
+"L":"de l'",
+"B":"acné"
+},
+{
+"A":"rougeur",
+"L":"du",
+"B":"coup de soleil"
+},
+{
+"A":"cloque",
+"L":"de la",
+"B":"brûlure"
+},
+{
+"A":"ecchymose",
+"L":"du",
+"B":"choc"
+},
+{
+"A":"hématome",
+"L":"du",
+"B":"coup"
+},
+{
+"A":"enflure",
+"L":"de la",
+"B":"piqûre"
+},
+{
+"A":"démangeaison",
+"L":"de la",
+"B":"piqûre"
+},
+{
+"A":"inflammation",
+"L":"de l'",
+"B":"infection"
+},
+{
+"A":"abcès",
+"L":"de l'",
+"B":"infection"
+},
+{
+"A":"septicémie",
+"L":"de la",
+"B":"plaie"
+},
+{
+"A":"gangrène",
+"L":"de la",
+"B":"nécrose"
+},
+{
+"A":"amputation",
+"L":"du",
+"B":"diabète"
+},
+{
+"A":"cécité",
+"L":"du",
+"B":"glaucome"
+},
+{
+"A":"surdité",
+"L":"du",
+"B":"bruit"
+},
+{
+"A":"paralysie",
+"L":"de l'",
+"B":"AVC"
+},
+{
+"A":"handicap",
+"L":"de l'",
+"B":"accident"
+},
+{
+"A":"séquelle",
+"L":"de la",
+"B":"maladie"
+},
+{
+"A":"rechute",
+"L":"de l'",
+"B":"arrêt"
+},
+{
+"A":"contagion",
+"L":"du",
+"B":"contact"
+},
+{
+"A":"épidémie",
+"L":"du",
+"B":"virus"
+},
+{
+"A":"pandémie",
+"L":"de la",
+"B":"contagion"
+},
+{
+"A":"contamination",
+"L":"de la",
+"B":"bactérie"
+},
+{
+"A":"intoxication",
+"L":"du",
+"B":"poison"
+},
+{
+"A":"empoisonnement",
+"L":"de la",
+"B":"toxine"
+},
+{
+"A":"vomissement",
+"L":"de l'",
+"B":"intoxication"
+},
+{
+"A":"diarrhée",
+"L":"de la",
+"B":"gastro"
+},
+{
+"A":"constipation",
+"L":"du",
+"B":"stress"
+},
+{
+"A":"colique",
+"L":"de l'",
+"B":"indigestion"
+},
+{
+"A":"reflux",
+"L":"de l'",
+"B":"acidité"
+},
+{
+"A":"ulcère",
+"L":"du",
+"B":"stress"
+},
+{
+"A":"calcul",
+"L":"de la",
+"B":"déshydratation"
+},
+{
+"A":"rétention",
+"L":"de l'",
+"B":"eau"
+},
+{
+"A":"œdème",
+"L":"de la",
+"B":"circulation"
+},
+{
+"A":"varices",
+"L":"de la",
+"B":"station"
+},
+{
+"A":"thrombose",
+"L":"de l'",
+"B":"immobilité"
+},
+{
+"A":"embolie",
+"L":"du",
+"B":"caillot"
+},
+{
+"A":"infarctus",
+"L":"de l'",
+"B":"artère"
+},
+{
+"A":"angine",
+"L":"du",
+"B":"froid"
+},
+{
+"A":"bronchite",
+"L":"du",
+"B":"tabac"
+},
+{
+"A":"pneumonie",
+"L":"du",
+"B":"froid"
+},
+{
+"A":"asthme",
+"L":"de la",
+"B":"pollution"
+},
+{
+"A":"angoisse",
+"L":"de l'",
+"B":"attente"
+}
+]

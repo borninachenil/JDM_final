@@ -1,0 +1,1 @@
+{"nodes": {"16291129": {"name": "roche clastique", "type": 777, "weight": 0}, "137312": {"name": "roche", "type": 1, "weight": 3375}, "119723": {"name": "roche sédimentaire", "type": 1, "weight": 87}}, "relations": [{"node1": 16291129, "node2": 119723, "type": 6, "weight": 35.0}, {"node1": 16291129, "node2": 137312, "type": 6, "weight": 26.0}]}

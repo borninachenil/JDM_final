@@ -1,0 +1,1 @@
+{"nodes": {"15095810": {"name": "en:window sash", "type": 1, "weight": 25}, "136293": {"name": "châssis", "type": 1, "weight": 283}, "7054268": {"name": "en:window", "type": 1, "weight": 25}}, "relations": [{"node1": 15095810, "node2": 136293, "type": 6, "weight": 10.0}, {"node1": 15095810, "node2": 7054268, "type": 6, "weight": 25.0}]}

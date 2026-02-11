@@ -1,0 +1,1 @@
+{"nodes": {"145662": {"name": "communauté", "type": 1, "weight": 27112}, "253177": {"name": "communauté d'espèces", "type": 1, "weight": 2}}, "relations": [{"node1": 253177, "node2": 145662, "type": 6, "weight": 225.0}]}

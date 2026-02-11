@@ -1,0 +1,1 @@
+{"nodes": {"492973464": {"name": "état naturel de repos", "type": 1, "weight": 0}, "137183": {"name": "état", "type": 1, "weight": 17840}}, "relations": [{"node1": 492973464, "node2": 137183, "type": 6, "weight": 27.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"122852": {"name": "douleur", "type": 1, "weight": 8169}, "24307": {"name": "colique", "type": 1, "weight": 156}, "14624": {"name": "affection", "type": 1, "weight": 2267}}, "relations": [{"node1": 24307, "node2": 14624, "type": 6, "weight": 26.0}, {"node1": 24307, "node2": 122852, "type": 6, "weight": 87.0}]}

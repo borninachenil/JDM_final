@@ -1,0 +1,1 @@
+{"nodes": {"14927620": {"name": "chef-d'œuvre", "type": 1, "weight": 25}, "89926": {"name": "chef", "type": 1, "weight": 10001}, "144938": {"name": "oeuvre", "type": 1, "weight": 4663}}, "relations": [{"node1": 14927620, "node2": 89926, "type": 6, "weight": 51.0}, {"node1": 14927620, "node2": 144938, "type": 6, "weight": 35.0}]}

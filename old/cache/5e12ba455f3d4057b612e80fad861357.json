@@ -1,0 +1,1 @@
+{"nodes": {"542": {"name": "État", "type": 1, "weight": 11464}, "10596354": {"name": "État du Saint-Empire romain germanique", "type": 1, "weight": 25}}, "relations": [{"node1": 10596354, "node2": 542, "type": 6, "weight": 25.0}]}

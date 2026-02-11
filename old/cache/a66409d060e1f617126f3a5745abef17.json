@@ -1,0 +1,1 @@
+{"nodes": {"15499718": {"name": "culture fourragère", "type": 1, "weight": 25}, "152488": {"name": "Culture", "type": 1, "weight": 6188}, "22885": {"name": "culture", "type": 1, "weight": 54951}}, "relations": [{"node1": 15499718, "node2": 22885, "type": 6, "weight": 28.0}, {"node1": 15499718, "node2": 152488, "type": 6, "weight": 15.0}]}

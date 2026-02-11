@@ -1,0 +1,1 @@
+{"nodes": {"36757": {"name": "syntagme", "type": 1, "weight": 1796}, "84248": {"name": "constituant", "type": 1, "weight": 2583}}, "relations": [{"node1": 36757, "node2": 84248, "type": 6, "weight": 27.0}]}

@@ -1,0 +1,1 @@
+{"nodes": {"2587": {"name": "intoxication", "type": 1, "weight": 542}, "219059": {"name": "intoxication>51851", "type": 1, "weight": 98}, "109453": {"name": "intoxication aiguë", "type": 1, "weight": 67}}, "relations": [{"node1": 109453, "node2": 2587, "type": 6, "weight": 185.0}, {"node1": 109453, "node2": 219059, "type": 6, "weight": 227.0}]}

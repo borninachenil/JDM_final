@@ -1,0 +1,1 @@
+{"nodes": {"214202824": {"name": "flan parisien", "type": 1, "weight": 25}, "25966": {"name": "pâtisserie", "type": 1, "weight": 3523}, "9122": {"name": "flan", "type": 1, "weight": 133}}, "relations": [{"node1": 214202824, "node2": 9122, "type": 6, "weight": 25.0}, {"node1": 214202824, "node2": 25966, "type": 6, "weight": 15.0}]}

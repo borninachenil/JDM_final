@@ -1,0 +1,1 @@
+{"nodes": {"94160": {"name": "existence", "type": 1, "weight": 17602}, "121639": {"name": "présence", "type": 1, "weight": 9752}, "325186": {"name": "existence>118321", "type": 1, "weight": 54}}, "relations": [{"node1": 121639, "node2": 94160, "type": 6, "weight": 26.0}, {"node1": 121639, "node2": 325186, "type": 6, "weight": 26.0}]}

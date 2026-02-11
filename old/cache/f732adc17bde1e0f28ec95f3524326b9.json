@@ -1,0 +1,1 @@
+{"nodes": {"6821497": {"name": "en:abdominal symptom", "type": 1, "weight": 25}, "6904146": {"name": "en:abdominal", "type": 1, "weight": 25}, "6806623": {"name": "en:sign or symptom", "type": 1, "weight": 25}}, "relations": [{"node1": 6821497, "node2": 6806623, "type": 6, "weight": 34.0}, {"node1": 6821497, "node2": 6904146, "type": 6, "weight": 25.0}]}

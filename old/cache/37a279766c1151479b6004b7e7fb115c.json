@@ -1,0 +1,1 @@
+{"nodes": {"6862598": {"name": "en:general qualifier", "type": 1, "weight": 25}, "65231": {"name": "inadéquat", "type": 1, "weight": 110}}, "relations": [{"node1": 65231, "node2": 6862598, "type": 6, "weight": 39.0}]}

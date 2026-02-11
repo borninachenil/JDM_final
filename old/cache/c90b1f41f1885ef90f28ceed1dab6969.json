@@ -1,0 +1,1 @@
+{"nodes": {"16168925": {"name": "corps céleste plasmatique", "type": 1, "weight": 25}, "74846": {"name": "corps", "type": 1, "weight": 16806}, "56100": {"name": "corps céleste", "type": 1, "weight": 165}}, "relations": [{"node1": 16168925, "node2": 56100, "type": 6, "weight": 26.0}, {"node1": 16168925, "node2": 74846, "type": 6, "weight": 26.0}]}

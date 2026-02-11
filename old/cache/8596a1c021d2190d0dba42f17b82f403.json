@@ -1,0 +1,1 @@
+{"nodes": {"142537": {"name": "cercle", "type": 1, "weight": 5079}, "3446445": {"name": "cercle de", "type": 777, "weight": 25}, "32408": {"name": "vertical", "type": 1, "weight": 1267}}, "relations": [{"node1": 32408, "node2": 142537, "type": 6, "weight": 34.0}, {"node1": 32408, "node2": 3446445, "type": 6, "weight": 85.0}]}

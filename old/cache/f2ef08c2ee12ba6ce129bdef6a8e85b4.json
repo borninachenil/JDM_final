@@ -1,0 +1,1 @@
+{"nodes": {"274218347": {"name": "accumulation de valeur", "type": 1, "weight": 25}, "90715": {"name": "accumulation", "type": 1, "weight": 702}, "15023571": {"name": "accumulation de", "type": 1, "weight": 25}}, "relations": [{"node1": 274218347, "node2": 90715, "type": 6, "weight": 25.0}, {"node1": 274218347, "node2": 15023571, "type": 6, "weight": 25.0}]}

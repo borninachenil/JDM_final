@@ -1,0 +1,1 @@
+{"nodes": {"3304794": {"name": "organes végétaux", "type": 1, "weight": 25}, "149413": {"name": "organes", "type": 1, "weight": 3297}, "15328042": {"name": "en:organa", "type": 1, "weight": 25}}, "relations": [{"node1": 3304794, "node2": 149413, "type": 6, "weight": 52.0}, {"node1": 3304794, "node2": 15328042, "type": 6, "weight": 25.0}]}

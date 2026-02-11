@@ -1,0 +1,1 @@
+{"nodes": {"50308643": {"name": "partie de l'entablement", "type": 1, "weight": 25}, "3233": {"name": "partie", "type": 1, "weight": 12812}, "47503": {"name": "architrave", "type": 1, "weight": 57}}, "relations": [{"node1": 47503, "node2": 3233, "type": 6, "weight": 44.0}, {"node1": 47503, "node2": 50308643, "type": 6, "weight": 41.0}]}

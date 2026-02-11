@@ -1,0 +1,1 @@
+{"nodes": {"276096": {"name": "_INFO-WIKI-YES", "type": 36, "weight": 50}, "279693": {"name": "kasbah", "type": 777, "weight": 64}, "251716": {"name": "_INFO-MONOSEMIC", "type": 36, "weight": 50}}, "relations": [{"node1": 279693, "node2": 251716, "type": 36, "weight": 28.0}, {"node1": 279693, "node2": 276096, "type": 36, "weight": 25.0}]}

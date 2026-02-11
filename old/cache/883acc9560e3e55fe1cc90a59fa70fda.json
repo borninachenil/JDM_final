@@ -1,0 +1,1 @@
+{"nodes": {"214221521": {"name": "plat du sud-ouest", "type": 1, "weight": 25}, "36327": {"name": "plat", "type": 1, "weight": 5139}}, "relations": [{"node1": 214221521, "node2": 36327, "type": 6, "weight": 25.0}]}
