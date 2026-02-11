@@ -1,4 +1,4 @@
-executer le code : 
+executer le code : <br>
 selon votre version  entrer dans le terminal: 
 python3 main.py ou python main.py
 une fois l'apprentissage terminé (relativement long la première fois) -> écrire les relations à tester
