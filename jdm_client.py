@@ -1,4 +1,3 @@
-"""Client API JeuxDeMots avec cache disque."""
 import json
 import os
 import time
@@ -8,8 +7,9 @@ import urllib.parse
 import urllib.request
 
 from config import JDM_API_BASE, API_RATE_LIMIT, API_REQUEST_LIMIT, CACHE_DIR
-
-
+# appels D'API avec Cache retry et limite temps d'appel
+# 36 : types_sémantiques 
+# 6 : r_isa
 class JDMClient:
     def __init__(self, cache_dir=CACHE_DIR):
         self.cache_dir = cache_dir
@@ -127,7 +127,7 @@ class JDMClient:
                 if node_id in nodes:
                     result[nodes[node_id]["name"]] = rel["weight"]
         return result
-
+    # info_sem
     def get_infosem(self, word):
         data = self.get_relations(word, types_ids=36, min_weight=1)
         nodes = data["nodes"]

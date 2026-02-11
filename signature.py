@@ -25,7 +25,7 @@ class Signature:
 class SignatureExtractor:
     def __init__(self, jdm_client, max_hyperonyms=20):
         self.client = jdm_client
-        self.max_hyperonyms = max_hyperonyms # On pourrait tweak la val pour voir 
+        self.max_hyperonyms = max_hyperonyms # On pourrait tweak la val pour voir. Cependant augmenter le nombre pourrait réduire la discrimination du scoring 
         self._cache = {}
 
     def extract(self, word):

@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-Projet "A de B" - Analyseur Semantique
-HAI922 - TALN 2
-
-Pipeline principal : chargement, prefetch JDM, apprentissage, evaluation, mode interactif.
-"""
 import sys
 import time
 from config import LEARN_DIR, CACHE_DIR, RELATION_LABELS, TRAIN_RATIO
@@ -120,6 +113,7 @@ def main():
     train_time = time.time() - start
     print(f"  Apprentissage termine en {train_time:.1f}s")
 
+    # actuellement cassé
     #Etape 5 : Evaluation
     #print("\n 5 Evaluation...")
     #start = time.time()
@@ -132,7 +126,7 @@ def main():
 
     # Resume des temps
     print(f"  Prefetch JDM : {prefetch_time:.1f}s")
-    print(f"  Apprentissage : {train_time:.1f}s")
+    #print(f"  Apprentissage : {train_time:.1f}s")
     #print(f"  Evaluation ({len(test)} ex.) : {eval_time:.1f}s")
     #print(f"  Temps inference moyen : {eval_time/len(test)*1000:.0f}ms")
 

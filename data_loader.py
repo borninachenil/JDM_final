@@ -1,5 +1,3 @@
-"""Chargement du corpus et split train/test."""
-
 import json
 import os
 import random
@@ -22,7 +20,7 @@ def load_corpus(learn_dir=LEARN_DIR):
                 corpus.append((a, b, relation_type))
     return corpus
 
-# split 80/20
+# split 80/20 ( Inutile actuellement, fait juste perdre 20% de notre jeu de données, on l'utilisait pour la partie d'évaluation)
 def split_train_test(corpus, train_ratio=TRAIN_RATIO, seed=RANDOM_SEED):
     rng = random.Random(seed)
 

@@ -1,13 +1,11 @@
-"""Configuration du projet A de B - Analyseur Semantique."""
-
-# === API JeuxDeMots ===
+# Paramètres 
+# URL API
 JDM_API_BASE = "https://jdm-api.demo.lirmm.fr/v0"
 
-# === Chemins ===
+#Chemins
 LEARN_DIR = "Learn/"
 CACHE_DIR = "cache/"
 
-# === IDs des types de relations JDM utilises pour la classification ===
 # Mapping : nom du fichier corpus -> ID de la relation JDM correspondante
 RELATION_TYPES = {
     "r_has_causatif": 42,       # Consequence (Co)
@@ -27,7 +25,7 @@ RELATION_TYPES = {
     "r_product_of": 54,         # Auteur/Createur (AC)
 }
 
-# Noms lisibles pour l'affichage
+# pour l'affichage 
 RELATION_LABELS = {
     "r_has_causatif": "Consequence (Co)",
     "r_has_property-1": "Caracterisation (Ca)",
@@ -84,8 +82,8 @@ TRT_RELATION_IDS = [
     172,  # r_depict
 ]
 
-# === Parametres GRASP-it ===
-TRAIN_RATIO = 0.8       # Ratio train/test
+# paramètres utilisés 
+TRAIN_RATIO = 0.8
 RANDOM_SEED = 42
 API_RATE_LIMIT = 0.05   # Secondes entre les appels API (50ms)
 API_REQUEST_LIMIT = 200  # Nombre max de relations par requete
